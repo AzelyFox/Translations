@@ -1,0 +1,217 @@
+<Database>
+	<GameDBStringTable ID="LOC_KR_ADDON_OTOR_DIAGNOSES">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+	<Name>아린</Name>
+	<Name>LimeCake</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Diagnoses -->
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_CSP</LocID>                         
+		<Text>만성부비동염 (용종 동반)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_CSP_DESCRIPTION</LocID>             
+		<Text>만성 부비동염은 3개월 이상 부비동에 염증이 생기는 증상으로, 알레르기 등으로 인해 유발될 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_SPT</LocID>                         
+		<Text>패혈성 인두염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_SPT_DESCRIPTION</LocID>             
+		<Text>일종의 박테리아(A군 연쇄상구균)에 의해 생기는 감염이다. 연쇄상구균 박테리아는 거의 모든 인후염의 3분의 1을 유발한다. 이는 보통 항생제 치료가 필요합니다.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_HFM</LocID>                         
+		<Text>손발입병</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_HFM_DESCRIPTION</LocID>             
+		<Text>HFMD라고도 볼리는 손발입병은 특정 바이러스에 의해 발생하는 감염입니다. 일반적으로 열과 좋지 않은 컨디션으로 시작됩니다. 이것은 하루나 이틀 후에 손, 발, 입에 물집이 생길 수 있는 평평한 변색된 반점이나 돌기가 뒤따릅니다. 이 병에 대한 치료는 없고 병이 끝날 때까지 증상을 치료하는 것으로 대체됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_CSN</LocID>                         
+		<Text>만성부비동염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_CSN_DESCRIPTION</LocID>             
+		<Text>만성 부비동염은 3개월 이상 부비동에 염증이 생기는 증상으로, 알레르기 등으로 인해 유발될 수 있습니다. 이 경우 코 식염수 스프레이가 치료법입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_ASN</LocID>                         
+		<Text>알레르기성 부비동염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_ASN_DESCRIPTION</LocID>             
+		<Text>부비동에 염증이 생기는 증상으로, 알레르기로 인해 발생한 경우 이때 치료제는 항히스타민제입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_ENS</LocID>                         
+		<Text>빈 코 증후군</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_ENS_DESCRIPTION</LocID>             
+		<Text>빈 코 증후군은 비갑개 관련 수술 시행 시 과도한 절제나 축소로 인해 코의 생리적 기능이 손상된 것을 의미한다. 보통 비강 폐쇄 느낌, 코 건조증 및 코로 숨쉬기 어려움을 느끼게 된다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_MED</LocID>                         
+		<Text>메니에르 병(안정)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_MED_DESCRIPTION</LocID>             
+		<Text>메니에르 병은 내이 장애로서, 현기증이나 청력 상실로 이어질 수 있습니다. 대부분의 경우 메니에르 병은 한쪽 귀에만 영향을 미칩니다. 이는 모든 연령대에서 발생할 수 있지만, 청년과 중년 때 주로 시작됩니다. 만성 질환이지만 다양한 치료로 완화하고 증상을 최소화 할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_SED</LocID>                         
+		<Text>메니에르 병 (위험)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_SED_DESCRIPTION</LocID>             
+		<Text>메니에르 병은 내이 장애로서, 현기증이나 청력 상실로 이어질 수 있습니다. 대부분의 경우 메니에르 병은 한쪽 귀에만 영향을 미칩니다. 이는 모든 연령대에서 발생할 수 있지만, 청년과 중년 때 주로 시작됩니다. 만성 질환이지만 다양한 치료로 완화하고 증상을 최소화 할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_GRD</LocID>                         
+		<Text>위식도역류병</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_GRD_DESCRIPTION</LocID>             
+		<Text>GERD라고도 불리는 위식도역류병은, 위 식도 하부 괄약근의 수축력 약화로 인해 위의 내용물과 위산이 거꾸로 올라와 속쓰림 등의 증상이 나타나게 되는 병입니다. 이는 식도염이나 식도암을 발생시킬 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_OSA</LocID>                         
+		<Text>폐쇄수면무호흡</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_OSA_DESCRIPTION</LocID>             
+		<Text>폐쇄수면무호흡증은 가장 일반적인 유형의 수면 무호흡증입니다. 환자의 호흡 노력에도 불구하고 수면중 기도의 일부 폐쇄가 반복되기에, 혈액 산소 포화도 감소와도 관련되어 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_MEDR</LocID>                         
+		<Text>고막파열</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_MEDR_DESCRIPTION</LocID>             
+		<Text>귀와 중이를 분리하는 얇은 조직인 고막이 구멍이 나거나 찢어진 것입니다. 이는 청력 손실로 이어질 뿐만 아니라, 중이염을 감염에 취약하게도 만듭니다. 파열된 고막은 보통 몇 주에 걸쳐 회복되지만, 때때로 외과적 수술이나 패치 등이 필요할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_SEDR</LocID>                         
+		<Text>치료되지 않은 고막파열</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_SEDR_DESCRIPTION</LocID>             
+		<Text>귀와 중이를 분리하는 얇은 조직인 고막이 구멍이 나거나 찢어진 것입니다. 이는 청력 손실로 이어질 뿐만 아니라, 중이염을 감염에 취약하게도 만듭니다. 파열된 고막은 보통 몇 주에 걸쳐 회복되지만, 때때로 외과적 수술이나 패치 등이 필요할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_NAR</LocID>                         
+		<Text>비알레르기성 비염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_NAR_DESCRIPTION</LocID>             
+		<Text>비알레르기성 비염은 만성적인 재채기나 흐르는 콧물 증상이 동반됩니다. 이는 건초열인 알레르기성 비염의 증상과 비슷하지만, 알레르기 반응이 전혀 없다는 점이 차이점입니다. 코와 부비동에 염증을 유발하며 심한 경우 코점막에서 용종이라 불리우는 물주머니가 자라나 코 호흡을 막기도 하여, 결국 냄새를 맡지 못하게 되기도 합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>TRM_JM_LYC</LocID>                         
+		<Text>둔기 후두외상</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>TRM_JM_LYC_DESCRIPTION</LocID>             
+		<Text>후두외상은 성대가 위치한 기도의 윗부분인 후두에 손상이 간 것을 의미한다. 작은 성대 손상부터 후두 또는 기관의 연골 골절에 이르기까지 다양하다. 이러한 골절은 목과 가슴으로 공기가 빠져 나가게 하므로 빠른 진단 및 치료가 없으면 호흡기 손상과 사망으로 이어진다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>TRM_JM_LYL</LocID>                         
+		<Text>후두외상</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>TRM_JM_LYL_DESCRIPTION</LocID>             
+		<Text>후두외상은 성대가 위치한 기도의 윗부분인 후두에 손상이 간 것을 의미한다. 작은 성대 손상부터 후두 또는 기관의 연골 골절에 이르기까지 다양하다. 이러한 골절은 목과 가슴으로 공기가 빠져 나가게 하므로 빠른 진단 및 치료가 없으면 호흡기 손상과 사망으로 이어진다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_CLA</LocID>                         
+		<Text>진주종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_CLA_DESCRIPTION</LocID>             
+		<Text>진주종은 만성 중이염에서 골파괴를 유발하여 임상적으로 난청, 현기증, 안면신경 마비와 두개내 합병증을 유발하는 중요한 원인으로 알려져 있다. 대개 재발되는 감염으로 인해 고막의 피부가 안으로 자라 들어가서 발생하게 되는데, 이 피부층을 벗기면 그 속에 낭종 같은 형태의 진주빛 하얀 덩어리들이 존재한다. 시간이 지남에 따라 이것들은 크기가 커지면서 중이내의 미세한 뼈들을 파괴시킬 수 있다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_LGP</LocID>                         
+		<Text>후두유두종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_LGP_DESCRIPTION</LocID>             
+		<Text>후두유두종은 흔히 보이는 사마귀가 후두에 발생한 것으로서, 후두상피가 유두상으로 증식되고 그 사이사이에 혈관이 풍부한 결체조직으로 대체되는 것이다. 후두 모든 부위와 기관, 기관지, 인두에까지 발생이 가능하며, 다발성으로 나타날 경우 재발 가능성 또한 높다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_VCN</LocID>                         
+		<Text>성대 결절</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_VCN_DESCRIPTION</LocID>             
+		<Text>지속적인 음성 남용이나 무리한 발성에 의해 생기게 되는, 성대에 비종양적 결절이 성장하는 것으로서 결절의 크기는 다양하다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_APX</LocID>                         
+		<Text>아나필락시스</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_JM_APX_DESCRIPTION</LocID>             
+		<Text>아나필락시스는 땅콩이나 벌침, 혹은 다른 요인에 의해 기도가 좁아져 호흡이 차단되고, 피부 발진이나 메스꺼움, 구토 등의 증상을 일으키는 알레르기 반응이다. 에피네프린 주사와 응급 조치가 필요하며, 즉시 치료하지 않으면 치명적일 수 있다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_SWE</LocID>                         
+		<Text>심한 중이염</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_JM_GEE</LocID>                         
+		<Text>삼출성 중이염</Text>	
+		</GameDBLocalizedString>
+		
+
+		
+		 
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

@@ -1,0 +1,154 @@
+<Database>
+	<GameDBStringTable ID="LOC_KR_ADDON_OTOR_TREATMENTS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+	<Name>아린</Name>
+	<Name>LimeCake</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Treatments -->
+		
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FESS</LocID>                                    	
+	<Text>내시경 부비동수술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FESS_DESCRIPTION</LocID>                        	
+	<Text>기능성 내시경 부비동수술은 비강 내시경을 이용하여 최소 침습적 외과 치료법입니다. 이는 만성 비염을 포함한 염증성 및 전염성 부비동 질환을 치료하는데 주로 사용됩니다. \n\n필요한 방: 이비인후과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_TYPT</LocID>                                    	
+	<Text>고실성형술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_TYPT_DESCRIPTION</LocID>                        	
+	<Text>고막성형술이라고도 불리며, 이는 천공된 고막 또는 중이의 뼈를 재구성하기위해 수행되는 수술을 의미합니다. \n\n필요한 방: 이비인후과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_MTDY</LocID>                                    	
+	<Text>유돌절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_MTDY_DESCRIPTION</LocID>                        	
+	<Text>유돌절제술은 귀 뒤에 위치한 두개골 부분인 유골의 공기 세포를 제거하는 수술입니다. \n\n필요한 방: 이비인후과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_VNS</LocID>                                    	
+	<Text>전정신경 절단술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_VNS_DESCRIPTION</LocID>                        	
+	<Text>전정신경 절단술은 달팽이관 두개골 신경의 전중 부분을 절단하는 수술입니다. 이는 일반적으로 현기증의 재발을 방지하기 위해 수행됩니다. \n\n필요한 방: 이비인후과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>배농술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_ADNO</LocID>                                    	
+	<Text>아데노이드절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_ADNO_DESCRIPTION</LocID>                        	
+	<Text>아데노이드 절제술은 비강 뒤에 위치하는 림프 조직 덩어리인 아데노이드를 제거하기 위한 수술입니다. \n\n필요한 방: 이비인후과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_LOTS</LocID>                                    	
+	<Text>후두기관재건술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_LOTS_DESCRIPTION</LocID>                        	
+	<Text>후두기관 재건술은 호흡을 돕기 위해 기관을 넓힙니다. 이는 기관 절개 튜브나 호흡 관 수술의 안전한 대안이 될 수 있는 수술입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_CDLS</LocID>                                    	
+	<Text>이산화탄소레이저 수술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_CDLS_DESCRIPTION</LocID>                        	
+	<Text>이산화탄소레이저는 매우 효율적인 연속파 레이저로서 적외선 빔을 생성하는데, 이를 이용한 수술입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY</LocID>                                    	
+	<Text>음성 치료</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY_DESCRIPTION</LocID>                        	
+	<Text>음성 치료는 말하기와 관련된 라이프스타일과 습관의 변화를 위해 고안된 프로그램입니다. 음성 치료는 유해한 발성 행동을 제거하고 건강하고 안전한 발성을 형성하게 해주며 성대 상처 치유를 위한 다양한 작업으로 구성됩니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>배농술은 피부 아래에 쌓인 체액, 고름 또는 압력을 제거하기 위해 절개 후 방출시키는 작은 수술입니다.\n\n필요한 방: 이비인후과의 진료실 / 치료실 / 집중치료실</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY</LocID>                        	
+	<Text>비염 스프레이</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>코를 세척하고 코로의 호흡을 개선시키는 데 도움을 주는 코 스프레이입니다. \n\n필요한 방: 이비인후과의 진료실 / 치료실 / 집중치료실</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP</LocID>                        	
+	<Text>지속기도양압기</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP_DESC</LocID>                                    	
+	<Text>지속성 기도 양압기는 중증 폐쇄성 수면 무호흡증에 효과적인 치료 기구입니다. \n\n필요한 방: 이비인후과의 진료실 / 치료실 / 집중치료실</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS</LocID>                        	
+	<Text>제산제</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS_DESC</LocID>                                    	
+	<Text>제산제는 위 산도를 중화시키고 속쓰림, 소화불량, 배탈을 완화시키는 데 사용되는 물질입니다. \n\n필요한 방: 이비인후과의 진료실 / 치료실 / 집중치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION</LocID>                        	
+	<Text>기관내 삽관</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION_DESCRIPTION</LocID>                                    	
+	<Text>튜브를 입을 통해 기도로 삽입하여 마취나 투병 중에 호흡을 돕도록 합니다. \n\n필요한 방: 이비인후과의 진료실 / 치료실 / 집중치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>                        	
+	<Text>항히스타민제 IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESCRIPTION</LocID>                                    	
+	<Text>항히스타민제의 정맥 IV 보충제입니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
