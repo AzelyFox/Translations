@@ -1,10 +1,27 @@
-# LimeCake Korean Translations
+<h1 align="center">
+  <img src="https://avatars0.githubusercontent.com/u/8467374?s=460&u=ea678b20ca38617c9146fdb2e925b52fbbda1e2c&v=4" alt="StarryCake" width="240">
+  <br>
+  <p>LimeCake Korean Translations</p>
+</h1>
 
-Game&Program Korean Translations
+<p align="center">
+    <a href="#license">
+        <img src="https://img.shields.io/github/license/LIMECAKE/SAT-COUNTER?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/SAT-COUNTER/issues">
+        <img src="https://img.shields.io/badge/SUPPORT-LIVE-green?style=flat-square" />
+    </a>
+</p>
+
+<p align="center">
+Game&Program Korean Translations Repository by LimeCake
+</p>
 
 ## Translated
 
 [GAME MOD / Project Hospital / ENT Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1998013270)
 
-
 [GAME MOD / Project Hospital / Oncology Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1938136264)
+
+## License
+[Apache](LICENSE) © 2020 LimeCake <limecake23@gmail.com>
