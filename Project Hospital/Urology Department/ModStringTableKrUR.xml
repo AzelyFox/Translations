@@ -1,0 +1,19 @@
+<Database>
+	<GameDBStringTable ID="ADDON_MOD_URKN">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+	<Name>LimeCake</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      
+	<LocID>ADDON_MOD_URKN</LocID>                       	
+	<Text>비뇨기과</Text>  
+	</GameDBLocalizedString>
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

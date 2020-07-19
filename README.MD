@@ -19,9 +19,11 @@ Game&Program Korean Translations Repository by LimeCake
 
 ## Translated
 
-[GAME MOD / Project Hospital / ENT Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1998013270)
+[GAME MOD / Project Hospital / ENT Department](/Project%20Hospital/ENT%20Department)
 
-[GAME MOD / Project Hospital / Oncology Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1938136264)
+[GAME MOD / Project Hospital / Oncology Department](/Project%20Hospital/Oncology%20Department)
+
+[GAME MOD / Project Hospital / Urology Department](/Project%20Hospital/Urology%20Department)
 
 ## License
 [Apache](LICENSE) © 2020 LimeCake <limecake23@gmail.com>

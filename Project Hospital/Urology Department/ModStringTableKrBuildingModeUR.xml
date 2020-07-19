@@ -1,0 +1,50 @@
+<Database>
+
+<GameDBStringTable ID="LOC_KR_ADDON_UR_BUILDING_MODE">
+<LanguageCode>kr</LanguageCode>
+<LanguageNameLocalized>한국어</LanguageNameLocalized>
+<Contributors>
+<Name>LimeCake</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_UR</LocID>       			
+		<Text>비뇨기과</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>벽 장식</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE</LocID>                          	
+		<Text>진료실(비뇨기과)</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE_DESC</LocID>              	
+		<Text>비뇨기과를 전문으로 하는 의사의 진료실.\n\n반드시 필요한 직원: \n의사 x1</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE</LocID>                          	
+		<Text>진료실(신장학과)</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE_DESC</LocID>              	
+		<Text>신장학과 전문으로 하는 의사의 진료실.\n\n반드시 필요한 직원: \n의사 x1</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD</LocID>                          	
+		<Text>투석실</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD_DESC</LocID>              	
+		<Text>투석이 필요한 비뇨기과 환자들을 위한 공간입니다.\n\n반드시 필요한 직원: \n의사 x1, 간호사 x1 \n(의국 및 간호사실 필요)</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

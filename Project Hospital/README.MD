@@ -4,7 +4,8 @@
 
 ## Translated
 
-[MOD / Ear, Nose and Throat Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1998013270)
+[MOD / Ear, Nose and Throat Department](/Project%20Hospital/ENT%20Department)
 
+[MOD / Oncology Department](/Project%20Hospital/Oncology%20Department)
 
-[MOD / Oncology Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1938136264)
+[MOD / Urology Department](/Project%20Hospital/Urology%20Department)
