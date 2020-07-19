@@ -42,7 +42,67 @@
 		<Text>특정 초음파 기반 검사와 치료를 제공. \n\n직원 요구 사항: \n1x 의료기사 - 초음파 기사</Text>  
 	</GameDBLocalizedString>
             
-
+	<!-- Objects for ENT Version 0.5.2.2 V -->
+   
+   	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT</LocID>                       	
+	<Text>이비인후과 장식</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</LocID>                       	
+	<Text>벽 장식</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO</LocID>                       	
+	<Text>대나무</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO_DESC</LocID>                       	
+	<Text>장식입니다</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER</LocID>                       	
+	<Text>COVID-19 포스터</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER_DESC</LocID>                       	
+	<Text>장식입니다</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER</LocID>                       	
+	<Text>패혈성 인두염 포스터</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER_DESC</LocID>                       	
+	<Text>장식입니다</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF</LocID>                       	
+	<Text>빈 선반</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF_DESC</LocID>                       	
+	<Text>장식입니다</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF</LocID>                       	
+	<Text>선반</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>                       	
+	<Text>장식입니다</Text>  
+	</GameDBLocalizedString>
 
 </LocalizedStrings>
 </GameDBStringTable>

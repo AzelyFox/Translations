@@ -23,7 +23,7 @@
 	</GameDBLocalizedString>
 			
     <GameDBLocalizedString>      
-		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<LocID>OBJECT_DECAL_ONCO_DESC</LocID>       
 		<Text>벽 장식</Text>  
 	</GameDBLocalizedString>
 	
