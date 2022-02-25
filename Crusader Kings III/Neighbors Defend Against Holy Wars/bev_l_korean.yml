@@ -2,5 +2,5 @@
   #
   crusade_visibility.0001.title:0 "[target_kingdom.GetNameNoTierNoTooltip] 목표 [the_faith.GHWName]"
   crusade_visibility.0001.desc:0 "[ghw_sponsor.GetTitledFirstName]의 군대에 의해 소집된 [the_faith.GetAdjectiveNoTooltip] 영주들이 [target_kingdom.GetNameNoTierNoTooltip]의 [the_faith.ReligiousSymbol]에 대항합니다. 더욱 더 많은 [the_faith.ReligiousSymbol] 신도들이 그들에 땅에 찾아온 전쟁에 대항합니다."
-  crusade_visibility.0071.uninvolved.desc:0 "[attacker.GetTitledFirstName] 가 모든 [attacker.GetFaith.GetAdherentNamePlural]들을 [attacker.GetFaith.GHWName]에 호출하였습니다. 한 깃발 아래 뭉친 그들은 [target_kingdom.GetNameNoTier]에서 위대한 [the_faith.WarGodName]의 영광을 도모합니다."
+  crusade_visibility.0071.uninvolved.desc:0 "[attacker.GetTitledFirstName]가 모든 [attacker.GetFaith.GetAdherentNamePlural]들을 [attacker.GetFaith.GHWName]에 호출하였습니다. 한 깃발 아래 뭉친 그들은 [target_kingdom.GetNameNoTier]에서 위대한 [the_faith.WarGodName]의 영광을 도모합니다."
   crusade_visibility.0071.e:0 "흥미롭군..."
