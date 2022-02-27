@@ -1,7 +1,7 @@
 ﻿l_korean:
- CONVERT_RELIGION_WAR:0 "[TITLE.GetBaseName] 의 통치자에 대한 [cb_convert_religion|E] 성전"
- CONVERT_RELIGION_WAR_NAME:0 "[TITLE.GetBaseName] 의 통치자에 대한 [cb_convert_religion|E] 성전"
+ CONVERT_RELIGION_WAR:0 "[TITLE.GetBaseName]의 영주에 대한 [cb_convert_religion|E] 성전"
+ CONVERT_RELIGION_WAR_NAME:0 "[TITLE.GetBaseName]의 영주에 대한 [cb_convert_religion|E] 성전"
  game_concept_cb_convert_religion:0 "종교 개종 요구"
- game_concept_cb_convert_religion_desc:0 "$game_concept_cb_convert_religion$ 는 한 [faith|E]의 [ruler|E]가 다른 종교의 통치자를 상대로 하는 특수한 [war|E] 종류입니다.\n\n$game_concept_cb_convert_religion$의 승자는 영토를 가지지는 못하지만, 해당 통치자에게 자신의 종교 개종을 강요할 수 있습니다. 해당 통치자의 봉신들은 같이 개종될 가능성이 있습니다. 방어자의 종교와 같은 종교의 구성원들은 [alliance|E]상태가 아니라도 참전할 수도 있습니다..\n\n성전은 다른 [religious_families|E] 사이에서 허용되거나 제한될 수 있습니다."
- cb_convert_religion_war_victory_desc:0 "[title|E] 범위 안에서,[defender.GetFaith.GetAdjective]인 모든 작위 통치자들은 [attacker.GetFaith.GetAdjective]로 개종됩니다."
- CB_CONVERT_RELIGION_TITLE:0 "[THIS.GetLandedTitle.GetBaseName]의 통치자는 [attacker.GetFaith.GetAdjective]로 개종될 것입니다. 영토와는 관련이 없습니다."
+ game_concept_cb_convert_religion_desc:0 "$game_concept_cb_convert_religion$는 한 [faith|E]의 [ruler|E]가 다른 종교의 영주를 상대로 하는 특수한 [war|E] 종류입니다.\n\n$game_concept_cb_convert_religion$의 승자는 영토를 가지지는 못하지만, 해당 영주에게 자신의 종교 개종을 강요할 수 있습니다. 해당 영주의 봉신들은 같이 개종될 가능성이 있습니다. 방어자의 종교와 같은 종교의 구성원들은 [alliance|E]상태가 아니라도 참전할 수도 있습니다.\n\n성전은 다른 [religious_families|E] 사이에서 허용되거나 제한될 수 있습니다."
+ cb_convert_religion_war_victory_desc:0 "[title|E] 범위 안에서,[defender.GetFaith.GetAdjective]인 모든 작위 영주들은 [attacker.GetFaith.GetAdjective]로 개종됩니다."
+ CB_CONVERT_RELIGION_TITLE:0 "[THIS.GetLandedTitle.GetBaseName]의 영주는 [attacker.GetFaith.GetAdjective]로 개종될 것입니다. 영토와는 관련이 없습니다."
