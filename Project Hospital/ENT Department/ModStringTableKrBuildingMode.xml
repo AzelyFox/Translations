@@ -19,7 +19,7 @@
 	</GameDBLocalizedString>
 	<GameDBLocalizedString>      
 		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
-		<Text>귀, 코, 목을 전문으로 하는 의사의 진료실. \n\n직원 요구 사항:\n1x 의사</Text>  
+		<Text>귀, 코, 목을 전문으로 하는 의사의 진료실. \n\n반드시 필요한 직원:\n1x 의사</Text>  
 	</GameDBLocalizedString>
 
 	<GameDBLocalizedString>
@@ -29,7 +29,7 @@
             
 	<GameDBLocalizedString>      
 		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
-		<Text>입원한 환자들을 위한 검사와 치료 절차를 제공. \n\n직원 요구 사항: \n1x 의사 \n(의국 필요)</Text>
+		<Text>입원한 환자들을 위한 검사와 치료 절차를 제공. \n\n반드시 필요한 직원: \n1x 의사 \n(의국 필요)</Text>
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -39,10 +39,52 @@
             
 	<GameDBLocalizedString>      
 		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
-		<Text>특정 초음파 기반 검사와 치료를 제공. \n\n직원 요구 사항: \n1x 의료기사 - 초음파 기사</Text>  
+		<Text>특정 초음파 기반 검사와 치료를 제공. \n\n반드시 필요한 직원: \n1x 의료기사 - 초음파 기사</Text>  
 	</GameDBLocalizedString>
-            
-	<!-- Objects for ENT Version 0.5.2.2 V -->
+
+	<!-- NEW -->
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB</LocID>
+		<Text>수면 연구실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB_DESC</LocID>
+		<Text>이비인후과의 수면 연구실은 수면 무호흡증이 있는 환자들을 위해 수면 연구를 진행합니다. \n\n반드시 필요한 직원: \n1x 의사 \n(의국 필요)</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR</LocID>
+		<Text>청력검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR_DESC</LocID>
+		<Text>이비인후과의 청력검사실은 난청이 있는 환자들을 위해 청력검사를 심도있게 진행합니다. \n\n반드시 필요한 직원: \n의료기사 - 초음파 기사 x1</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_LAB</LocID>
+		<Text>이비인후과 검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_LAB_DESC</LocID>
+		<Text>이비인후과 검사실은 일반적인 검사로는 진단이 어려운 전문 질환에 대한 특별하고 수준 높은 검사를 실행합니다. \n\n반드시 필요한 직원: \n의료 기술자-생화학x1</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT</LocID>
+		<Text>이비인후과 내시경실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT_DESC</LocID>
+		<Text>이비인후과 내시경실은 환자의 귀,코,목 등에 종양이나 이상이 있는지 확인할 수 있는 내시경과 첨단 생체검사를 제공합니다. \n\n반드시 필요한 직원: \n의료 기술자-생화학x1</Text>
+	</GameDBLocalizedString>
+
+	<!-- ========================= Objects for ENT Version 0.1.3.5 V ========================= -->
    
    	<GameDBLocalizedString>      
 	<LocID>ADDON_OBJECT_DECAL_ENT</LocID>                       	
@@ -102,6 +144,167 @@
 	<GameDBLocalizedString>      
 	<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>                       	
 	<Text>장식입니다</Text>  
+	</GameDBLocalizedString>
+
+	<!-- EQUIPMENT -->
+
+	<GameDBLocalizedString>
+		<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH</LocID>
+		<Text>수면다원검사</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH_DESC</LocID>
+		<Text>수면다원검사는 수면 중인 환자의 다양한 생리학적 변수를 기록하기 위해 사용되는 장치입니다. 심박수나 호흡, 뇌 기능 및 근육 활동이 기록됩니다.</Text>
+	</GameDBLocalizedString>
+
+	<!-- ========================= Prefabs for ENT Version 0.1.4.3 V ========================= -->
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>
+		<Text>이비인후과 진료실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>
+		<Text>이비인후과 진료실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_MODERN_ABBR</LocID>
+		<Text>모던 이비인후과 진료실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_SMALL_ABBR</LocID>
+		<Text>청력검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_LARGE_ABBR</LocID>
+		<Text>청력검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_SMALL_ABBR</LocID>
+		<Text>검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_LARGE_ABBR</LocID>
+		<Text>검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_MODERN_ABBR</LocID>
+		<Text>모던 검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_SMALL_ABBR</LocID>
+		<Text>화장실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_ABBR</LocID>
+		<Text>화장실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_COMMON_ROOM_ABBR</LocID>
+		<Text>휴게실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_CLEANING_CLOSET_ABBR</LocID>
+		<Text>청소 도구실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_SMALL_OT_ABBR</LocID>
+		<Text>의국</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_LARGE_OT_ABBR</LocID>
+		<Text>의국</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_NURSES_STATION_SMALL_OT_ABBR</LocID>
+		<Text>간호사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_NURSES_STATION_LARGE_OT_ABBR</LocID>
+		<Text>간호사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_SMALL_ABBR</LocID>
+		<Text>High dependency unit</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_LARGE_ABBR</LocID>
+		<Text>고도의존성 치료실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_SMALL_ABBR</LocID>
+		<Text>일반 병동</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_LARGE_ABBR</LocID>
+		<Text>일반 병동</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_SONOGRAPHY_UNIT_OT_ABBR</LocID>
+		<Text>초음파 검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_SLEEP_LAB_OT_ABBR</LocID>
+		<Text>수면연구실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</LocID>
+		<Text>수술실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>PREFAB_ROOM_LOUNGE_OT_ABBR</LocID>
+		<Text>라운지</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_LAB_SMALL_ABBR</LocID>
+		<Text>이비인후과 검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_LAB_ABBR</LocID>
+		<Text>이비인후과 검사실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_ENDO_SMALL_ABBR</LocID>
+		<Text>이비인후과 내시경실</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>MOD_PREFAB_ROOM_OT_ENDO_ABBR</LocID>
+		<Text>이비인후과 내시경실</Text>
+	</GameDBLocalizedString>
+
+	<!-- Misc -->
+
+	<GameDBLocalizedString>
+		<LocID>TOOLTIP_BUILDING_PREFAB_OTORHINOLARYNGOLOGY</LocID>
+		<Text>이비인후과</Text>
 	</GameDBLocalizedString>
 
 </LocalizedStrings>

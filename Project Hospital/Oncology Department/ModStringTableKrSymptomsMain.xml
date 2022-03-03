@@ -1,0 +1,943 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_KR_ADDON_ONCOLOGYSL_SYMPTOMSMAIN">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+		<Name>LimeCake</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_1_DETECTED</LocID>
+			<Text>기저세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 징후가 없는 기저세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_2_DETECTED</LocID>
+			<Text>기저세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 징후가 없는 기저세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_3_DETECTED</LocID>
+			<Text>기저세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</LocID>
+			<Text>검사 결과 인근 림프절과 주변 조직으로 전이된 흔적이 있는 기저세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_4_DETECTED</LocID>
+			<Text>기저세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 기저세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_1_DETECTED</LocID>
+			<Text>편평세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 징후가 없는 편평세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_2_DETECTED</LocID>
+			<Text>편평세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 징후가 없는 편평세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_3_DETECTED</LocID>
+			<Text>편평세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</LocID>
+			<Text>검사 결과 인근 림프절과 주변 조직으로 전이된 흔적이 있는 편평세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_4_DETECTED</LocID>
+			<Text>편평세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</LocID>
+			<Text>본래의 발병지에서 신체의 다른 부분으로 퍼진 편평세포암이 확인되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_1_DETECTED</LocID>
+			<Text>흑색종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 징후가 없는 흑색종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_2_DETECTED</LocID>
+			<Text>흑색종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 징후가 없는 흑색종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_3_DETECTED</LocID>
+			<Text>흑색종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</LocID>
+			<Text>검사 결과 인근 림프절과 주변 조직으로 전이된 흔적이 있는 흑색종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_4_DETECTED</LocID>
+			<Text>흑색종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</LocID>
+			<Text>본래의 발병지에서 신체의 다른 부분으로 퍼진 흑색종이 확인되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC1_0_DETECTED</LocID>
+			<Text>갈색세포종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 국소적 단계의 갈색세포종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC1_1_DETECTED</LocID>
+			<Text>갈색세포종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 지역적 단계의 갈색세포종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC1_2_DETECTED</LocID>
+			<Text>갈색세포종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 갈색세포종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC_0_DETECTED</LocID>
+			<Text>비소세포폐암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 국소적 단계의 비소세포폐암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC_1_DETECTED</LocID>
+			<Text>비소세포폐암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 지역적 단계의 비소세포폐암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC_2_DETECTED</LocID>
+			<Text>비소세포폐암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 비소세포폐암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC1_0_DETECTED</LocID>
+			<Text>소세포폐암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 제한적 단계의 소세포폐암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC1_1_DETECTED</LocID>
+			<Text>소세포폐암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 확장성 단계의 소세포폐암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC1_0_DETECTED</LocID>
+			<Text>대장암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 국소적 단계의 대장암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC1_1_DETECTED</LocID>
+			<Text>대장암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 지역적 단계의 대장암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC1_2_DETECTED</LocID>
+			<Text>대장암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 대장암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC2_0_DETECTED</LocID>
+			<Text>부신암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 국소적 단계의 부신암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC2_1_DETECTED</LocID>
+			<Text>부신암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 지역적 단계의 부신암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC2_2_DETECTED</LocID>
+			<Text>부신암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 부신암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_MC001_0_DETECTED</LocID>
+			<Text>신경내분비종양 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 제한성 단계의 신경내분비종양이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_MC001_1_DETECTED</LocID>
+			<Text>신경내분비종양 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 확장성 단계의 신경내분비종양이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED</LocID>
+			<Text>Pre-B세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 Pre-B세포 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED</LocID>
+			<Text>B세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 B세포 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED</LocID>
+			<Text>만성 림프구성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_DESC</LocID>
+			<Text>검사 결과 아직은 안정 단계인 만성 림프구성 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED</LocID>
+			<Text>만성 림프구성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_DESC</LocID>
+			<Text>검사 결과 진행 단계인 만성 림프구성 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED</LocID>
+			<Text>T세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 T세포 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_3_DETECTED</LocID>
+			<Text>T세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_3_DETECTED_DESC</LocID>
+			<Text>검사 결과 T세포 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED</LocID>
+			<Text>T세포 거대과립림프구성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 T세포 거대과립림프구성백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED</LocID>
+			<Text>NK세포 거대과립림프구성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 NK세포 거대과립림프구성백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED</LocID>
+			<Text>T세포 전림프구성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 T세포 전림프구성 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED</LocID>
+			<Text>급성골수성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 급성골수성백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED</LocID>
+			<Text>만성골수성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_DESC</LocID>
+			<Text>검사 결과 만성기 단계의 만성골수성백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED</LocID>
+			<Text>만성골수성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_DESC</LocID>
+			<Text>검사 결과 진행기 단계의 만성골수성백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED</LocID>
+			<Text>만성골수성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_DESC</LocID>
+			<Text>검사 결과 증폭기 단계의 만성골수성백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC06_0_DETECTED</LocID>
+			<Text>모발상세포백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC06_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 모발상세포 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC06_1_DETECTED</LocID>
+			<Text>비전형 모발상세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC06_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 비전형 모발상세포 백혈병이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_0_DETECTED</LocID>
+			<Text>유방 관상피내암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 유방 관상피내암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED</LocID>
+			<Text>침윤성 유방암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 침윤성 유방암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_2_DETECTED</LocID>
+			<Text>전이성 유방암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이성 유방암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED</LocID>
+			<Text>모양성 성상세포종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 모양성 성상세포종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED</LocID>
+			<Text>미만성 성상세포종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 미만성 성상세포종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED</LocID>
+			<Text>역형성 성상세포종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 역형성 성상세포종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED</LocID>
+			<Text>고등급 장액성 난소암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</LocID>
+			<Text>검사 결과 고등급 장액성 난소암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED</LocID>
+			<Text>저등급 장액성 난소암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</LocID>
+			<Text>검사 결과 저등급 장액성 난소암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED</LocID>
+			<Text>교모세포종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</LocID>
+			<Text>검사 결과 교모세포종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED</LocID>
+			<Text>전립선암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</LocID>
+			<Text>검사 결과 1기에 해당하는 전립선암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED</LocID>
+			<Text>전립선암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</LocID>
+			<Text>검사 결과 1기에 해당하는 전립선암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED</LocID>
+			<Text>전립선암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</LocID>
+			<Text>검사 결과 1기에 해당하는 전립선암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED</LocID>
+			<Text>전립선암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</LocID>
+			<Text>검사 결과 1기에 해당하는 전립선암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED</LocID>
+			<Text>전이성 난소암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이성 난소암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED</LocID>
+			<Text>광범위큰B세포림프종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 광범위큰B세포림프종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED</LocID>
+			<Text>소포림프종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 소포림프종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC4_0_DETECTED</LocID>
+			<Text>메르켈 세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 국소 단계의 메르켈 세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC4_1_DETECTED</LocID>
+			<Text>메르켈 세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 메르켈 세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC09_0_DETECTED</LocID>
+			<Text>외투세포림프종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC09_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 외투세포림프종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC2_0_DETECTED</LocID>
+			<Text>대세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 대세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC3_0_DETECTED</LocID>
+			<Text>폐 선암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 초기 단계의 폐 선암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC3_1_DETECTED</LocID>
+			<Text>폐 선암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 후기 단계의 폐 선암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC4_0_DETECTED</LocID>
+			<Text>폐 편평상피세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 폐 편평상피세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC2_0_DETECTED</LocID>
+			<Text>대장 반지세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 대장 반지세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC3_0_DETECTED</LocID>
+			<Text>점액성 대장암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 혼합성인 점액성 대장암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC3_1_DETECTED</LocID>
+			<Text>점액성 대장암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 일반적인 점액성 대장암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_0M_DETECTED</LocID>
+			<Text>유방 관상피내암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED</LocID>
+			<Text>침윤성 유방암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_2M_DETECTED</LocID>
+			<Text>전이성 유방암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_0_DETECTED</LocID>
+			<Text>간세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</LocID>
+			<Text>검사 결과 초기 단계의 간세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_1_DETECTED</LocID>
+			<Text>간세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 중기 단계의 간세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_2_DETECTED</LocID>
+			<Text>간세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 말기 단계의 간세포암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_3_DETECTED</LocID>
+			<Text>전이성 간암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 간암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_V2</LocID>
+			<Text>Pre-B세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_V2</LocID>
+			<Text>B세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_V2</LocID>
+			<Text>T세포 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_V2</LocID>
+			<Text>만성 림프구성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_V2</LocID>
+			<Text>만성 림프구성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_V2</LocID>
+			<Text>T세포 거대과립림프구성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_V2</LocID>
+			<Text>NK세포 거대과립림프구성백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_V2</LocID>
+			<Text>T세포 전림프구성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_V2</LocID>
+			<Text>급성 골수성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_V2</LocID>
+			<Text>만성 골수성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_V2</LocID>
+			<Text>만성 골수성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_V2</LocID>
+			<Text>만성 골수성 백혈병 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_V2</LocID>
+			<Text>소포림프종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_V2</LocID>
+			<Text>광범위큰B세포림프종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_V2</LocID>
+			<Text>침윤성 유방암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED_V2</LocID>
+			<Text>침윤성 유방암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_MC001_1_DETECTED_V2</LocID>
+			<Text>신경내분비종양 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC3_4_DETECTED_V2</LocID>
+			<Text>흑색종 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_SC4_1_DETECTED_V2</LocID>
+			<Text>메르켈 세포암 검출</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_ORA001_1_DETECTED</LocID>
+			<Text>점액표피양암종 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 국소 단계의 점액표피양암종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_ORA001_2_DETECTED</LocID>
+			<Text>점액표피양암종 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</LocID>
+			<Text>검사 결과 전이 단계의 점액표피양암종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<!-- ### ### -->
+		<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+		<!-- ### ### -->
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED</LocID>
+			<Text>자궁경부 상피내종양 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</LocID>
+			<Text>검사 결과 자궁경부 상피내종양이 발견되었고, 저위험군이라고 판단됩니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED</LocID>
+			<Text>자궁경부 상피내종양 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</LocID>
+			<Text>검사 결과 자궁경부 상피내종양이 발견되었고, 고위험군이라고 판단됩니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED</LocID>
+			<Text>자궁경부 편평세포암종 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</LocID>
+			<Text>검사 결과 자궁경부 편평세포암종의 국소적 단계가 발견되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED</LocID>
+			<Text>자궁경부 편평세포암종 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</LocID>
+			<Text>검사 결과 자궁경부 편평세포암종의 지역적 단계가 발견되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED</LocID>
+			<Text>자궁경부 편평세포암종 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</LocID>
+			<Text>검사 결과 자궁경부 편평세포암종의 전이적 단계가 발견되었습니다.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED</LocID>
+			<Text>타액선관상피암 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_ORA002_1F_DETECTED</LocID>
+			<Text>타액선관상피암 발견</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</LocID>
+			<Text>검사 결과 타액선관상피암이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

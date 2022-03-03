@@ -15,3 +15,5 @@
 [MOD / Neighbors Defend Against Holy Wars](/Crusader%20Kings%20III/Neighbors%20Defend%20Against%20Holy%20Wars)
 
 [MOD / Prisoners of War](/Crusader%20Kings%20III/Prisoners%20of%20War)
+
+[MOD / Configurable News Feed](https://github.com/dungeonyak/ck3-configurable-news-feed)

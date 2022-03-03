@@ -14,7 +14,7 @@
 	</GameDBLocalizedString>
 	<GameDBLocalizedString>      
 		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
-		<Text>방사선 종양학을 전문으로 하는 의사의 진료실.\n\n반드시 필요한 직원: \n의사 x1</Text>
+		<Text>방사선 종양학을 전문으로 하는 의사의 진료실. 반드시 필요한 직원: \n의사 x1</Text>  
 	</GameDBLocalizedString>
 
 	<GameDBLocalizedString>      

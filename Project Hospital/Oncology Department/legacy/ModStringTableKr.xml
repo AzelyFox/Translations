@@ -3,14 +3,14 @@
 	<LanguageCode>kr</LanguageCode>
 	<LanguageNameLocalized>한국어</LanguageNameLocalized>
 	<Contributors>
-	<Name>Sleepy068</Name>
+	<Name>LimeCake</Name>
 	</Contributors>
 
 	<LocalizedStrings>
 		
 	<GameDBLocalizedString>      
 	<LocID>ADDON_MOD_ONCOLOGYSL</LocID>                       	
-	<Text>종양학과</Text>
+	<Text>종양학과</Text>  
 	</GameDBLocalizedString>
 
 	</LocalizedStrings>

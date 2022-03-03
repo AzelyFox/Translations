@@ -19,11 +19,13 @@ Game&Program Korean Translations Repository by LimeCake
 
 ## Translated
 
-[GAME TRANSLATION SUPPORT / City Game Studio](https://github.com/LIMECAKE/city-game-studio-i18n)
+[GAME TRANSLATION SUPPORT / City Game Studio](https://github.com/binogure-studio/city-game-studio-i18n)
 
 [GAME MOD / Project Hospital / ENT Department](/Project%20Hospital/ENT%20Department)
 
 [GAME MOD / Project Hospital / Oncology Department](/Project%20Hospital/Oncology%20Department)
+
+[GAME MOD / Project Hospital / Sexual Health Department](/Project%20Hospital/Sexual%20Health%20Department)
 
 [GAME MOD / Project Hospital / Urology Department](/Project%20Hospital/Urology%20Department)
 
@@ -38,6 +40,8 @@ Game&Program Korean Translations Repository by LimeCake
 [GAME MOD / Crusader Kings III / Neighbors Defend Against Holy Wars](/Crusader%20Kings%20III/Neighbors%20Defend%20Against%20Holy%20Wars)
 
 [GAME MOD / Crusader Kings III / Prisoners of War](/Crusader%20Kings%20III/Prisoners%20of%20War)
+
+[GAME MOD / Crusader Kings III / Configurable News Feed](https://github.com/dungeonyak/ck3-configurable-news-feed)
 
 ## License
 [Apache](LICENSE) © 2020 LimeCake <limecake23@gmail.com>

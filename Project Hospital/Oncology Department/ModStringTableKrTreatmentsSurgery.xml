@@ -1,0 +1,226 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_KR_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+	<Name>LimeCake</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_WIDELOCALEXCISION</LocID>                               
+	<Text>광범위국소절제술</Text>
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_WIDELOCALEXCISION_DESC</LocID>                   
+	<Text>광범위국소절제술은 건강한 주변 조직을 보존하면서 다양한 형태의 피부암을 정밀하게 제거하는 첨단 수술 기법입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>복강경 수술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>복강경 수술은 환자의 생체에 미치는 상해나 영향을 줄인 최소 침습 수술 방법의 하나로서, 복부나 흉부를 절제하는 대신 작은 구멍을 뚫고 내시경의 일종인 복강경을 집어넣어 수술하는 방식입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>폐엽 절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>폐엽 절제술은 폐의 로브를 제거하는 수술입니다. 초기 페암과 같이 병든 폐의 일부를 제거하기 위해 수행됩니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>혈관 색전술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>혈관 색전술은 침습적 수술입니다. 뇌에서 발견된 비정상적인 혈관은 물론 신체의 다른 부위도 치료할 때 쓰입니다. 혈관을 차단하여 환부로의 혈류를 차단하는, 절개 수술의 대안입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>신경 재건술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>외과적 신경 재건술은 손상된 신경 검출과 손상된 조직이나 흉터 제거를 포함합니다. 이후 신경은 높은 수준의 수술 결과와 충분한 길이가 있다면 직접적으로 다시 연결될 수 있습니다. \n\n필요한 방: 신경과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>용종 절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>용종 절제술은 대장이라고 하는 결장 내부에서 용종을 제거하기 위해 사용되는 수술입니다. 절차는 비교적 비 침습적입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>대장절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>대장절제술은 대장의 분할 절제술이나, 외과적 제거를 의미합니다. 극단적인 경우 대장 전체가 제거되는 경우도 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>부신절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>부신절제술은 하나 또는 둘 다의 부신을 수술로서 제거하는 것입니다. 보통 부신 종양이 있는 환자에게 행해진다. 개방 절개술이나 복강경술로 시술이 가능합니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SUR_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>비장절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>비장절제술은 복부의 왼쪽 상단에 있는 기관인 비장을 제거하는 수술입니다. 비장은 감염 대항을 돕고 불필요한 요소를 걸러내주는 역할을 수행하는데, 이러한 비장을 절제하는 것은 비장 비대나 일부 혈액 장애, 특정 암을 치료하는 데 사용될 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>부분 유방절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>암 조직과 그 주변의 조직을 제거하는 수술로서, 암이 흉부에 가까이 있다면 흉벽 안의 일부 조직또한 제거될 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_DEBULKING</LocID>                                    	
+	<Text>종양감축술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>종양감축술은 약물, 방사선 또는 다른 보조 수단으로 후속 치료를 보다 효과적으로 수행하고 생존율을 높이기 위해, 부분적으로 악성 종양을 제거하는 절차입니다. 암 치료를 위해서는 다른 후속 치료가 필수로 동반되어야 합니다. \n\n필요한 방: 신경과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_GTR</LocID>                                    	
+	<Text>두개골절개술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_GTR_DESC</LocID>                        	
+	<Text>이는 두개골 절개를 통해 자기공명영상을 통해 확인 가능한 모든 종양 조직을 제거하는 종합적 수술입니다. \n\n필요한 방: 신경과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>난관난소절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>난관난소절제술은 하나의 난소와 나팔관을 외과적으로 제거하는 수술을 의미하는데, 이는 생식력을 보존하고자 하는 여성을 위한 첫번째 보존 치료법으로 간주되어야 합니다. 국소 재발의 위험은 높지만, 전반적인 생존율 감소와는 관련이 없습니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_RAD_PROS</LocID>                                    	
+	<Text>근치전립선절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>근치적 전립선 절제술은 전립선, 양측 정낭, 정관 그리고 절제연 양성을 피하기 위하여 충분한 주변 조직을 함께 제거하는 기술로서, 목표는 전립선 내에 국한된 종양을 완전히 제거하고 요자제능을 보존하며 필요하다면 발기능까지 유지시키는것으로 합니다. 이는 암이 전립선으로 제한된 남성의 전립선 암을 치료할 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARATHY</LocID>                                    	
+	<Text>부갑상샘절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARATHY_DESC</LocID>                        	
+	<Text>부갑상샘 절제술은 목의 갑상선 바로 뒤에 위치하며 신체가 혈액의 칼슘 수치를 조절하도록 도와주는 부갑상선 또는 이 종양을 제거하는 수술입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>구역절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>구역절제술은 절제술의 하위 유형으로 장기 또는 조직의 일부를 제거하는 수술 절차로서, 전체 부분을 제거하는 경우도 존재합니다. 또한 종양과 그 주변의 정상적인 조직을 제거하는 데 사용될 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>간절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>간 절제술은 간을 일부 또는 전체 제거하는 외과적 절제술입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>간이식 수술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>간 이식은 더이상 제대로 기능하지 않는 간을 제거하고 사망한 공여자의 건강한 간, 또는 살아있는 공여자의 건강한 간 부분으로 대체하는 수술입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>이하선 절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>귀 아래에 존재하는, 침을 분비시키는 조직인 이하선을 절제하는 수술입니다. 볼거리라고도 불리는 이하선염이 오래 지나게 되면 악성 종양으로 바뀌게 됩니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY</LocID>                                    	
+	<Text>질 절제술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY_DESC</LocID>                        	
+	<Text>질 절제술은 질을 일부 또는 전체 제거하는 외과적 절제술입니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY</LocID>                                    	
+	<Text>근접치료</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY_DESC</LocID>                        	
+	<Text>근접치료는 환자 몸 안에 방사성 물질을 넣는 시술입니다. 암 치료에 사용되는 방사선 치료의 한 종류로서, 부작용을 줄이고 치료 시간이 짧다는 특징이 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

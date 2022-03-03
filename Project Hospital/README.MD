@@ -8,4 +8,6 @@
 
 [MOD / Oncology Department](/Project%20Hospital/Oncology%20Department)
 
+[MOD / Sexual Health Department](/Project%20Hospital/Sexual%20Health%20Department)
+
 [MOD / Urology Department](/Project%20Hospital/Urology%20Department)
