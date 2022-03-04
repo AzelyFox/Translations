@@ -8,98 +8,225 @@
         </Contributors>
         <LocalizedStrings>
             <!-- Examinations -->
-			
-            <GameDBLocalizedString>
-			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
-			<Text>후두경검사(이비인후과)</Text> 
-			</GameDBLocalizedString>
-			
-            <GameDBLocalizedString>  
-			<LocID>EXM_OTOR_LARYNGOSCOPY_DESCRIPTION</LocID>  
-			<Text>작은 카메라와 광원이 달린 내시경을 코를 통해 삽입하여 후두 및 성대를 검사하는 절차입니다. \n\n필요한 방: 진료실 / 치료실 / 집중치료실</Text> 
-			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>  
-			<LocID>EXM_JM_EAR_EXAMINATION</LocID>    
-			<Text>귀 검사(이비인후과)</Text>  
-			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>      
-			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
-			<Text>청력검사(이비인후과)</Text> 
-			</GameDBLocalizedString>
-			
-            <GameDBLocalizedString>     
-			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
-			<Text>피부알레르기검사(이비인후과)</Text> 
-			</GameDBLocalizedString>
-			
-		  <!-- Lab Tests -->
-			
-			<GameDBLocalizedString>  <!-- New --> 
-			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
-			<Text>가래 배양 검사 샘플링</Text> 
-			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>  <!-- New --> 
-			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
-			<Text>가래 배양은 폐나 호흡 통로를 감염시키는 박테리아나 곰팡이를 검출해 식별하는 검사이다. 박테리아나 곰팡이가 자라지 않는다면 배양 검사는 음성이 된다. \n\n필요한 방: 혈액학 검사실</Text> 
-			</GameDBLocalizedString>
-			
-            <GameDBLocalizedString>  <!-- New --> 
-			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
-			<Text>가래 배양 검사</Text> 
-			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>   <!-- New --> 
-			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
-			<Text>가래 배양은 폐나 호흡 통로를 감염시키는 박테리아나 곰팡이를 검출해 식별하는 검사이다. 박테리아나 곰팡이가 자라지 않는다면 배양 검사는 음성이 된다. \n\n필요한 방: 혈액학 검사실</Text> 
-			</GameDBLocalizedString>
-			
-			
-		 <!-- Obeselete -->
-			
+
 			<GameDBLocalizedString>
-			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING</LocID>
-			<Text>트립테이스 검사 샘플링</Text> 
+				<LocID>EXM_JM_OAE</LocID>
+				<Text>귀음향방사</Text>
 			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>  
-			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING_DESCRIPTION</LocID>  
-			<Text>혈액 내 알레르기 면역 반응으로 비만 세포에서 생성되는 효소인 트립타제의 농도를 검사합니다. \n\n필요한 방: 혈액학 검사실</Text> 
-			</GameDBLocalizedString>
-			
-            <GameDBLocalizedString>
-			<LocID>EXM_JM_TRYPTASE_TEST_TESTING</LocID>
-			<Text>트립테이스 검사</Text> 
-			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>  
-			<LocID>EXM_JM_TRYPTASE_TEST_TESTING_DESCRIPTION</LocID>  
-			<Text>혈액 내 알레르기 면역 반응으로 비만 세포에서 생성되는 효소인 트립타제의 농도를 검사합니다. \n\n필요한 방: 혈액학 검사실</Text> 
-			</GameDBLocalizedString>
-			
+
 			<GameDBLocalizedString>
-			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING</LocID>
-			<Text>히스타민검사 샘플링</Text> 
+				<LocID>EXM_JM_OAE_DESCRIPTION</LocID>
+				<Text>귀음향방사 테스트는 소리에 대한 귀의 반응을 점검합니다. 이는 주로 연령 때문에 행동청력검사에 반응하지 못할 수 있는 영유아를 대상으로 합니다. \n\n필요한 방: 이비인후과의 진료실</Text>
 			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>  
-			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING_DESCRIPTION</LocID>  
-			<Text>히스타민 검사는 환자가 아나필락시스 반응을 보였는지 확인하거나 비만세포의 비정상적인 증식을 특징으로 하는 진단에 도움이 될 수 있습니다. \n\n필요한 방: 혈액학 검사실</Text> 
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_AUDIOMETRY</LocID>
+				<Text>(이비인후과) 청력검사</Text>
 			</GameDBLocalizedString>
-			
-            <GameDBLocalizedString>
-			<LocID>EXM_JM_HISTAMINE_TEST_TESTING</LocID>
-			<Text>히스타민검사</Text> 
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_AUDIOGRAM</LocID>
+				<Text>청력검사</Text>
 			</GameDBLocalizedString>
-			
-			<GameDBLocalizedString>  
-			<LocID>EXM_JM_HISTAMINE_TEST_TESTING_DESCRIPTION</LocID>  
-			<Text>히스타민 검사는 환자가 아나필락시스 반응을 보였는지 확인하거나 비만세포의 비정상적인 증식을 특징으로 하는 진단에 도움이 될 수 있습니다. \n\n필요한 방: 혈액학 검사실</Text> 
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>
+				<Text>청력검사는 청력게에 의해 측정된 주파수에 대한 청각 임계값을 보여주는 절차입니다. \n\n필요한 방: 이비인후과의 청력검사실</Text>
 			</GameDBLocalizedString>
-			
-            
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_OTOSCOPY</LocID>
+				<Text>이경검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_OTOSCOPY_DESCRIPTION</LocID>
+				<Text>이경 검사는 귀와 그 내부의 구조를 검사하는데 사용되는 임상 절차입니다. \n\n필요한 방: 이비인후과의 내시경실</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_SAMPLING</LocID>
+				<Text>귀 조직 샘플링</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_SAMPLING_DESCRIPTION</LocID>
+				<Text>귀 생검은 외과적 마취를 통해 해당 조직을 추출하여 검사하는 과정입니다. 이는 주로 귀 종양의 종류를 판별하기 위해 사용됩니다. \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_TESTING</LocID>
+				<Text>귀 조직 검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_TESTING_DESCRIPTION</LocID>
+				<Text>귀 생검은 외과적 마취를 통해 해당 조직을 추출하여 검사하는 과정입니다. 이는 주로 귀 종양의 종류를 판별하기 위해 사용됩니다. \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<!-- Nose Examinations -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RHINOSCOPY</LocID>
+				<Text>비경검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RHINOSCOPY_DESCRIPTION</LocID>
+				<Text>비경 검사는 코와 코 내부를 들여다보는 방법입니다. 코내시경을 통하여 코, 목, 성대의 거의 모든 내부를 볼 수 있게끔 합니다. \n\n필요한 방: 이비인후과의 내시경실</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_SAMPLING</LocID>
+				<Text>코 조직 샘플링</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_SAMPLING_DESCRIPTION</LocID>
+				<Text>코 생검은 마취를 통해 해당 조직을 추출하여 검사하는 과정입니다. 이는 주로 코 종양의 종류를 판별하기 위해 사용됩니다. \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_TESTING</LocID>
+				<Text>코 조직 검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_TESTING_DESCRIPTION</LocID>
+				<Text>코 생검은 마취를 통해 해당 조직을 추출하여 검사하는 과정입니다. 이는 주로 코 종양의 종류를 판별하기 위해 사용됩니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_SAMPLING</LocID>
+				<Text>비인두 면봉 샘플링</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_SAMPLING_DESCRIPTION</LocID>
+				<Text>비인두 면봉은 호흡기 감염을 일으키는 바이러스와 박테리아를 검사하는 것입니다. 코와 목구멍의 가장 윗부분인 비인두에 면봉을 통해 세포 샘플을 채취하여 검사가 진행됩니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_TESTING</LocID>
+				<Text>비인두 면봉 배양검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_TESTING_DESCRIPTION</LocID>
+				<Text>비인두 면봉은 호흡기 감염을 일으키는 바이러스와 박테리아를 검사하는 것입니다. 코와 목구멍의 가장 윗부분인 비인두에 면봉을 통해 세포 샘플을 채취하여 검사가 진행됩니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<!-- Throat Examinations -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+				<Text>(이비인후과) 후두경검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_LARYNGOSCOPY</LocID>
+				<Text>심층 후두경검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_SAMPLING</LocID>
+				<Text>목 조직 샘플링</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_SAMPLING_DESCRIPTION</LocID>
+				<Text>목 생검은 목의 특정 조직의 샘플을 마취를 통해 추출하여 검사하는 절차입니다. 이는 보통 목의 종양이 어떤 것인지 판별하기 위하여 행해집니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_TESTING</LocID>
+				<Text>목 조직 검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_TESTING_DESCRIPTION</LocID>
+				<Text>목 생검은 목의 특정 조직의 샘플을 마취를 통해 추출하여 검사하는 절차입니다. 이는 보통 목의 종양이 어떤 것인지 판별하기 위하여 행해집니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_SAMPLING</LocID>
+				<Text>인두부 면봉 샘플링</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_SAMPLING_DESCRIPTION</LocID>
+				<Text>인두부 배양법은 목 안의 박테리아 감염을 진단하기 위해 일반적으로 사용하는 검사입니다. 이러한 감염에는 인두염, 폐렴, 편도염, 수막염 등이 포함됩니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_TESTING</LocID>
+				<Text>인두부 면봉 배양검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_TESTING_DESCRIPTION</LocID>
+				<Text>인두부 배양법은 목 안의 박테리아 감염을 진단하기 위해 일반적으로 사용하는 검사입니다. 이러한 감염에는 인두염, 폐렴, 편도염, 수막염 등이 포함됩니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<!-- Miscellanous -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SLEEP_STUDY</LocID>
+				<Text>수면다원검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>
+				<Text>수면 연구라고도 불리는 수면다원검사는 수면장애를 진단하기 위해 사용되는 검사법입니다. 이는 뇌파, 혈액내 산소량, 심박수, 호흡 등 다양한 수면 중 변화를 기록합니다. \n\n필요한 방: 수면 연구실 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>
+				<Text>(이비인후과) 피부알레르기검사</Text>
+			</GameDBLocalizedString>
+
+			<!-- Lab Tests -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_SAMPLING</LocID>
+				<Text>신속 연쇄알균 인후 샘플링</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_SAMPLING_DESCRIPTION</LocID>
+				<Text>신속 연쇄알균 인후검사는 연쇄상구균에 의한 세균성 인두염의 진단을 돕기 위해 병원에서 널리 사용되는 신속 항원 검출 검사입니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_TESTING</LocID>
+				<Text>신속 연쇄알균 인후 검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_TESTING_DESCRIPTION</LocID>
+				<Text>신속 연쇄알균 인후검사는 연쇄상구균에 의한 세균성 인두염의 진단을 돕기 위해 병원에서 널리 사용되는 신속 항원 검출 검사입니다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+				<Text>가래 배양 샘플링</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>
+				<Text>가래 배양은 폐나 호흡 통로를 감염시키는 박테리아나 곰팡이를 검출해 식별하는 검사이다. 박테리아나 곰팡이가 자라지 않는다면 배양 검사는 음성이 된다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+				<Text>가래 배양 검사</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>
+				<Text>가래 배양은 폐나 호흡 통로를 감염시키는 박테리아나 곰팡이를 검출해 식별하는 검사이다. 박테리아나 곰팡이가 자라지 않는다면 배양 검사는 음성이 된다. \n\n샘플링: 모든 진찰실 / 진단 구역 \n\n필요한 방: 이비인후과의 검사실 \n\n필요한 장비: 유리 용기 + 퓸 후드 + 미생물 인큐베이터 + 현미경</Text>
+			</GameDBLocalizedString>
+
 		</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

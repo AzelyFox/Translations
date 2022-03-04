@@ -93,7 +93,7 @@
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_THT</LocID>
-			<Text>비갑개 비대증Turbinate Hypertrophy</Text>
+			<Text>비갑개 비대증</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
@@ -143,878 +143,579 @@
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_SSS</LocID>
-			<Text>무음부비동증후군</Text>
+			<Text>내파열동</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_SSS_DESCRIPTION</LocID>
-			<Text>Silent sinus syndrome is a disease characterized by enophthalmos or hypoglobus secondary to the collapse of the orbital floor in the presence of asymptomatic chronic maxillary sinusitis. This disease spectrum is also known by two alternate names: “chronic maxillary atelectasis” and “imploding antrum syndrome,” although some still consider these distinct clinical entities. </Text>
+			<Text>내파열동은 편측 안와 하벽의 하방 전위로 인해 안구함몰과 안구 하방편위를 보이며 동측의 상악동 용적감소를 특징으로 하는 질환입니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_RST</LocID>
-			<Text>Acute Rhinosinusitis</Text>
+			<Text>급성 비부비동염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_RST_DESCRIPTION</LocID>
-			<Text>Acute rhinosinusitis is a common disease with worldwide prevalence. It is a significant burden on the health services. It is most commonly caused by viruses and is self limiting in nature. The diagnosis of acute rhinosinusitis is clinical and sinus radiography is not indicated routinely. Most cases of acute rhinosinusitis are treated symptomatically. However, symptoms may persist beyond 10 days when secondary bacterial infection prevails. Antibiotics are reserved for moderate or severe cases or when there is development of complications of acute rhinosinusitis. </Text>
+			<Text>급성 비부비동염은 세계적으로 유행하는 흔한 질병입니다. 2차 전파가 가능한 10일이 경과한 이후에도 증상이 지속될 수도 있기에, 심각한 경우나 합병증이 발생하는 경우 항생제를 사용합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_CRS</LocID>
-			<Text>Chronic Rhinosinusitis</Text>
+			<Text>만성 비부비동염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_CRS_DESCRIPTION</LocID>
-			<Text>Rhinosinusitis occurs when the lining of the sinuses gets infected or irritated, become swollen, and create extra mucus. The swollen lining may also interfere with drainage of mucus. Chronic rhinosinusitis refers to a condition that lasts at least 12 weeks, despite being treated, and causes at least two of the following symptoms: nasal congestion, mucus discharge from the nose or mucus that drips down the back of the throat, facial pain, pressure, or "fullness", a decreased sense of smell. Chronic rhinosinusitis is different from the more common form of rhinosinusitis (called acute rhinosinusitis), which is a temporary infection of the sinuses that often occurs following colds. Chronic rhinosinusitis is a more persistent problem, which requires a specific treatment approach. It is sometimes overlooked by both patients and health care providers because the symptoms are more low-grade and chronic. </Text>
+			<Text>비부비동염은 부비강 내벽이 감염되거나 자극을 받아 부어오르고 점액이 더 많이 생성될 때 발생합니다. 이는 최소 12주 이상 지속되며 코박힘, 콧물, 통증 및 후각 저하를 일으킵니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_RPM</LocID>
-			<Text>Rhinophyma</Text>
+			<Text>딸기코</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_RPM_DESCRIPTION</LocID>
-			<Text>Rhinophyma is a skin disorder characterized by a large, red, bumpy or bulbous nose. It can occur as part of phymatous rosacea. The exact cause of rhinophyma is unknown, but it's considered a subtype of severe rosacea. This condition is significantly more common in men, especially between the ages of 50 to 70 years. </Text>
+			<Text>딸기코는 크고 붉으며 울퉁불퉁한 코가 특징인 피부질환입니다. 정확한 발병 유발 원인은 밝혀지지 않았지만, 심한 로사세아의 일부로 여겨집니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_CLP</LocID>
-			<Text>Cleft Lip and Palate</Text>
+			<Text>구순구개열</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_CLP_DESCRIPTION</LocID>
-			<Text>Cleft lip and cleft palate are openings or splits in the upper lip, the roof of the mouth (palate) or both. Cleft lip and cleft palate result when facial structures that are developing in an unborn baby don't close completely. Cleft lip and cleft palate are among the most common birth defects. They most commonly occur as isolated birth defects but are also associated with many inherited genetic conditions or syndromes. Having a baby born with a cleft can be upsetting, but cleft lip and cleft palate can be corrected. In most babies, a series of surgeries can restore normal function and achieve a more normal appearance with minimal scarring. </Text>
+			<Text>구순구개열은 윗입술, 입천장 또는 양쪽 모두에 구멍이 나있거나 갈라져있는 것을 의미합니다. 이는 태어나지 않은 아기의 얼굴 구조가 완전히 닫히지 않을 때 발생합니다. 대부분 선척적 결함이지만 유전되는 많은 유전병이나 증후군들과도 관련이 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_IVP</LocID>
-			<Text>Inverted Papilloma</Text>
+			<Text>반전성 유두종</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_IVP_DESCRIPTION</LocID>
-			<Text>Inverted papillomas are noncancerous tumors that form in the posterior aspect of the nasal cavities. As they grow, they can sometimes extend into the paranasal sinuses or orbits. Occasionally, inverted papillomas can undergo a malignant transformation into an aggressive form of cancer called squamous cell carcinoma. </Text>
+			<Text>반전성 유두종은 비강의 후방에 형성되는 종양입니다. 이들은 때때로 부비강이으로 확장될 수 있고, 편평세포암으로 악성 변형을 겪기도 합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_PBN</LocID>
-			<Text>Chronic Epistaxis (Blood Vessel)</Text>
+			<Text>만성 비출혈</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_PBN_DESCRIPTION</LocID>
-			<Text>Chronic Epistaxis or Nosebleeds is a condition where bleeding of the nose is chronic due to potentially problematic blood vessel, trauma, or any other diseases. In this case, it is caused by a problematic blood vessel. </Text>
+			<Text>만성 비출혈, 코피는 잠재적으로 문제가 있는 혈관, 외상, 기타 질병으로 인해 코 내부 출혈이 만성화되는 질환입니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_SDN</LocID>
-			<Text>Saddle Nose</Text>
+			<Text>안장코</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_SDN_DESCRIPTION</LocID>
-			<Text>Saddle nose is a condition associated with nasal trauma, congenital syphilis, relapsing polychondritis, granulomatosis with polyangiitis, cocaine abuse, and leprosy, among other conditions. The most common cause is nasal trauma. It is characterized by a loss of height of the nose, because of the collapse of the bridge. </Text>
+			<Text>안장코는 코 외상, 선천성 매독, 재발성 다낭염, 코카인 남용, 나병 등과 관련된 질환입니다. 가장 흔한 원인은 비강 외상으로서, 코 지지뼈가 무너져 높이가 낮아지는 것이 특징입니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_SPF</LocID>
-			<Text>Septal Perforation</Text>
+			<Text>비중격천공</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_SPF_DESCRIPTION</LocID>
-			<Text>A nasal septum perforation is a medical condition in which the nasal septum, the bony/cartilaginous wall dividing the nasal cavities, develops a hole or fissure. This may be brought on directly, as in the case of nasal piercings, or indirectly, as by long-term topical drug application, including intranasal ethylphenidate, methamphetamine, cocaine, crushed prescription pills, or decongestant nasal sprays, chronic epistaxis, excessive nose picking and as a complication of nasal surgery like septoplasty or rhinoplasty. </Text>
+			<Text>비중격천공은 비강을 나누는 뼈인 비강중격에 구멍이 생기거나 균열이 생기는 의학적 질환입니다. 이는 코 피어싱의 경우처럼 직접적으로 발생할 수도 있으며, 국소적으로 장기간 약물을 투여할 경우나 코 수술의 합병증으로 나타날 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_SPH</LocID>
-			<Text>Septal Hematoma</Text>
+			<Text>비중격혈종</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_SPH_DESCRIPTION</LocID>
-			<Text>A septal hematoma is a collection of blood in the septum, or space between the two nostrils. A hematoma is similar to a bruise or blood clot but, if left untreated, it can damage the tissue and lead to infection. </Text>
+			<Text>비중격혈종은 비강을 나누는 뼈인 비강중격에 있는 혈종입니다. 이는 멍이나 혈전과 유사하지만 치료하지 않고 방치하면 조직이 손상되어 감염으로 이어질 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_CSSP</LocID>
-			<Text>Chronic Sinusitis with mild Nasal Polyposis</Text>
+			<Text>비용종 동반 만성부비동염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_CSSP_DESCRIPTION</LocID>
-			<Text>Sinusitis is a condition where the patient's sinuses becomes inflammed due to a infection or allergies, but in the case of chronic sinusitis, the inflammation of the sinuses lasts for more than 3 months and it is usually caused by chronic allergies or nasal polyposis. In this case it is caused by nasal polyposis, a condition where nasal polyps develop in the nose, due to allergies, influenza, asthma or cystic fibrosis, which usally requires saline and corticosteroid nasal spray, and in some circumstances, surgery. Treatment for this condition is a course of saline and corticosteroid nasal spray as the nasal polyps are mild. </Text>
+			<Text>비용종을 동반한 부비동염은 부비동염이 3개월 이상 지속되면서 비강에 용종이 생기며 발생합니다. 이는 경우에 따라 수술을 해야 하지만, 비강 스프레이로 치료하기도 합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>  <!-- NEW -->
 			<LocID>DIA_CRP_JM_MEC</LocID>
-			<Text>Meningoencephalocele</Text>
+			<Text>수막뇌류</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>   <!-- NEW -->
 			<LocID>DIA_CRP_JM_MEC_DESCRIPTION</LocID>
-			<Text>Meningoencephalocele is a type of encephalocele, which is an abnormal sac of fluid, brain tissue, and meninges (membranes that cover the brain and spinal cord) that extends through a defect in the skull. There are two main types of meningoencephalocele, which are named according to the location of the sac. The frontoethmoidal type is located at the frontal and ethmoid bones while the occipital type is located at the occipital bone. </Text>
+			<Text>수막뇌류, 수막뇌탈출증은 두개골의 결함을 통해 확장된 수막의 비장성적인 주머니의 병입니다. 이는 전두엽에 위치하는지 후두엽에 위치하는지에 따라 이름이 붙여집니다.</Text>
 		</GameDBLocalizedString>
 
 		<!-- Ear Disorders and Diseases -->
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SED</LocID>
-			<Text>Meniere's Disease (Severe)</Text>
+			<Text>메니에르병 (중증)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SED_DESCRIPTION</LocID>
-			<Text>Meniere's disease is a disorder of the inner ear that can lead to dizzy spells (vertigo) and hearing loss. In most cases, Meniere's disease affects only one ear.Meniere's disease can occur at any age, but it usually starts between young and middle-aged adulthood. It's considered a chronic condition, but various treatments can help relieve symptoms and minimize the long-term impact on your life. </Text>
+			<Text>메니에르 병은 내이 장애로서, 현기증이나 청력 상실로 이어질 수 있습니다. 대부분의 경우 메니에르 병은 한쪽 귀에만 영향을 미칩니다. 이는 모든 연령대에서 발생할 수 있지만, 청년과 중년 때 주로 시작됩니다. 만성 질환이지만 다양한 치료로 완화하고 증상을 최소화 할 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SVE</LocID>
-			<Text>Severed Ear</Text>
+			<Text>잘린 귀</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SVE_DESCRIPTION</LocID>
-			<Text>A severed ear means the ear has been cut or bit off. </Text>
+			<Text>귀의 전체나 일부가 잘려져 나갔습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_BTE</LocID>
-			<Text>Barotrauma</Text>
+			<Text>귀 압력손상</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_BTE_DESCRIPTION</LocID>
-			<Text>Ear barotrauma is discomfort in the ear due to pressure differences between the inside and outside of the eardrum. It may include damage to the ear.</Text>
+			<Text>귀 압력 손상은 고막 내외부의 압력 차이로 귀에 불편함을 주며, 손상을 가할 수도 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_FOE</LocID>
-			<Text>Foreign Object in Ear</Text>
+			<Text>귀 이물질</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_FOE_DESCRIPTION</LocID>
-			<Text>The patient has a object lodged in his/her's ear. </Text>
+			<Text>환자는 귀에 이물질이 들어있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_ACN</LocID>
-			<Text>Acoustic Neuroma</Text>
+			<Text>청신경종</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_ACN_DESCRIPTION</LocID>
-			<Text>A vestibular schwannoma (also known as acoustic neuroma, acoustic neurinoma, or acoustic neurilemoma) is a benign, usually slow-growing tumor that develops from the balance and hearing nerves supplying the inner ear. The tumor comes from an overproduction of Schwann cells—the cells that normally wrap around nerve fibers like onion skin to help support and insulate nerves. As the vestibular schwannoma grows, it affects the hearing and balance nerves, usually causing unilateral (one-sided) or asymmetric hearing loss, tinnitus (ringing in the ear), and dizziness/loss of balance. As the tumor grows, it can interfere with the face sensation nerve (the trigeminal nerve), causing facial numbness. Vestibular schwannomas can also affect the facial nerve (for the muscles of the face) causing facial weakness or paralysis on the side of the tumor. If the tumor becomes large, it will eventually press against nearby brain structures (such as the brainstem and the cerebellum), becoming life-threatening. </Text>
+			<Text>청신경종은 내이에 공급하는 균형 신경과 청각 신경에서 발생하는 양성 종양입니다. 이는 뇌간이나 소뇌와 같은 뇌를 압박하여 생명을 위협하기도 합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_VNI</LocID>
-			<Text>Vestibular Neuritis</Text>
+			<Text>전정신경염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_VNI_DESCRIPTION</LocID>
-			<Text>Vestibular neuritis is a disorder that affects the nerve of the inner ear called the vestibulocochlear nerve. This nerve sends balance and head position information from the inner ear to the brain. When this nerve becomes swollen (inflamed), it disrupts the way the information would normally be interpreted by the brain. </Text>
+			<Text>전정신경염은 전정신경이라고 불리는 내이의 신경에 영향을 미치는 질환입니다. 이 신경은 균형과 머리 위치 정보를 내이에서 뇌로 보냅니다. 이 신경이 부풀어오르면 이 정보의 전달과 해석을 방해합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CTN</LocID>
-			<Text>Cerumen Impaction</Text>
+			<Text>귀지막힘</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CTN_DESCRIPTION</LocID>
-			<Text>Earwax, also called cerumen, is made by the body to protect the ears. The ear wax has both lubricating and antibacterial properties. Untreated buildup can lead to hearing loss, irritation, pain in the ear, dizziness, ringing in the ears and other problems. Earwax can be removed in several ways; some of these methods can be done at home.</Text>
+			<Text>귀지는 귀를 보호하기 위해 몸에 의해 만들어집니다. 윤활성과 항균성을 모두 가지고 있지만, 이게 과도하게 되면 청력 손실, 귀 통증, 울림, 현기증 등의 문제가 발생할 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_BPPV</LocID>
-			<Text>Benign Paroxymal Position Vertigo</Text>
+			<Text>양성돌발두위현훈</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_BPPV_DESCRIPTION</LocID>
-			<Text>Benign paroxysmal positional vertigo (BPPV) is a disorder arising from a problem in the inner ear. Symptoms are repeated, brief periods of vertigo with movement, that is, of a spinning sensation upon changes in the position of the head. This can occur with turning in bed or changing position. Each episode of vertigo typically lasts less than one minute. Nausea is commonly associated. BPPV is one of the most common causes of vertigo. BPPV can result from a head injury or simply occur among those who are older. A specific cause is often not found. The underlying mechanism involves a small calcified otolith moving around loose in the inner ear. It is a type of balance disorder along with labyrinthitis and Ménière's disease. Diagnosis is typically made when the Dix–Hallpike test results in nystagmus (a specific movement pattern of the eyes) and other possible causes have been ruled out. In typical cases, medical imaging is not needed. </Text>
+			<Text>양성두발두위현훈은 내이의 문제로 인해 생기는 질환으로서, 머리의 위치가 바뀌면 짧은 시간 현기증이 반복되는 증상을 가집니다. 이는 침대에서 돌거나 자세를 바꿀 때 1분 미만으로 지속되며 메스꺼움이 동반되기도 합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_PCHA</LocID>
-			<Text>Perichondrial Hematoma</Text>
+			<Text>연골막 혈종</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_PCHA_DESCRIPTION</LocID>
-			<Text>If you’ve ever attended a wrestling match, you may have noticed something different about some of the athletes’ ears. Cauliflower ear, also known as perichondrial hematoma or wrestler’s ear, is a deformity of the ear caused by trauma. Cauliflower ear occurs when blood pools in your pinna after it’s been hit or struck. The pinna is your outer ear. This pooling of blood, known as a hematoma, needs to be treated right away. While there’s no treatment for cauliflower ear, it can be prevented even after the trauma has occurred. So it’s crucial to know the warning signs and take action right away.</Text>
+			<Text>양배추귀라고도 불리는 레슬링 선수들의 특징인 귀는 외상으로 인한 귀의 기형입니다. 이는 맞거나 부딪힌 후 피가 고일 때 발생합니다. 혈종이 생기면 당장 치료가 필요하기에, 바로 조치하는 것이 중요합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_EWR</LocID>
-			<Text>Ear wax removal appointment</Text>
+			<Text>귀청소</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_EWR_DESCRIPTION</LocID>
-			<Text>The patient has a appointment with a ENT specialist to get their ear wax removed. </Text>
+			<Text>환자는 이비인후과 의사와 약속을 잡고 귀지를 제거합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_MEDR</LocID>
-			<Text>Rupture of the eardrum</Text>
+			<Text>고막파열</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_MEDR_DESCRIPTION</LocID>
-			<Text>A ruptured eardrum (tympanic membrane perforation) is a hole or tear in the thin tissue that separates your ear canal from your middle ear (eardrum).A ruptured eardrum can result in hearing loss. It can also make your middle ear vulnerable to infections.A ruptured eardrum usually heals within a few weeks without treatment. But sometimes it requires a patch or surgical repair to heal.</Text>
+			<Text>귀와 중이를 분리하는 얇은 조직인 고막이 구멍이 나거나 찢어진 것입니다. 이는 청력 손실로 이어질 뿐만 아니라, 중이염을 감염에 취약하게도 만듭니다. 파열된 고막은 보통 몇 주에 걸쳐 회복되지만, 때때로 외과적 수술이나 패치 등이 필요할 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SEDR</LocID>
-			<Text>Unhealed Rupture of the eardrum</Text>
+			<Text>치료되지 않은 고막파열</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SEDR_DESCRIPTION</LocID>
-			<Text>A ruptured eardrum (tympanic membrane perforation) is a hole or tear in the thin tissue that separates your ear canal from your middle ear (eardrum).A ruptured eardrum can result in hearing loss. It can also make your middle ear vulnerable to infections.A ruptured eardrum usually heals within a few weeks without treatment. But sometimes it requires a patch or surgical repair to heal.</Text>
+			<Text>귀와 중이를 분리하는 얇은 조직인 고막이 구멍이 나거나 찢어진 것입니다. 이는 청력 손실로 이어질 뿐만 아니라, 중이염을 감염에 취약하게도 만듭니다. 파열된 고막은 보통 몇 주에 걸쳐 회복되지만, 때때로 외과적 수술이나 패치 등이 필요할 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_ANM</LocID>
-			<Text>Acoustic Neuropathy (Mild)</Text>
+			<Text>청각신경병 (경미)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_ANS</LocID>
-			<Text>Acoustic Neuropathy (Severe)</Text>
+			<Text>청각신경병 (중증)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_ANM_DESCRIPTION</LocID>
-			<Text>Auditory Neuropathy (AN) is a hearing disorder in which the outer hair cells of the cochlea are present and functional, but sound information is not transmitted sufficiently by the auditory nerve to the brain. Hearing loss with AN can range from normal hearing sensitivity to profound hearing loss.A neuropathy usually refers to a disease of the peripheral nerve or nerves, but the auditory nerve itself is not always affected in auditory neuropathy spectrum disorders. Prevalence in the population is relatively unknown. Neonates with high risk factors for hearing loss have a prevalence of up to 40% (Vignesh, Jaya, and Muraleedharan 2016). These high-risk factors are: hypoxia, low birth weight, premature birth, hyperbilirubinemia, jaundice, and aminoglycoside antibiotic treatments.</Text>
+			<Text>청각신경병증은 달팽이관의 외부 모발세포가 존재하고 기능하지만, 청각신경에 의해 청각 정보가 뇌에 충분히 전달되지 않는 장애입니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_PBCM</LocID>
-			<Text>Presbycusis (Mild)</Text>
+			<Text>노년난청 (경미)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_PBCS</LocID>
-			<Text>Presbycusis (Severe)</Text>
+			<Text>노년난청 (중증)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_PBCM_DESCRIPTION</LocID>
-			<Text>Hearing loss that occurs gradually as you age (presbycusis) is common. About one-third of people in the United States between the ages of 65 and 75 have some degree of hearing loss. For those older than 75, that number is approximately 1 in 2. Aging and chronic exposure to loud noises both contribute to hearing loss. Other factors, such as excessive earwax, can temporarily reduce how well your ears conduct sounds. You can't reverse most types of hearing loss. However, you and your doctor or a hearing specialist can take steps to improve what you hear</Text>
+			<Text>나이가 들면서 점차적으로 발생하는 난청은 흔합니다. 미국의 65에서 75세의 사람들 중 약 3분의 1은 어느정도 청력이 감퇴되었습니다. 대부분의 청력 손실을 되돌릴 수는 없지만, 의사가 적절한 개선 조치를 취할 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_LBRT</LocID>
-			<Text>Labyrinthitis</Text>
+			<Text>내이염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_LBRT_DESCRIPTION</LocID>
-			<Text>Labyrinthitis, is the inflammation of the inner ear. Labyrinthitis derives its name from the labyrinths that house the vestibular system, which senses changes in the head's position or the head's motion. This results in a sensation of the world spinning and also possible hearing loss or ringing in the ears. It can occur as a single attack, a series of attacks, or a persistent condition that diminishes over three to six weeks. It may be associated with nausea, vomiting, and eye nystagmus. </Text>
+			<Text>미로염이라고도 불리우는 내이염은 내이의 염증입니다. 머리의 위치나 머리의 움직임을 감지하는 전정계가 있는 미로에서 유래된 이름으로서, 세계가 빙빙 도는 느낌을 초래하고 청력 손실이나 귀울림을 일으킵니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_OTP</LocID>
-			<Text>Otophyma</Text>
+			<Text>이류</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_OTP_DESCRIPTION</LocID>
-			<Text>Otophyma is the term used for sebaceous gland hypertrophy and hyperplasia of the ear. It is usually the end stage of rosacea—a common, chronic, cutaneous disorder of unknown etiology. We hereby present a rare case of otophyma with its clinical features, its etiology, diagnosis, and review of medical and surgical therapy. This patient remained undiagnosed and mismanaged for many years before she was finally diagnosed with this rare condition and successfully managed by surgical technique. To our knowledge, this is the second case of otophyma presented in the otolaryngological literature.</Text>
+			<Text>귀 주사증의 말기 단계인 이 질병은, 귀의 피지선 비대 및 과형성증에 사용되는 용어입니다. 이는 매우 희귀한 질환으로서 외과적으로 성공적으로 치료된 한 환자에 의해 그동안 잘못 관리되었던 치료법이 개선되었습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_ESC</LocID>
-			<Text>Ear Canal Cancer (Squamous Cell Carcinoma)</Text>
+			<Text>외이도암 (편평세포암종)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_EAC</LocID>
-			<Text>Ear Canal Cancer (Adenocarcinoma)</Text>
+			<Text>외이도암 (샘암종)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_EMA</LocID>
-			<Text>Ear Canal Cancer (Melanoma)</Text>
+			<Text>외이도암 (흑색종)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_ESC_DESCRIPTION</LocID>
-			<Text>Ear cancer can affect both the inner and external parts of the ear. It often starts as a skin cancer on the outer ear that then spreads throughout the various ear structures, including the ear canal and the eardrum. Ear cancer may also start from within the ear. It can affect the bone inside the ear, called the temporal bone. The temporal bone also includes the mastoid bone. This is the bony lump you feel behind your ear. Ear cancer is very rare. Only about 300 people in the United States are diagnosed with it each year. In contrast, more than 250,000 new cases of breast cancerTrusted Source are expected to be diagnosed in 2018, according to the National Cancer Institute.</Text>
+			<Text>귀암은 귀의 내부와 외부 모두에 영향을 미칠 수 있습니다. 외이에서 피부암으로 시작하여 고막, 이관 등 다양한 귀 구조로 퍼지는 경우가 많습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_NOM</LocID>
-			<Text>Necrotising Otitis Media</Text>
+			<Text>중이염 (괴사성)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_NOE</LocID>
-			<Text>Necrotising Otitis Externa</Text>
+			<Text>외이도염 (괴사성)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>      <!-- NEW -->
 			<LocID>DIA_CRP_JM_NOM_DESCRIPTION</LocID>
-			<Text>Necrotising/Malignant otitis externa (MOE) is an infection that affects the external auditory canal and temporal bone. The causative organism is usually Pseudomonas aeruginosa, and the disease commonly manifests in elderly patients with diabetes. The infection begins as an otitis externa that progresses into an osteomyelitis of the temporal bone. Spread of the disease outside the external auditory canal occurs through the fissures of Santorini and the osseocartilaginous junction. Toulmouche was probably the first physician to report a case of malignant external otitis (MEO), in 1838. In 1959, Meltzer reported a case of pseudomonal osteomyelitis of the temporal bone.</Text>
+			<Text>괴사성 중,외이염은 외부 청각관 및 관자뼈에 영향을 미치는 감염입니다. 보통 녹농균에 의해 발생되며, 이 질병은 노인 당뇨병 환자들에게서 흔히 나타납니다.</Text>
 		</GameDBLocalizedString>
 
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SWE</LocID>
-			<Text>Severe Otitis Externa</Text>
+			<Text>외이도염 (중증)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_GEE</LocID>
-			<Text>Severe Glue Ear</Text>
+			<Text>아교귀 (중증)</Text>
 		</GameDBLocalizedString>
 
 		<!-- Throat and Mouth Disorders and Diseases -->
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CSA</LocID>
-			<Text>Chronic Sialadenitis</Text>
+			<Text>만성 침샘염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CSA_DESCRIPTION</LocID>
-			<Text>Chronic sialadenitis, in contrast, is typically less painful and is associated with recurrent enlargement of the gland (often following meals) typically without erythema. The chronic form of the disease is associated with conditions linked to decreased salivary flow, rather than dehydration.</Text>
+			<Text>만성 침샘염은 주로 식사 이후 통증이 심해져 입을 벌리기 어려워지고, 통증이 발생하면 일주일 가량 증상이 지속되기도 한다. 이는 고름 형태의 침이 나오거나, 침샘 주변의 임파선을 붓게도 한다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_ASS</LocID>
-			<Text>Acute Suppurative Sialadenitis</Text>
+			<Text>급성 화농성 침샘염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_ASS_DESCRIPTION</LocID>
-			<Text>Acute sialadenitis is a bacterial inflammation of the salivary gland. It typically affects one major salivary gland, most commonly the parotid,4 and is common in medically debilitated, hospitalized, or postoperative patients.</Text>
+			<Text>급성 화농성 침샘염은 침샘의 세균성 염증입니다. 이것은 전형적으로 면역력이 약하거나 입원했거나, 수술 후의 환자들에게서 흔하게 나타나곤 합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_DTA</LocID>
-			<Text>Diphtheria</Text>
+			<Text>디프테리아</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_DTA_DESCRIPTION</LocID>
-			<Text>Diphtheria (dif-THEER-e-uh) is a serious bacterial infection that usually affects the mucous membranes of your nose and throat. Diphtheria is extremely rare in the United States and other developed countries, thanks to widespread vaccination against the disease.Diphtheria can be treated with medications. But in advanced stages, diphtheria can damage your heart, kidneys and nervous system. Even with treatment, diphtheria can be deadly, especially in children..</Text>
+			<Text>디프테리아는 코와 목의 점막에 주로 영향을 미치는 심각한 세균 감염입니다. 이는 선진국에서는 백신 접종 덕분에 매우 드문 증상 중 하나입니다. 디프테리아는 약으로 치료할 수 있으나 심장, 신장, 신경계를 손상시킬 수 있고, 아이들에게는 더욱 치명적입니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_VCP</LocID>
-			<Text>Vocal Cord Paralysis</Text>
+			<Text>성대마비</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_VCP_DESCRIPTION</LocID>
-			<Text>Vocal cord paralysis occurs when the nerve impulses to your voice box (larynx) are disrupted. This results in paralysis of the vocal cord muscles. Vocal cord paralysis can affect your ability to speak and even breathe. That's because your vocal cords, sometimes called vocal folds, do more than just produce sound.</Text>
+			<Text>성대마비는 후두에 대한 신경 자극이 흐트러졌을 때 발생합니다. 말하기 뿐만 아니라 숨쉬기에도 영향을 주기도 합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_TSC</LocID>
-			<Text>Pharyngeal Cancer (Squamous Cell Carcinoma)</Text>
+			<Text>구강암 (편평세포암종)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_TAC</LocID>
-			<Text>Pharyngeal Cancer (Adenocarcinoma)</Text>
+			<Text>구강암 (샘암종)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_TML</LocID>
-			<Text>Pharyngeal Cancer (Melanoma)</Text>
+			<Text>구강암 (흑색종)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_TSC_DESCRIPTION</LocID>
-			<Text>Squamous cell carcinoma of the throat is the most common type of throat cancer. Squamous cell carcinoma of the throat is an uncontrolled growth of abnormal cells of the lining of the throat. The throat consists of the pharynx (the upper part behind the tongue) and the larynx (the voice box).</Text>
+			<Text>구강암은 목에 생기는 가장 흔한 종류의 암종입니다. 목의 안쪽에 있는 비정상적인 세포의 조절되지 않은 성장을 말합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CPHG</LocID>
-			<Text>Chronic Pharyngitis</Text>
+			<Text>만성 인두염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CPHG_DESCRIPTION</LocID>
-			<Text>Pharyngitis is an inflammatory condition of the back of the throat, the pharynx. Acute pharyngitis is more common, and symptoms usually resolve within ten days. Treatment for acute pharyngitis is usually focussed on treating the symptoms. Most cases of acute pharyngitis are viral, but some are bacterial. Antibiotics are only helpful if bacterial infection is the cause for acute pharyngitis. But even if it clearly is bacterial, which can sometimes be hard to tell, antibiotic treatment is not necessarily recommended for all patient groups. However, chronic pharyngitis can be caused by a number of different factors besides infection.In chronic pharyngitis, the soreness either does not go away or recurs frequently. Pharyngitis may be chronic if the sore throat lasts for more than a few weeks. There are several underlying causes for chronic pharyngitis, and treatment depends on what the underlying cause is.</Text>
+			<Text>인두염은 목 뒤쪽 인두염의 염증성 질환입니다. 급성 인두염은 더욱 흔하지만, 보통 10일 이내에 증상이 해소되곤 합니다. 이와 대조되어 만성 인두염은 감염 이외에도 여러 경로로 유발될 수 있고, 이 원인에 따라 치료 방법도 다양해집니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SPT</LocID>
-			<Text>Strep Throat</Text>
+			<Text>패혈성 인두염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_SPT_DESCRIPTION</LocID>
-			<Text>Strep throat is an infection caused by a type of bacteria (group A streptococcus). Strep bacteria cause almost a third of all sore throats. Strep throat usually needs treatment with antibiotics. </Text>
+			<Text>패혈성 인두염은 박테리아의 한 종류인 연쇄상구균에 의해 발생되는 감염입니다. 이는 보통 항생제로 치료됩니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_HFMV2</LocID>
-			<Text>Hand Foot Mouth Disease</Text>
+			<Text>손발입병</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_HFM_DESCRIPTION</LocID>
-			<Text>Hand, foot, and mouth disease (HFMD) is a common infection caused by a group of viruses. It typically begins with a fever and feeling generally unwell. This is followed a day or two later by flat discolored spots or bumps that may blister, on the hands, feet and mouth. There is no treatment for this disease, you only have to treat the symptoms until the disease is over. </Text>
+			<Text>HFMD라고도 볼리는 손발입병은 특정 바이러스에 의해 발생하는 감염입니다. 일반적으로 열과 좋지 않은 컨디션으로 시작됩니다. 이것은 하루나 이틀 후에 손, 발, 입에 물집이 생길 수 있는 평평한 변색된 반점이나 돌기가 뒤따릅니다. 이 병에 대한 치료는 없고 병이 끝날 때까지 증상을 치료하는 것으로 대체됩니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_LGP</LocID>
-			<Text>Laryngeal papillomatosis</Text>
+			<Text>후두유두종</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_LGP_DESCRIPTION</LocID>
-			<Text>Laryngeal papillomatosis, also known as recurrent respiratory papillomatosis or glottal papillomatosis, is a rare medical condition in which benign tumors (papilloma) form along the aerodigestive tract. There are two variants based on the age of onset: juvenile and adult laryngeal papillomatosis. The tumors are caused by human papillomavirus (HPV) infection of the throat. The tumors may lead to narrowing of the airway, which may cause vocal changes or airway obstruction. Laryngeal papillomatosis is initially diagnosed through indirect laryngoscopy upon observation of growths on the larynx and can be confirmed through a biopsy. Treatment for laryngeal papillomatosis aims to remove the papillomas and limit their recurrence. Due to the recurrent nature of the virus, repeated treatments usually are needed. Laryngeal papillomatosis is primarily treated surgically, though supplemental nonsurgical and/or medical treatments may be considered in some cases.</Text>
+			<Text>후두유두종은 흔히 보이는 사마귀가 후두에 발생한 것으로서, 후두상피가 유두상으로 증식되고 그 사이사이에 혈관이 풍부한 결체조직으로 대체되는 것이다. 후두 모든 부위와 기관, 기관지, 인두에까지 발생이 가능하며, 다발성으로 나타날 경우 재발 가능성 또한 높다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_VCN</LocID>
-			<Text>Vocal Cord Nodules</Text>
+			<Text>성대 결절</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_VCN_DESCRIPTION</LocID>
-			<Text>Vocal nodules are hard, rough, noncancerous growths on your vocal cords. They can be as small as a pinhead or as large as a pea. You get nodules from straining or overusing your voice, especially from singing, yelling, or talking loudly or for a long period of time. Vocal nodules go by other names based on their cause.</Text>
+			<Text>지속적인 음성 남용이나 무리한 발성에 의해 생기게 되는, 성대에 비종양적 결절이 성장하는 것으로서 결절의 크기는 다양하다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_LYC</LocID>
-			<Text>Trauma of the Larynx</Text>
+			<Text>후두 외상</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_LYC_DESCRIPTION</LocID>
-			<Text>Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located. Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases.</Text>
+			<Text>후두 외상은 성대가 위치한 기도의 윗부분인 후두에 손상이 간 것을 의미한다. 작은 성대 손상부터 후두 또는 기관의 연골 골절에 이르기까지 다양하다. 이러한 골절은 목과 가슴으로 공기가 빠져 나가게 하므로 빠른 진단 및 치료가 없으면 호흡기 손상과 사망으로 이어진다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_LYL</LocID>
-			<Text>Laceration of the Larynx</Text>
+			<Text>후두 찢김</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_LYL_DESCRIPTION</LocID>
-			<Text>Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located. Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases.</Text>
+			<Text>후두 찢김은 성대가 위치한 기도의 윗부분인 후두에 손상이 간 것을 의미한다. 작은 성대 손상부터 후두 또는 기관의 연골 골절에 이르기까지 다양하다. 이러한 골절은 목과 가슴으로 공기가 빠져 나가게 하므로 빠른 진단 및 치료가 없으면 호흡기 손상과 사망으로 이어진다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_GRDV2</LocID>
-			<Text>Gastroesophageal reflux disease</Text>
+			<Text>위식도역류병</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_GRD</LocID>
-			<Text>Gastroesophageal reflux disease (Obselete)</Text>
+			<Text>위식도역류병 (구)</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_GRD_DESCRIPTION</LocID>
-			<Text>Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD. If left untreated it will cause esophagitis, Barett's esophagus and even esophageal cancer.</Text>
+			<Text>GERD라고도 불리는 위식도역류병은, 위 식도 하부 괄약근의 수축력 약화로 인해 위의 내용물과 위산이 거꾸로 올라와 속쓰림 등의 증상이 나타나게 되는 병입니다. 이는 식도염이나 식도암을 발생시킬 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_OSA2</LocID>
-			<Text>Obstructive Sleep Apnea</Text>
+			<Text>폐쇄수면무호흡증</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_OSA_DESCRIPTION</LocID>
-			<Text>Obstructive sleep apnea (OSA) is the most common type of sleep apnea and is characterised by repeated episodes of complete or partial obstructions of the upper airway during sleep, despite the effort to breathe, and is usually associated with a reduction in blood oxygen saturation.</Text>
+			<Text>폐쇄수면무호흡증은 가장 일반적인 유형의 수면 무호흡증입니다. 환자의 호흡 노력에도 불구하고 수면중 기도의 일부 폐쇄가 반복되기에, 혈액 산소 포화도 감소와도 관련되어 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_PYC</LocID>
-			<Text>Trauma of the Pharynx</Text>
+			<Text>인두 외상</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_PYC_DESCRIPTION</LocID>
-			<Text>Pharyngeal trauma is injury to the throat, or pharynx. Pharyngeal perforation is an uncommon injury in children. Most reported cases to date have been secondary to instrumentation or penetrating wounds. Laceration to the pharyngeal wall may introduce air, secretions and bacteria into the parapharyngeal space and mediastinum and consequently has potentially life-threatening sequelae. The management of these injuries is controversial. </Text>
+			<Text>인두 외상은 목, 즉 인두의 부상입니다. 인두벽에 열상이 생기면 공기, 분비물, 박테리아가 측두엽 공간에 유입되어 생명을 위협하는 후유증을 유발합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_PYL</LocID>
-			<Text>Laceration of the Pharynx</Text>
+			<Text>인두 찢김</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>TRM_CRP_JM_PYL_DESCRIPTION</LocID>
-			<Text>Pharyngeal trauma is injury to the throat, or pharynx. Pharyngeal perforation is an uncommon injury in children. Most reported cases to date have been secondary to instrumentation or penetrating wounds. Laceration to the pharyngeal wall may introduce air, secretions and bacteria into the parapharyngeal space and mediastinum and consequently has potentially life-threatening sequelae. The management of these injuries is controversial. </Text>
+			<Text>인두 외상은 목, 즉 인두의 부상입니다. 인두벽에 열상이 생기면 공기, 분비물, 박테리아가 측두엽 공간에 유입되어 생명을 위협하는 후유증을 유발합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CWP</LocID>
-			<Text>Tracheomalacia</Text>
+			<Text>기관연화증</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CWP_DESCRIPTION</LocID>
-			<Text>Tracheomalacia is a condition or incident where the cartilage that keeps the airway (trachea) open is soft such that the trachea partly collapses especially during increased airflow. The usual symptom is stridor when a person breathes out. This is usually known as a collapsed windpipe. The trachea normally opens slightly during breathing in and narrows slightly during breathing out. These processes are exaggerated in tracheomalacia, leading to airway collapse on breathing out. If the condition extends further to the large airways (bronchi) (if there is also bronchomalacia), it is termed tracheobronchomalacia. The same condition can also affect the larynx, which is called laryngomalacia.</Text>
+			<Text>기관연화증은 기도를 열어두는 연골이 힘이 없어 기관지가 부분적으로 무너지는 질환입니다. 기관지는 보통 숨을 들이마시는 동안 살짝 열리고 내쉴때 살짝 좁아집니다. 기관연화증을 이러한 과정이 과장되어 숨을 내쉴 때 기도가 붕괴됩니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CLRG</LocID>
-			<Text>Chronic Laryngitis</Text>
+			<Text>만성 후두염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CLRG_DESCRIPTION</LocID>
-			<Text>Laryngitis that lasts longer than three weeks is known as chronic laryngitis. This type of laryngitis is generally caused by exposure to irritants over time. Chronic laryngitis can cause vocal cord strain and injuries or growths on the vocal cords (polyps or nodules). Chronic laryngitis can be caused by inhaled irritants - smoke, chemicals and allergens, Gastroesophageal Reflux Disease, Smoking, Alcohol use, Chronic Sinusitis and overuse of your voice.</Text>
+			<Text>3주 이상 지속되는 후두염은 만성 후두염으로 분류됩니다. 이러한 후두염은 성대에 무리를 가게 합니다. 이는 연기나 화학 물질, 위식도역류, 알코올이나 축농증 등 다양한 원인으로 발생합니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CTSA</LocID>
-			<Text>Central Sleep Apnea</Text>
+			<Text>중추수면무호흡</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CTSA_DESCRIPTION</LocID>
-			<Text>Central sleep apnea is a disorder in which your breathing repeatedly stops and starts during sleep. Central sleep apnea occurs because your brain doesn't send proper signals to the muscles that control your breathing. This condition is different from obstructive sleep apnea, in which you can't breathe normally because of upper airway obstruction. Central sleep apnea is less common than obstructive sleep apnea. Central sleep apnea may occur as a result of other conditions, such as heart failure and stroke. Sleeping at a high altitude also may cause central sleep apnea. Treatments for central sleep apnea may involve treating existing conditions, using a device to assist breathing or using supplemental oxygen.</Text>
+			<Text>중추수면무호흡증은 수면 중 호흡이 멈췄다가 다시 시작되는 것을 반복하는 질환입니다. 이는 뇌가 호흡을 조절하는 근육에 적절한 신호를 보내지 않기 때문에 발생합니다. 이는 심부전이나 뇌졸중과 같은 다른 질환의 결과로도 발생할 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_RKE</LocID>
-			<Text>Reinke's Edema</Text>
+			<Text>라인케 부종</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_RKE_DESCRIPTION</LocID>
-			<Text>Reinke's edema is the swelling of the vocal cords due to fluid (edema) collected within the Reinke's space. First identified by the German anatomist Friedrich B. Reinke in 1895, the Reinke's space is a gelatinous layer of the vocal cord located underneath the outer cells of the vocal cord. When a person speaks, the Reinke's space vibrates to allow for sound to be produced (phonation). The Reinke's space is sometimes referred to as the superficial lamina propria. Reinke's edema is characterized by the "sac-like" appearance of the fluid-filled vocal cords. The swelling of the vocal folds causes the voice to become deep and hoarse. Therefore, the major symptom of Reinke's edema is a hoarseness similar to laryngitis. The major cause associated with Reinke's edema is smoking. In fact, 97% of patients diagnosed with Reinke's edema are habitual smokers.</Text>
+			<Text>라인케 부종은 라인케에 모인 체액으로 인해 성대가 붓는 것입니다. 주요 증상은 후두염과 유사한 목소리 갈라짐이며, 흡연이 가장 큰 원인입니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_OVC</LocID>
-			<Text>Vocal Fatigue</Text>
+			<Text>음성피로</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_OVC_DESCRIPTION</LocID>
-			<Text>Vocal fatigue can result from overuse of the voice. We often see this in professional voice users – such as teachers, singers, and call center employees. Just like your legs can get tired from running, your voice can get tired when you use it for a long time. Our voice therapists recommend that for every 60 minutes of voice use, you need 10 minutes of voice rest. Overuse can damage the vocal cords, and if you often find you have lost your voice by the end of the day or after an hour of singing, your vocal cords may be experiencing tissue damage. A laryngologist will examine your vocal cords for growths or other conditions and may recommend voice therapy to learn techniques that reduce the stress on your vocal cords, and hopefully help to reverse any tissue damage. These therapy techniques focus on the fundamentals of voice production and re-balancing the vocal subsystems. Therapy is individualized to each voice user and his/her vocal demands.</Text>
+			<Text>음성피로는 목소리의 과용으로 인해 발생합니다. 과도한 목소리의 사용은 성대를 손상시킬 수 있으며, 각자에게 맞는 치료 프로그램을 통하여 손상된 성대를 되돌릴 수 있습니다.</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CTS</LocID>
-			<Text>Chronic Tonsillitis</Text>
+			<Text>만성 편도염</Text>
 		</GameDBLocalizedString>
 
 		<GameDBLocalizedString>
 			<LocID>DIA_CRP_JM_CTS_DESCRIPTION</LocID>
-			<Text>Tonsillitis is inflammation of the tonsils, two oval-shaped pads of tissue at the back of the throat — one tonsil on each side. Signs and symptoms of tonsillitis include swollen tonsils, sore throat, difficulty swallowing and tender lymph nodes on the sides of the neck. Most cases of tonsillitis are caused by infection with a common virus, but bacterial infections also may cause tonsillitis. Tonsillitis can be chronic if symptoms persist for more than 3 months. In this case, your doctor may recommend to remove your tonsils (Tonsillectomy).</Text>
-		</GameDBLocalizedString>
-
-
-	   
-	    <GameDBLocalizedString>      
-		 <LocID>DIA_JM_CSN</LocID>                         
-		 <Text>만성부비동염</Text>	
-		</GameDBLocalizedString>
-	   
-	    <GameDBLocalizedString>      
-		 <LocID>DIA_JM_CSN_DESCRIPTION</LocID>             
-		 <Text>만성 부비동염은 3개월 이상 부비동에 염증이 생기는 증상으로, 알레르기 등으로 인해 유발될 수 있습니다. 이 경우 코 식염수 스프레이가 치료법입니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_CSP</LocID>                         
-		 <Text>만성부비동염 (용종 동반)</Text>	
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_CSP_DESCRIPTION</LocID>             
-		 <Text>만성 부비동염은 3개월 이상 부비동에 염증이 생기는 증상으로, 알레르기 등으로 인해 유발될 수 있습니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_ASN</LocID>                         
-	 	 <Text>알레르기성 부비동염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_ASN_DESCRIPTION</LocID>             
-		 <Text>부비동에 염증이 생기는 증상으로, 알레르기로 인해 발생한 경우 이때 치료제는 항히스타민제입니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_ENS</LocID>                         
-		 <Text>빈 코 증후군</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_ENS_DESCRIPTION</LocID>             
-		 <Text>빈 코 증후군은 비갑개 관련 수술 시행 시 과도한 절제나 축소로 인해 코의 생리적 기능이 손상된 것을 의미한다. 보통 비강 폐쇄 느낌, 코 건조증 및 코로 숨쉬기 어려움을 느끼게 된다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_NAR</LocID>                         
-		 <Text>비알레르기성 비염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_NAR_DESCRIPTION</LocID>             
-		 <Text>비알레르기성 비염은 만성적인 재채기나 흐르는 콧물 증상이 동반됩니다. 이는 건초열인 알레르기성 비염의 증상과 비슷하지만, 알레르기 반응이 전혀 없다는 점이 차이점입니다. 코와 부비동에 염증을 유발하며 심한 경우 코점막에서 용종이라 불리우는 물주머니가 자라나 코 호흡을 막기도 하여, 결국 냄새를 맡지 못하게 되기도 합니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_AFS</LocID>                         
-		 <Text>알레르기성 진균 부비동염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_AFS_DESCRIPTION</LocID>             
-		 <Text>알레르기성 진균 부비동염(AFS)은 부비동에서 드문 유형의 진균 감염입니다. 환자는 곰팡이에 감염된 환자는 알레르기 반응을 일으켜 진한 곰팡이 파편, 끈적한 점액 및 감염된 부비동의 폐색을 유발합니다.</Text>  
-		</GameDBLocalizedString>
-		
-		
-	  <!-- Ear Disorders and Diseases -->
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_SED</LocID>                         
-		 <Text>메니에르 병 (중증)</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_SED_DESCRIPTION</LocID>             
-		 <Text>메니에르 병은 내이 장애로서, 현기증이나 청력 상실로 이어질 수 있습니다. 대부분의 경우 메니에르 병은 한쪽 귀에만 영향을 미칩니다. 이는 모든 연령대에서 발생할 수 있지만, 청년과 중년 때 주로 시작됩니다. 만성 질환이지만 다양한 치료로 완화하고 증상을 최소화 할 수 있습니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_MEDR</LocID>                         
-		 <Text>고막파열</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_MEDR_DESCRIPTION</LocID>             
-		 <Text>귀와 중이를 분리하는 얇은 조직인 고막이 구멍이 나거나 찢어진 것입니다. 이는 청력 손실로 이어질 뿐만 아니라, 중이염을 감염에 취약하게도 만듭니다. 파열된 고막은 보통 몇 주에 걸쳐 회복되지만, 때때로 외과적 수술이나 패치 등이 필요할 수 있습니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_SEDR</LocID>                         
-		 <Text>치료되지 않은 고막파열</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_SEDR_DESCRIPTION</LocID>             
-		 <Text>귀와 중이를 분리하는 얇은 조직인 고막이 구멍이 나거나 찢어진 것입니다. 이는 청력 손실로 이어질 뿐만 아니라, 중이염을 감염에 취약하게도 만듭니다. 파열된 고막은 보통 몇 주에 걸쳐 회복되지만, 때때로 외과적 수술이나 패치 등이 필요할 수 있습니다.</Text>  
-		</GameDBLocalizedString>		
-
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_SWE</LocID>                         
-		 <Text>심한 중이염</Text>	
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_GEE</LocID>                         
-		 <Text>삼출성 중이염</Text>	
-		</GameDBLocalizedString>
-		
-	  <!-- Throat and Mouth Disorders and Diseases -->
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_CSA</LocID>                         
-		 <Text>만성 침샘염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_CSA_DESCRIPTION</LocID>             
-		 <Text>만성 침샘염은 주로 식사 이후 통증이 심해져 입을 벌리기 어려워지고, 통증이 발생하면 일주일 가량 증상이 지속되기도 한다. 이는 고름 형태의 침이 나오거나, 침샘 주변의 임파선을 붓게도 한다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_ASS</LocID>                         
-		 <Text>급성 화농성 침샘염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_ASS_DESCRIPTION</LocID>             
-		 <Text>급성 화농성 침샘염은 침샘의 세균성 염증입니다. 이것은 전형적으로 면역력이 약하거나 입원했거나, 수술 후의 환자들에게서 흔하게 나타나곤 합니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>    <!-- New -->  
-		 <LocID>DIA_JM_DTA</LocID>                         
-		 <Text>디프테리아</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New --> 
-		 <LocID>DIA_JM_DTA_DESCRIPTION</LocID>             
-		 <Text>디프테리아는 코와 목의 점막에 주로 영향을 미치는 심각한 세균 감염입니다. 이는 선진국에서는 백신 접종 덕분에 매우 드문 증상 중 하나입니다. 디프테리아는 약으로 치료할 수 있으나 심장, 신장, 신경계를 손상시킬 수 있고, 아이들에게는 더욱 치명적입니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_VCP</LocID>                         
-		 <Text>성대마비</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_VCP_DESCRIPTION</LocID>             
-		 <Text>성대마비는 후두에 대한 신경 자극이 흐트러졌을 때 발생합니다. 말하기 뿐만 아니라 숨쉬기에도 영향을 주기도 합니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_TSC</LocID>                         
-		 <Text>구강 편평세포암</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_TSC_DESCRIPTION</LocID>             
-		 <Text>구강 편평세포암은 목에 생기는 가장 흔한 종류의 암종입니다. 목의 안쪽에 있는 비정상적인 세포의 조절되지 않은 성장을 말합니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_TAC</LocID>                         
-		 <Text>구강 샘암</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_TAC_DESCRIPTION</LocID>             
-		 <Text>구강 샘암은 목에 생기는 암성 종양 중에서, 침샘 분비와 관련된 곳에서 발견되는 암종입니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_CPHG</LocID>                         
-		 <Text>만성 인두염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_CPHG_DESCRIPTION</LocID>             
-		 <Text>인두염은 목 뒤쪽 인두염의 염증성 질환입니다. 급성 인두염은 더욱 흔하지만, 보통 10일 이내에 증상이 해소되곤 합니다. 이와 대조되어 만성 인두염은 감염 이외에도 여러 경로로 유발될 수 있고, 이 원인에 따라 치료 방법도 다양해집니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_BTE</LocID>                         
-		 <Text>귀 압력 손상</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      <!-- New -->
-		 <LocID>DIA_JM_BTE_DESCRIPTION</LocID>             
-		 <Text>귀 압력 손상은 고막 내외부의 압력 차이로 귀에 불편함을 주며, 손상을 가할 수도 있습니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_SPT</LocID>                         
-		 <Text>패혈성 인두염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_SPT_DESCRIPTION</LocID>             
-		 <Text>패혈성 인두염은 박테리아의 한 종류인 연쇄상구균에 의해 발생되는 감염입니다. 이는 보통 항생제로 치료됩니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_HFM</LocID>                         
-		 <Text>손발입병</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_HFM_DESCRIPTION</LocID>             
-		 <Text>HFMD라고도 볼리는 손발입병은 특정 바이러스에 의해 발생하는 감염입니다. 일반적으로 열과 좋지 않은 컨디션으로 시작됩니다. 이것은 하루나 이틀 후에 손, 발, 입에 물집이 생길 수 있는 평평한 변색된 반점이나 돌기가 뒤따릅니다. 이 병에 대한 치료는 없고 병이 끝날 때까지 증상을 치료하는 것으로 대체됩니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_LGP</LocID>                         
-		 <Text>후두유두종</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_LGP_DESCRIPTION</LocID>             
-		 <Text>후두유두종은 흔히 보이는 사마귀가 후두에 발생한 것으로서, 후두상피가 유두상으로 증식되고 그 사이사이에 혈관이 풍부한 결체조직으로 대체되는 것이다. 후두 모든 부위와 기관, 기관지, 인두에까지 발생이 가능하며, 다발성으로 나타날 경우 재발 가능성 또한 높다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_VCN</LocID>                         
-		 <Text>성대 결절</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_VCN_DESCRIPTION</LocID>             
-		 <Text>지속적인 음성 남용이나 무리한 발성에 의해 생기게 되는, 성대에 비종양적 결절이 성장하는 것으로서 결절의 크기는 다양하다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYC</LocID>                         
-		 <Text>후두 둔상</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYC_DESCRIPTION</LocID>             
-		 <Text>후두 둔상은 성대가 위치한 기도의 윗부분인 후두에 손상이 간 것을 의미한다. 작은 성대 손상부터 후두 또는 기관의 연골 골절에 이르기까지 다양하다. 이러한 골절은 목과 가슴으로 공기가 빠져 나가게 하므로 빠른 진단 및 치료가 없으면 호흡기 손상과 사망으로 이어진다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYL</LocID>                         
-		 <Text>후두외상</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYL_DESCRIPTION</LocID>             
-		 <Text>후두외상은 성대가 위치한 기도의 윗부분인 후두에 손상이 간 것을 의미한다. 작은 성대 손상부터 후두 또는 기관의 연골 골절에 이르기까지 다양하다. 이러한 골절은 목과 가슴으로 공기가 빠져 나가게 하므로 빠른 진단 및 치료가 없으면 호흡기 손상과 사망으로 이어진다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_GRD</LocID>                         
-		 <Text>위식도역류병</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_GRD_DESCRIPTION</LocID>             
-		 <Text>GERD라고도 불리는 위식도역류병은, 위 식도 하부 괄약근의 수축력 약화로 인해 위의 내용물과 위산이 거꾸로 올라와 속쓰림 등의 증상이 나타나게 되는 병입니다. 이는 식도염이나 식도암을 발생시킬 수 있습니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_OSA</LocID>                         
-		 <Text>폐쇄수면무호흡</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_OSA_DESCRIPTION</LocID>             
-		 <Text>폐쇄수면무호흡증은 가장 일반적인 유형의 수면 무호흡증입니다. 환자의 호흡 노력에도 불구하고 수면중 기도의 일부 폐쇄가 반복되기에, 혈액 산소 포화도 감소와도 관련되어 있습니다.</Text>  
-		</GameDBLocalizedString>
-		
-	  <!-- Obselete -->
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_APX</LocID>                         
-		 <Text>아나필락시스</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_APX_DESCRIPTION</LocID>             
-		 <Text>아나필락시스는 땅콩이나 벌침, 혹은 다른 요인에 의해 기도가 좁아져 호흡이 차단되고, 피부 발진이나 메스꺼움, 구토 등의 증상을 일으키는 알레르기 반응이다. 에피네프린 주사와 응급 조치가 필요하며, 즉시 치료하지 않으면 치명적일 수 있다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_MED</LocID>                         
-		 <Text>메니에르 병 (약함)</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_MED_DESCRIPTION</LocID>             
-		 <Text>메니에르 병은 내이 장애로서, 현기증이나 청력 상실로 이어질 수 있습니다. 대부분의 경우 메니에르 병은 한쪽 귀에만 영향을 미칩니다. 이는 모든 연령대에서 발생할 수 있지만, 청년과 중년 때 주로 시작됩니다. 만성 질환이지만 다양한 치료로 완화하고 증상을 최소화 할 수 있습니다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_JM_CLA</LocID>                         
-		 <Text>진주종</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_JM_CLA_DESCRIPTION</LocID>             
-		 <Text>진주종은 만성 중이염에서 골파괴를 유발하여 임상적으로 난청, 현기증, 안면신경 마비와 두개내 합병증을 유발하는 중요한 원인으로 알려져 있다. 대개 재발되는 감염으로 인해 고막의 피부가 안으로 자라 들어가서 발생하게 되는데, 이 피부층을 벗기면 그 속에 낭종 같은 형태의 진주빛 하얀 덩어리들이 존재한다. 시간이 지남에 따라 이것들은 크기가 커지면서 중이내의 미세한 뼈들을 파괴시킬 수 있다.</Text>  
+			<Text>편도염은 편도선에 염증이 생기는 것으로서, 편도선이 붓고 목이 아프며 침을 삼키기 힘들어집니다. 이 경우가 3개월이 넘어가면 만성으로 구분되며, 편도선 제거술이 권장되기도 합니다.</Text>
 		</GameDBLocalizedString>
 		 
 	</LocalizedStrings>
