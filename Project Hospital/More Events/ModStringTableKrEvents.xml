@@ -1,0 +1,316 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_MOREEVENTS">
+    
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>한국어</LanguageNameLocalized>
+        
+        <Contributors>
+            <Name>LimeCake</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+
+            <!-- Event names -->
+            <GameDBLocalizedString>      
+			<LocID>EVENT_CRASH</LocID>                     
+			<Text>사고</Text>
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>      
+			<LocID>EVENT_PANDEMIC</LocID>                  
+			<Text>전염병</Text>
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>      
+			<LocID>EVENT_NATURAL_DISASTER</LocID>          
+			<Text>재난</Text>
+			</GameDBLocalizedString>
+			
+			<!-- ########### EVENTS ########### -->
+			<!-- Disaster -->
+
+            <GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_EXPLOSION_DESC</LocID>         		                    
+			<Text>시내 한 주유소에서 폭발이 발생해 현재까지 3명이 숨지고 8명이 다쳤습니다. 소방대원과 경찰은 현장에 출동해 진화작업을 벌이고 있으며, 경찰은 사고 경위를 조사하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_NUCLEAR_MELTDOWN_DESC</LocID>         	              
+			<Text>속보! 인근 도시에서 멜트다운이 발생해 방사능이 유출되어 기반시설에 피해를 주고 있습니다. 수많은 환자들의 발생이 예상됩니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_VOLCANIC_ERUPTION_DESC</LocID>         		                    
+			<Text>속보! 인근 주에서 발생한 화산 폭발로 3개 도시가 화산재와 용암에 휩싸였습니다. 국가재난대응센터가 하수관이 누수되면서 여러 감염병이 상수도를 통해 유출되고 있다고 보고했습니다. 전염병이나 외상환자가 급증함에 따라 사전 조치가 취해져야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_LANDSLIDE_DESC</LocID>         		                    
+			<Text>속보! 현재 다가오고 있는 천둥번개로 인해 도시 서쪽 지역에 큰 산사태가 발생했습니다. 재난대응팀이 모든 환자를 인근 병원으로 이송하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_DAM_BURST_DESC</LocID>         		                    
+			<Text>속보! 콘크리트 벽이 심하게 노화되어 대형 댐이 무너졌습니다. 일부 도시들은 홍수로 인해 80만명 이상의 부상자와 260만명 이상의 사망자를 냈고, 수많은 헬리콥터와 구급차가 환자들을 병원으로 이송하기 시작했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_FIRE1_DESC</LocID>         		                    
+			<Text>전망대에서 대형 화재가 발생했습니다. 소방관들이 건물에서 대피 작업을 진행하고 있습니다. 화상 환자들에 대해 준비가 이루어져야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_FIRE2_DESC</LocID>         		                    
+			<Text>속보! 국제공항에서 대형 화재가 발생했습니다. 가스가 누출된다면 큰 폭발로도 이어질 수 있습니다. 소방관들이 환자들의 병원 이송에 사활을 걸고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_FIRE3_DESC</LocID>         		                    
+			<Text>도심 근처 쇼핑몰에서 화재가 발생했습니다. 부상 환자들과 화상 환자들에 대한 대비가 이루어져야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_HURRICANE1_DESC</LocID>         		                    
+			<Text>속보! 3등급 허리케인이 동쪽 해안선에 도달했습니다. 수많은 사상자가 발생할 것으로 보입니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_TORNADO1_DESC</LocID>         		                    
+			<Text>속보! EF3등급 토네이도가 이웃 마을을 관통했습니다. 수십 채의 건물이 무너지고 사상자가 속출하고 있습니다. 의료 헬리콥터가 일부 환자를 도시로 이송중입니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_COLDWAVE_DESC</LocID>         		                    
+			<Text>기상청은 북부지역에 한파경보를 발령했습니다. 보건당국 또한 두꺼운 옷과 난방기를 구입할 것을 권고하였습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_SMOG_DESC</LocID>         		                    
+			<Text>화전농법을 위한 숲의 방화로 인하여 발생한 스모그는 도시 건강에 심각한 피해를 끼치고 있습니다. 보건당국은 폐에 가해지는 피해를 최소화하기 위해 마스크 착용을 권고했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<!-- Accident -->
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_AEROPLANE_CRASH_DESC</LocID>         		                    
+		    <Text>속보! 민항 여객기가 사무실 건물에 추락했습니다. 화재로 인한 2차 피해또한 발생하여 수많은 사상자가 발생했습니다. 응급구조대가 현장에서 지휘중이며 부상자들은 가까운 병원으로 이송되고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_REMOTE_PLANE_CRASH_DESC</LocID>         		                    
+			<Text>속보! 전용기가 외딴 지역에 추락하여 구조 헬기가 생존자들을 병원으로 긴급 후송하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_LORRY_ACCIDENT_DESC</LocID>         		                    
+			<Text>속보! 대형 트럭이 123번가 식당에 충돌하였습니다. 구급차가 모든 환자들을 병원으로 이송하고 있습니다. 운전자는 숨진 채로 발견되었고, 음주 상태였던 것으로 추정됩니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_SINKING_SHIP_DESC</LocID>         		                    
+			<Text>속보! 대형 유람선이 암초에 부딪혀 침몰하기 시작했습니다. 구명보트에 승객과 승무원들이 앞다퉈 탑승하기 위해 혼란이 가중되고 있습니다. 인근 병원들은 중상 환자들이 몰려올 것에 대비해야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_EXPLODED_SHIP_DESC</LocID>         		                    
+			<Text>속보! 선상 화재로 인하여 화물선이 폭발했습니다. 불 붙은 기름띠와 플라스틱 폐기물들이 바다로 유출되며 물이 오염되었고 인근 해변은 폐쇄되었습니다. 해경의 지휘 아래 승객과 선원을 대피시키고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_BUILDCOLLAPSE1_DESC</LocID>         		                    
+			<Text>속보! 인근 빌라가 불확실한 원인으로 인하여 무너져내렸고 수십 명이 숨진 채 발견되었습니다. 이 사고로 인근 주민들 또한 부상자가 많아 병원으로 이송될 예정입니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_BUS_ACCIDENT_DESC</LocID>         		                    
+			<Text>여객버스가 오토바이 무리와 충돌하였습니다. 버스 승객들에게는 큰 피해가 없지만 여러 오토바이 운전자들이 중상을 입었습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_CHAIN_COLLISION_DESC</LocID>         		                    
+			<Text>속보! 도시 외곽 심한 안개로 인하여 고속도로 나들목에서 연쇄 추돌 사고가 발생했습니다. 지금까지 4명이 사망한 것으로 확인되었습니다. 응급 구조대가 환자를 이송하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_TRAIN_DERAILMENT_DESC</LocID>         		                    
+			<Text>속보! 인근을 지나던 고속열차가 탈선하여 다수의 사상자가 발생하였습니다. 현재 경찰과 소방관들이 현장에서 모두를 대피시키고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_CHEMICAL_LEAK_DESC</LocID>         		                    
+			<Text>속보! 한 화학 공장에서 메탄올을 포함한 위독성 화학 물질들이 유출되었습니다. 인근 주민들은 문과 창문을 닫고 실내에 머무르도록 조치되고 있습니다. 독성의 어떤 증상이라도 보고되면 즉시 가까운 병원으로 내원하세요.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_SHOOTING_DESC</LocID>         		                    
+			<Text>속보! 인근 국립대학은 무장한 학생 2명이 총격을 가했다고 보고했습니다. 이 총격으로 인하여 수많은 인명 피해가 발생하였고 병원으로 이송되고 있습니다. 용의자들은 모두 체포되었습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_CLASH_DESC</LocID>         		                    
+			<Text>속보! 인근 공원에서 여당 야당 지지당원끼리 충돌하면서 대규모 인명피해가 발생했습니다. 진압경찰이 투입되었고 부상자들은 병원으로 이송될 예정입니다.</Text>
+			</GameDBLocalizedString>
+			
+			<!-- Disease Outbreak -->
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_FOOD_POISONING1_DESC</LocID>         		                    
+			<Text>국내 유명한 식품 공장에서 보툴리누스 박테리아가 발견되었고 이미 상품들이 진열된 곳 또한 발견되었습니다. 당국은 이 사태에 대하여 긴급 조사중에 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_FOOD_POISONING2_DESC</LocID>         		                    
+			<Text>이 지역의 닭 가공 공장의 장비들이 살모넬라에 감염된 것으로 드러났습니다. 공장은 폐쇄되어 철저한 소독 조치가 이루어졌지만 당분간 살모넬라 감염이 급증할 것으로 보입니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_FOOD_POISONING3_DESC</LocID>         		                    
+			<Text>최근 시내의 한 식당이 시사고발 TV 프로그램에 의해 다루어졌습니다. 진행자는 대부분의 재료가 식용 불가 상태였으며 부엌은 쥐들로 들끓었다고 밝혔습니다. 최근의 이 식당 방문자들은 식중독에 대비해야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_FOOD_POISONING4_DESC</LocID>         		                    
+			<Text>속보! 주변 공장에서 하천으로 하수를 배출하던 것이 밝혀졌습니다. 수질 오염 수치가 기준치를 아득히 뛰어넘었고 공장 주인이 구속되어 임원들과 함께 벌금형을 선고받았습니다. 병원은 더 많은 질병과 중독에 대비해야 할 것입니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_EPIDEMIC1_DESC</LocID>         		                    
+			<Text>속보! 인근 동물원의 침팬지들이 사람들에게 여러 질병을 감염시키는 것이 발견되었고 긴급 폐쇄되었습니다. 보건 당국은 침팬지에 노출되었던 사람들을 추적 중이지만 일부는 이미 다른 지역으로 떠났다고 밝혔습니다. 전염병을 대비하는 발표가 곳 있을 것입니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_EPIDEMIC2_DESC</LocID>         		                    
+			<Text>속보! 80건 이상의 림프절페스트 사례가 도시 외곽에서 보고되고 있습니다. 감염을 억제하기 위해 도시에는 폐쇄 조치가 내려졌습니다. 인근 병원은 페스트 환자들을 수용하도록 권고되고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_EPIDEMIC3_DESC</LocID>         		                    
+			<Text>속보! 인근 호텔에서 여러 건의 니파 바이러스 감염이 보고되었습니다. 이는 인도에서 온 관광객들과 밀접한 관련이 있을 것으로 보고되었습니다. 니파 바이러스 감염 증상이 있으시다면 가까운 병원으로 즉시 내원하세요.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_SEASON1_DESC</LocID>         		                    
+			<Text>알레르기 시즌이 이제 시작되었고, 수많은 알레르기 환자들에 대비하여야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_SEASON2_DESC</LocID>         		                    
+			<Text>알레르기 시즌이 평소보다 심해서 병원에서는 이전보다 더 많은 알레르기 환자가 유입될 것으로 예상해야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_BIOTERRORIST1_DESC</LocID>         		                    
+			<Text>속보! 생화학 테러가 발생하여 수많은 감염자가 발생하고 있습니다. 보건당국은 즉시 폐쇄와 격리 조치에 들어갔으며 인근 병원에 높은 경계령을 내렸습니다. 알려지지 않은 질병과 감염병의 발생에 대비하도록 병원들에 권고가 내려졌습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EBOLA_DESC</LocID>         		                    
+			<Text>과거 이벤트 : 2014년 9월. 첫 번째 에볼라 환자가 국내에서 보고되었습니다. 소셜 미디어에서는 집단 공포가 형성되었습니다. 서아프리카 국가에 방문하였거나 밀접한 관련이 있는 사람들은 모두 조사를 받고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_JM_EVENT_ZIKA_DESC</LocID>         		                    
+			<Text>과거 이벤트 : 2016년 1월. 브라질에서 지카의 발병은 크게 증가하기 시작했고 현재 리우데자네이루에서 12건이 넘는 사례가 보고되었습니다. 그 이후로 공중보건 비상사태가 선포되었습니다. 병원은 환자 증가에 대비해야 합니다.</Text>
+			</GameDBLocalizedString>
+			
+			<!-- ########### News ########### -->
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_CIVIL_WAR_CRISIS</LocID>         		                    
+			<Text>이 나라는 내전에 빠졌고 사상자는 외상환자의 {1}% 증가를 야기하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_CIVIL_WAR_CRISIS_TEXT</LocID>         		                    
+			<Text>이 나라는 내전에 빠졌고 사상자는 외상환자의 {1}% 증가를 야기하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_WAR</LocID>         		                    
+			<Text>이 나라는 다른 나라와 전쟁을 벌여 외상환자가 {1}% 증가했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_WAR_TEXT</LocID>         		                    
+			<Text>이 나라는 다른 나라와 전쟁을 벌여 외상환자가 {1}% 증가했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_PROTESTS</LocID>         		                    
+			<Text>이 지역 전역에서 시위가 발생해 외상 환자가 {1}% 증가했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_PROTESTS_TEXT</LocID>         		                    
+			<Text>이 지역 전역에서 시위가 발생해 외상 환자가 {1}% 증가했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_EPIDEMIC</LocID>         		                    
+			<Text>국내에 많은 질병들이 급증하기 시작했고, 감염률이 {1}% 증가했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_EPIDEMIC_TEXT</LocID>         		                    
+			<Text>국내에 많은 질병들이 급증하기 시작했고, 감염률이 {1}% 증가했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_BUDGET_CUT</LocID>         		                    
+			<Text>의료 시스템에 대한 예산 삭감으로 인해 보험금 지급액이 {1}% 감소했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_BUDGET_CUT_TEXT</LocID>         		                    
+			<Text>의료 시스템에 대한 예산 삭감으로 인해 보험금 지급액이 {1}% 감소했습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_BUDGET_INCREASE</LocID>         		                    
+			<Text>의료 시스템 예산이 증가하여 보험금 지급액이 약 {1}% 증가했습니다. </Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_BUDGET_INCREASE_TEXT</LocID>         		                    
+			<Text>의료 시스템 예산이 증가하여 보험금 지급액이 약 {1}% 증가했습니다.</Text>
+			</GameDBLocalizedString>
+
+            <GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_KAREN_STRIKES</LocID>         		                    
+			<Text>캐런이 당신 병원에 대해 나쁜 리뷰를 써서 환자가 {1}%나 줄었습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_KAREN_STRIKES_TEXT</LocID>         		                    
+			<Text>캐런이 당신 병원에 대해 나쁜 리뷰를 써서 환자가 {1}%나 줄었습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_TERRORISM</LocID>         		                    
+			<Text>분리주의자 집단이 증가하여 테러 활동이 증가하였고, 외상 환자의 {1}% 증가를 야기하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_TERRORIsiSM</LocID>         		                    
+			<Text>분리주의자 집단이 증가하여 테러 활동이 증가하였고, 외상 환자의 {1}% 증가를 야기하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_TERRORISM_TEXT</LocID>         		                    
+			<Text>분리주의자 집단이 증가하여 테러 활동이 증가하였고, 외상 환자의 {1}% 증가를 야기하고 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_MURDERER</LocID>         		                    
+			<Text>연쇄살인범이 인근 도시로 탈출하였다고 보고되었으며, 살인 사건이 {1}% 증가할 수 있습니다.</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>MOD_WORLD_EVENT_MURDERER_TEXT</LocID>         		                    
+			<Text>연쇄살인범이 인근 도시로 탈출하였다고 보고되었으며, 살인 사건이 {1}% 증가할 수 있습니다.</Text>
+			</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+    

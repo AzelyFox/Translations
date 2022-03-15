@@ -1,0 +1,24 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_MOREEVENTS_NAMES">
+        
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>한국어</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>LimeCake</Name>
+        </Contributors>
+        
+        <LocalizedStrings>       
+		
+            <!-- Insurance companies -->
+            <GameDBLocalizedString>    
+			<LocID>IN_COM_MODEVE_RECS</LocID>             
+			<Text>적십자 재난구호단체</Text>
+			</GameDBLocalizedString>
+			
+        </LocalizedStrings>
+    </GameDBStringTable>
+
+</Database>
+
+   
