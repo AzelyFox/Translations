@@ -12,193 +12,197 @@
 
 			<!-- ================================================== Clinique ================================================== -->
 			
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RA</LocID>												<Text>Aortic stenosis</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RA_DESCRIPTION</LocID>									<Text>Aortic stenosis is one of the most common and most serious valve disease problems. Aortic stenosis is a narrowing of the aortic valve opening. Aortic stenosis restricts the blood flow from the left ventricle to the aorta and may also affect the pressure in the left atrium.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_IA</LocID>												<Text>Aortic insufficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_IA_DESCRIPTION</LocID>									<Text>Aortic insufficiency (AI), also known as aortic regurgitation (AR), is the leaking of the aortic valve of the heart that causes blood to flow in the reverse direction during ventricular diastole, from the aorta into the left ventricle. As a consequence, the cardiac muscle is forced to work harder than normal.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SYNCOPE_NC</LocID>										<Text>Neurocardiogenic syncope</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SYNCOPE_NC_DESCRIPTION</LocID>							<Text>Syncope is a brief loss of consciousness (BLC) due to rapid onset cerebral hypoperfusion, of short duration and complete and spontaneous recovery. After the event, the neurological state (including behavior and orientation) is normal. The patient has no recorded memories during the BLC period.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPOTA_ORTHO</LocID>										<Text>Orthostatic hypotension</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>							<Text>Orthostatic hypotension is defined as a decrease in systolic blood pressure of 20 mm Hg or a decrease in diastolic blood pressure of 10 mm Hg within three minutes of standing when compared with blood pressure from the sitting or supine position.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_STOKESADAMS</LocID>									<Text>Adams–Stokes syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_STOKESADAMS_DESCRIPTION</LocID>						<Text>Sudden collapse into unconsciousness due to a disorder of heart rhythm in which there is a slow or absent pulse resulting in syncope (fainting) with or without convulsions. In this condition, the normal heartbeat passing from the upper chambers of the heart to the lower chambers is interrupted.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_LIPOTHYMIE</LocID>										<Text>Presyncope</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_LIPOTHYMIE_DESCRIPTION</LocID>							<Text>Lightheadedness can also be called presyncope, in contrast with syncope (fainting), particularly in cases of temporary visual field loss. Lightheadedness is a common and typically unpleasant sensation of dizziness or a feeling that one may faint. The sensation of lightheadedness can be short-lived, prolonged, or, rarely, recurring. In addition to dizziness, the individual may feel as though his or her head is weightless. The individual may also feel as though the room is "spinning" or moving (vertigo) associated with lightheadedness. Most causes of lightheadedness are not serious and either cure themselves quickly, or are easily treated.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FIBRILLATION_ATRIALE</LocID>								<Text>Atrial fibrillation</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FIBRILLATION_ATRIALE_DESCRIPTION</LocID>					<Text>Atrial fibrillation (AF or A-fib) is an abnormal heart rhythm (arrhythmia) characterized by rapid and irregular beating of the atrial chambers of the heart.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DYSFONCTION_SINUSALE</LocID>								<Text>Sick Sinus Syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DYSFONCTION_SINUSALE_DESCRIPTION</LocID>					<Text>Sick sinus syndrome (SSS), is a group of abnormal heart rhythms (arrhythmias) presumably caused by a malfunction of the sinus node, the heart's primary pacemaker. Tachycardia-bradycardia syndrome is a variant of sick sinus syndrome in which the arrhythmia alternates between slow and fast heart rates. Tachycardia-bradycardia syndrome is often associated with ischemic heart disease and heart valve disease.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ATRIOVENTRICULAIRE</LocID>							<Text>Atrioventricular block</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ATRIOVENTRICULAIRE_DESCRIPTION</LocID>				<Text>Atrioventricular block (AV block) is a type of heart block that occurs when the electrical signal traveling from the atria, or the upper chambers of the heart, to ventricles, or the lower chambers of the heart, is impaired. Normally, the sinoatrial node (SA node) produces an electrical signal to control the heart rate. The signal travels from the SA node to the ventricles through the atrioventricular node (AV node). In an AV block, this electrical signal is either delayed or completely blocked. When the signal is completely blocked, the ventricles produce their own electrical signal to control the heart rate. The heart rate produced by the ventricles is much slower than that produced by the SA node.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BB_GAUCHE</LocID>											<Text>Left bundle branch block</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BB_GAUCHE_DESCRIPTION</LocID>								<Text>Left bundle branch block (LBBB) is a cardiac conduction abnormality seen on the electrocardiogram (ECG). In this condition, activation of the left ventricle of the heart is delayed, which causes the left ventricle to contract later than the right ventricle.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TACHYCARDIE_VENTRICULAIRE</LocID>							<Text>Ventricular tachycardia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TACHYCARDIE_VENTRICULAIRE_DESCRIPTION</LocID>				<Text>Ventricular tachycardia (V-tach or VT) is a type of regular, fast heart rate that arises from improper electrical activity in the ventricles of the heart.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BOUVERET</LocID>											<Text>Bouveret-Hoffmann syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BOUVERET_DESCRIPTION</LocID>								<Text>It is a rapid heartbeat that originates neither from the atria nor the ventricles, but rather from a node responsible for the propagation of electrical impulses of the heart.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TORSADE_DE_POINTES</LocID>								<Text>Torsade de pointes</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TORSADE_DE_POINTES_DESCRIPTION</LocID>					<Text>Torsades de pointes (TdP) (translated as "twisting of peaks"), is a specific type of abnormal heart rhythm that can lead to sudden cardiac death. It is a polymorphic ventricular tachycardia that exhibits distinct characteristics on the electrocardiogram (ECG). It was described by Frenchman François Dessertenne in 1966.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_WPW</LocID>											<Text>Wolff–Parkinson–White syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_WPW_DESCRIPTION</LocID>								<Text>Wolff–Parkinson–White syndrome (WPWS) is a disorder due to a specific type of problem with the electrical system of the heart which has resulted in symptoms.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICG</LocID>											<Text>Left-sides heath failure</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICG_DESCRIPTION</LocID>								<Text>Left-sided heart failure occurs when the left ventricle doesn't pump efficiently.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICD</LocID>											<Text>Right-sided heath failure</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICD_DESCRIPTION</LocID>								<Text>Righ-sided heart failure occurs when the right ventricle doesn't pump efficiently.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AOMI</LocID>												<Text>OALL</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AOMI_DESCRIPTION</LocID>									<Text>Obliterating Arteriopathy of the Lower Limbs (OALL) is defined as partial or total atheromatous obstruction of one or more arteries intended for the lower limbs.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_AAA</LocID>										<Text>Abdominal Aortic Aneurysm</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>							<Text>Abdominal aortic aneurysm (AAA) is a localized enlargement of the abdominal aorta such that the diameter is greater than 3 cm or more than 50% larger than normal.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_POPLITE</LocID>									<Text>Popliteal Artery Aneurysms</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>						<Text>Popliteal artery aneurysms (PAAs) is bulging and weakness in the wall of the popliteal artery, which supplies blood to the knee joint, thigh and calf.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ISCHEMIE_MESENTERIQUE_CHRONIQUE</LocID>					<Text>Chronic mesenteric ischemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ISCHEMIE_MESENTERIQUE_CHRONIQUE_DESCRIPTION</LocID>		<Text>Chronic digestive ischemia affects the elderly; it predominates in women in more than 70% of cases. This pathology is uncommon and indicates an advanced and diffuse atheromatous disease.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RA</LocID>												<Text>대동맥협착증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RA_DESCRIPTION</LocID>									<Text>대동맥 협착증은 대동맥 판막이 좁아지는 것으로서 가장 흔하고 심각한 판막 질환 중 하나입니다. 이는 좌심실에서 대동맥으로 가는 혈류를 제한하며 좌심방의 압력에도 영향을 미칠 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_IA</LocID>												<Text>대동맥판막기능부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_IA_DESCRIPTION</LocID>									<Text>대동맥 역류(AR)라고도 하는 대동맥 기능부전(AI)은 심실 확장기 동안 대동맥에서 좌심실로 피가 역방향으로 흐르게 하는 심장의 대동맥 판막이 누출되는 것입니다. 그 결과 심근은 평소보다 과도하게 움직이게 됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SYNCOPE_NC</LocID>										<Text>심장신경성 실신</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SYNCOPE_NC_DESCRIPTION</LocID>							<Text>실신은 짧은 기간동안의 의식 상실입니다. 이동안 신경학적 상태는 정상입니다. 환자에게 실신 기간동안의 기억이 없습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPOTA_ORTHO</LocID>										<Text>기립저혈압</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>							<Text>기립성 저혈압은 앉은 자세 또는 반듯이 누운 자세의 혈압에 비해 서서 3분 이내에 수축기 혈압이 20mmHg 감소하거나 10mmHg 감소하는 것으로 정의됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_STOKESADAMS</LocID>									<Text>스토키아담병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_STOKESADAMS_DESCRIPTION</LocID>						<Text>아담즈스톡스증후군이라고도 하는 이 증상은, 맥박이 느리거나 없기 때문에 경련이 동반될 수 있는 실신을 일으키는 심장 박동 장애로 인하여 갑자기 의식불명 상태에 빠집니다. 이 상태에서는 심장의 위쪽에서 아래쪽으로 전달되는 정상적인 심장 박동이 중단됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_LIPOTHYMIE</LocID>										<Text>실신전단계증상</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_LIPOTHYMIE_DESCRIPTION</LocID>							<Text>현기증은 실신과 대조적으로, 특히 일시적으로 시야가 손실되는 경우 사전 징조라고 할 수 있습니다. 현기증은 흔하고 전형적으로 불쾌한 의식의 흐릿함과 기절할 수도 있다는 느낌을 의미합니다. 현기증은 짧게 지속되거나, 길게 지속되거나, 드물게 반복될 수 있습니다. 어지러움 외에도 머리에 무중력 상태가 있는 것처럼 느낄 수 있습니다. 또한 방이 어지럽거나 움직이는 것처럼 느낄 수도 있습니다. 어지럼증의 원인은 대부분 심각하지 않고 빠르게 호전되거나 쉽게 치료되고는 합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FIBRILLATION_ATRIALE</LocID>								<Text>심방세동</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FIBRILLATION_ATRIALE_DESCRIPTION</LocID>					<Text>심방세동은 심방실이 빠르고 불규칙하게 뛰는 것이 특징인 비정상적인 심장박동(부정맥)입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DYSFONCTION_SINUSALE</LocID>								<Text>동기능부전증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DYSFONCTION_SINUSALE_DESCRIPTION</LocID>					<Text>동기능부전증후군은 심장의 1차 심박조절인 부비동결절의 기능 부전으로 인한 비정상적인 심장박동(부정맥)을 포함합니다. 빈맥-빈맥 증후군은 부정맥이 느린 심박수와 빠른 심박수를 번갈아 가며 나타나는 병정맥동 증후군의 일종이다. 빈맥-빈맥 증후군은 종종 허혈성 심장 질환과 심장 판막 질환과 관련이 있다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ATRIOVENTRICULAIRE</LocID>							<Text>방실차단</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ATRIOVENTRICULAIRE_DESCRIPTION</LocID>				<Text>방실차단은 심방 또는 심장의 상방에서 심실 또는 심장의 하방으로 이동하는 전기 신호가 손상되었을 때 발생하는 심장 이상의 한 유형입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BB_GAUCHE</LocID>											<Text>좌방실다발갈래차단</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BB_GAUCHE_DESCRIPTION</LocID>								<Text>좌방실다발갈래차단은 심전도(ECG)에서 볼 수 있는 심장전도 이상입니다. 이 상태에서는 심장의 좌심실의 활성화가 지연되어 우심실보다 좌심실이 늦게 수축하게 됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TACHYCARDIE_VENTRICULAIRE</LocID>							<Text>심실성빈맥</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TACHYCARDIE_VENTRICULAIRE_DESCRIPTION</LocID>				<Text>심실성빈맥은 심실의 부적절한 전기 활동에서 발생하는 규칙적이고 빠른 심박수의 한 종류입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BOUVERET</LocID>											<Text>부베레(-호프만)증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BOUVERET_DESCRIPTION</LocID>								<Text>심방이나 심실에서가 아니라 심장의 전기 자극을 전파하는 역할을 하는 결절에서 비롯되는 빠른 심장박동입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TORSADE_DE_POINTES</LocID>								<Text>염전성 심실빈맥</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TORSADE_DE_POINTES_DESCRIPTION</LocID>					<Text>염전성 심실빈맥은 갑작스러운 심장사로 이어질 수 있는 비정상적인 심장 박동의 특정 유형입니다. 심전도(ECG)에서 뚜렷한 특징을 보이는 다형성 심실 빈맥으로서 1966년 프랑스인 프랑수아 데스텐에 의해 기술되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_WPW</LocID>											<Text>WPW 증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_WPW_DESCRIPTION</LocID>								<Text>심방과 심실 사이 비정상적인 전기신호 전달 통로인 부전도로가 존재하여 빠른 부정맥이 동반되는 선천적 질환입니다. 이를 볼프(Wolff), 파킨슨(Parkinson), 화이트(White) 등이 최초로 증례 보고해서, 그들의 이름을 따 WPW 증후군이라 부릅니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICG</LocID>											<Text>좌심실부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICG_DESCRIPTION</LocID>								<Text>좌심실이 효율적으로 펌프질을 하지 않을 때 좌심부전이 발생합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICD</LocID>											<Text>우심실부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICD_DESCRIPTION</LocID>								<Text>우심실이 효율적으로 펌프질을 하지 않을 때 좌심부전이 발생한다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AOMI</LocID>												<Text>하지동맥폐쇄증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AOMI_DESCRIPTION</LocID>									<Text>하지동맥폐쇄증은 하지에 대한 하나 이상의 동맥의 부분적 또는 전체적 폐색으로 정의됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_AAA</LocID>										<Text>복부 대동맥 동맥류</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>							<Text>AAA(복부 대동맥류)는 복부 대동맥이 국소적으로 확대되어 직경이 정상보다 3cm 이상 크거나 50% 이상 커집니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_POPLITE</LocID>									<Text>슬픽동맥류</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>						<Text>슬픽 동맥류(PAAs)는 무릎 관절, 허벅지, 종아리에 혈액을 공급하는 슬픽 동맥의 벽이 부풀어 오르고 약해진다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ISCHEMIE_MESENTERIQUE_CHRONIQUE</LocID>					<Text>만성 장간막허혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ISCHEMIE_MESENTERIQUE_CHRONIQUE_DESCRIPTION</LocID>		<Text>만성 장간막 허혈증은 노인들에게 영향을 미치며, 사례로 보았을 때 70% 이상 여성에게 더욱 발생합니다. 이 질병은 흔치 않으며 진행성 및 확산성 동맥류 질환을 나타냅니다.</Text>	</GameDBLocalizedString>
 <!-- v0.02  -->
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DALA</LocID>											<Text>Partial Androgen Deficiency in Aged Male</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DALA_DESCRIPTION</LocID>								<Text>The term "andropause" is commonly used to refer to the decline in circulating testosterone from the age of 40 in men. Another popular term is that of "hypogonadism" in the elderly or partial androgen deficiency in the elderly - known by the acronym PADAM (Partial Androgen Deficiency in Aged Male).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HPRL_F</LocID>										<Text>Hyperprolactinemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HPRL_H</LocID>										<Text>Hyperprolactinemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HPRL_DESCRIPTION</LocID>								<Text>Prolactin is a peptide hormone produced by the anterior pituitary gland that is primarily associated with lactation and plays a vital role in breast development during pregnancy. Hyperprolactinaemia may cause galactorrhea (production and spontaneous flow of breast milk), infertility, and disruptions in the normal menstrual period in women; and hypogonadism, infertility and erectile dysfunction in men.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ACROMEGALIE</LocID>									<Text>Acromegaly</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ACROMEGALIE_DESCRIPTION</LocID>						<Text>Acromegaly is a disorder that results from excess growth hormone (GH) after the growth plates have closed.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CUSHING_F</LocID>										<Text>Cushing's disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CUSHING_H</LocID>										<Text>Cushing's disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CUSHING_DESCRIPTION</LocID>							<Text>Cushing's disease is one cause of Cushing's syndrome characterised by increased secretion of adrenocorticotropic hormone (ACTH) from the anterior pituitary (secondary hypercortisolism). This is most often as a result of a pituitary adenoma (specifically pituitary basophilism) or due to excess production of hypothalamus CRH (corticotropin releasing hormone) (tertiary hypercortisolism/hypercorticism) that stimulates the synthesis of cortisol by the adrenal glands.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADN_THYREOTRP</LocID>									<Text>Central hyperthyroidism</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADN_THYREOTRP_DESCRIPTION</LocID>						<Text>Central hyperthyroidism is caused by the overproduction of thyroid hormones from pituitary gland. TSH (Thyroid Stimulating Hormone) is a hormone secreted by the anterior part of the pituitary gland. TSH will be produced in excess in the presence of an adenoma sitting in this specific area. TSH will over-stimulate the thyroid gland, located at the base of the neck, resulting in hypersecretion of thyroid hormones.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PAN_HYPOPT_F</LocID>									<Text>Anterior pituitary insufficiency syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PAN_HYPOPT_H</LocID>									<Text>Anterior pituitary insufficiency syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PAN_HYPOPT_DESCRIPTION</LocID>						<Text>Syndrome characterized by a deficiency of all the anterior pituitary hormones (panhypopituitarism). The presence of a pituitary adenoma can be at the origin of an anterior pituitary insufficiency.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_F</LocID>										<Text>Addison's disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_H</LocID>										<Text>Addison's disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_DESCRIPTION</LocID>							<Text>Addison's disease, also known as primary adrenal insufficiency and hypocortisolism, is a long-term endocrine disorder in which the adrenal glands do not produce enough steroid hormones.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_F</LocID>									<Text>21-OH enzyme block</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_H</LocID>									<Text>21-OH enzyme block</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_DESCRIPTION</LocID>							<Text>These are autosomal recessive diseases linked to a mutation in a gene encoding an enzyme of steroidogenesis. The gene by far most often involved is the one encoding 21-hydroxylase (21-hydroxylase deficiency). Cortisol and aldosterone are not synthesized normally, hence the adrenal insufficiency.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ICT</LocID>											<Text>Corticotropic insufficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ICT_DESCRIPTION</LocID>								<Text>Central adrenal insufficiency, or corticotropic insufficiency is from pituitary or hypothalamic causes or following the discontinuation of prolonged corticosteroid therapy (the most frequent cause). Aldosterone secretion is preserved, which explains a usually less severe picture.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPO_PT_AA</LocID>									<Text>Autoimmune hypoparathyroidism</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPO_PT_AA_DESCRIPTION</LocID>						<Text>Hypoparathyroidism is a rare condition in which the parathyroid glands fail to produce sufficient amounts of parathyroid hormone or the parathyroid hormone produced lacks biologic activity. The parathyroid glands are part of the endocrine system, the network of glands that secrete hormones into the bloodstream where they travel to various areas of the body. These hormones regulate the chemical processes (metabolism) that influence the function of various organs and activities within the body.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPER_PT</LocID>										<Text>Primary hyperparathyroidism</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPER_PT_DESCRIPTION</LocID>							<Text>Hyperparathyroidism is an increase in parathyroid hormone (PTH) levels in the blood. When this occurs from a disorder either within the parathyroid glands it's called primary hyperparathyroidism.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DALA</LocID>											<Text>남성갱년기</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DALA_DESCRIPTION</LocID>								<Text>남성갱년기라는 용어는 남성에서 40세부터 순환하는 테스토스테론의 감소를 나타낼 때 흔히 사용됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HPRL_F</LocID>										<Text>고프로락틴혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HPRL_H</LocID>										<Text>고프로락틴혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HPRL_DESCRIPTION</LocID>								<Text>프로락틴은 뇌하수체 전엽에 의해 생성되는 펩타이드 호르몬으로 주로 수유와 관련이 있으며 임신 중 유방 발달에 중요한 역할을 합니다. 고프로락티나혈증은 여성의 경우 갈락토르헤아, 불임, 정상적인 월경 기간의 차질을 일으킬 수 있으며 남성의 경우 저고나디즘, 불임, 발기부전을 일으킬 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ACROMEGALIE</LocID>									<Text>말단비대증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ACROMEGALIE_DESCRIPTION</LocID>						<Text>말단비대증은 성장판이 닫힌 후 성장호르몬(GH)이 과다해 생기는 질환이다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CUSHING_F</LocID>										<Text>쿠싱증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CUSHING_H</LocID>										<Text>쿠싱증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CUSHING_DESCRIPTION</LocID>							<Text>쿠싱증후군은 뇌하수체 전엽에서 부신피질자극호르몬(ACTH) 분비가 증가하는 것이 특징인 쿠싱증후군의 원인 중 하나입니다. 이는 뇌하수체 선종(특히 뇌하수체 호염기증) 또는 부신에 의한 코르티솔 합성을 자극하는 시상하부 CRH(코티코트로핀 방출 호르몬)의 과잉 생산으로 인해 발생하는 경우가 가장 많습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADN_THYREOTRP</LocID>									<Text>중추성 갑상샘항진증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADN_THYREOTRP_DESCRIPTION</LocID>						<Text>중추성 갑상샘항진증은 뇌하수체에서 나오는 갑상선 호르몬의 과잉 생산으로 인해 발생한다. TSH는 뇌하수체의 앞부분에서 분비되는 호르몬이다. TSH는 이 특정 부위에 선종이 있는 경우 과도하게 생성된다. TSH는 목 아래에 위치한 갑상선을 과다 자극하여 갑상선 호르몬의 과잉 분비를 초래합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PAN_HYPOPT_F</LocID>									<Text>뇌하수체전엽기능부전증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PAN_HYPOPT_H</LocID>									<Text>뇌하수체전엽기능부전증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PAN_HYPOPT_DESCRIPTION</LocID>						<Text>뇌하수체 전엽 호르몬 결핍으로 특징지어지는 증후군입니다. 뇌하수체 선종의 존재는 뇌하수체 전엽 부전증의 원인일 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_F</LocID>										<Text>애디슨병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_H</LocID>										<Text>애디슨병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_DESCRIPTION</LocID>							<Text>애디슨병은 부신기능부전으로도 알려져 있는데, 부신이 충분한 스테로이드 호르몬을 생성하지 못하는 장기 내분비 질환이다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_F</LocID>									<Text>21-OH 결핍증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_H</LocID>									<Text>21-OH 결핍증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_DESCRIPTION</LocID>							<Text>이것들은 스테로이드 생성 효소를 코드하는 유전자의 돌연변이와 관련된 상염색체 열성 질환이다. 지금까지 가장 자주 관여하는 유전자는 21-히드록실라아제(21-히드록실라아제 결핍증)를 코드하는 유전자이다. 코르티솔과 알도스테론은 정상적으로 합성되지 않기 때문에 부신기능저하입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ICT</LocID>											<Text>피질자극부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ICT_DESCRIPTION</LocID>								<Text>중추성 부신 기능 부전 또는 피질 자극 기능 부전은 뇌하수체 또는 시상하부의 원인 또는 장기간의 코르티코스테로이드 치료 중단 후에 발생합니다. 알도스테론 분비가 보존되어 있기 때문에, 보통 심각도가 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPO_PT_AA</LocID>									<Text>자가면역성 부갑상선저하증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPO_PT_AA_DESCRIPTION</LocID>						<Text>자가면역성 부갑상선기능저하증은 부갑상선이 충분한 양의 부갑상선호르몬을 생성하지 못하거나 생성된 부갑상선호르몬이 생물학적 활동을 하지 못하는 드문 질환입니다. 부갑상선은 호르몬을 혈류로 분비하는 내분비계의 일부이며, 이 분비선은 몸의 여러 부위로 이동합니다. 이 호르몬들은 신체 내의 다양한 장기와 활동의 기능에 영향을 미치는 화학적 과정(대사)을 조절합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPER_PT</LocID>										<Text>원발부갑상선항진증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPER_PT_DESCRIPTION</LocID>							<Text>원발부갑상선항진증은 혈액 내 부갑상선호르몬(PTH) 수치가 증가하는 것입니다. 이것이 부갑상선 내의 장애로 인해 발생하는 것을 원발성 부갑상선 기능 항진증이라고 합니다.</Text>	</GameDBLocalizedString>
 			
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN</LocID>											<Text>Conn's syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN_DESCRIPTION</LocID>								<Text>Primary aldosteronism, also known as primary hyperaldosteronism or Conn's syndrome, refers to the excess production of the hormone aldosterone from the adrenal glands, resulting in low renin levels. Conn's adenoma is a benign tumor of the adrenal cortex.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN</LocID>										<Text>Bilateral adrenal hyperplasia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN_DESCRIPTION</LocID>							<Text>In bilateral hyperplasia, the excessive and uncontrolled production of aldosterone depends on the two adrenal glands.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_INSULINOME</LocID>									<Text>Insulinoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>An insulinoma is a tumor of the pancreas that is derived from beta cells and secretes insulin. It is a rare form of a neuroendocrine tumor. Most insulinomas are benign in that they grow exclusively at their origin within the pancreas, but a minority metastasize.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN</LocID>											<Text>콘증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN_DESCRIPTION</LocID>								<Text>콘 증후군으로 알려진 원발성 알도스테론증은 낮은 레닌 수치를 초래하는 부신에서 알도스테론 호르몬이 과도하게 생성되는 것을 말합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN</LocID>										<Text>양측부신과형성</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN_DESCRIPTION</LocID>							<Text>양측부신과형성증에서 알도스테론의 과다하고 통제되지 않은 생성은 두 개의 부신에 영향을 받습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_INSULINOME</LocID>									<Text>인슐린종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>인슐린종은 췌장의 종양으로, 베타 세포에서 파생되어 인슐린을 분비합니다. 그것은 신경내분비종양의 희귀한 형태입니다. 대부분의 인슐린종은 췌장 내 기원에서만 자라는 양성종이지만 소수만이 전이됩니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_HGP</LocID>										<Text>NIPHS</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>Noninsulinoma pancreatogenous hypoglycemia syndrome (NIPHS) is a rare syndrome characterized by endogenous hyperinsulinemic hypoglycemia that is not caused by an insulinoma.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_QUERVAIN</LocID>										<Text>De Quervain's thyroiditis</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_QUERVAIN_DESCRIPTION</LocID>							<Text>De Quervain's thyroiditis, also known as subacute granulomatous thyroiditis or giant cell thyroiditis, is a member of the group of thyroiditis conditions known as resolving thyroiditis.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_GOITRE_MULTINODULE</LocID>							<Text>Toxic multinodular goiter</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_GOITRE_MULTINODULE_DESCRIPTION</LocID>				<Text>Toxic multinodular goiter is the natural evolution of ancient multinodular goiter.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>Plummer's toxic adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>The toxic adenoma is a solitary, hyperfunctional benign tumor of the thyroid. This pathology indicates the presence of a localized hypertrophy from where the appearance of a protuberance of generally rounded shape. In addition, this type of adenoma is distinguished by its autonomous functioning.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>비인슐린종성 췌장성 저혈당 증후군(NIPHS)은 인슐린종에 의해 유발되지 않는 내인성 고인슐린혈증 저혈당으로 특징지어지는 희귀한 증후군입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_QUERVAIN</LocID>										<Text>De Quervain 갑상선염</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_QUERVAIN_DESCRIPTION</LocID>							<Text>아급성 육아종성 갑상선염 또는 거대 세포성 갑상선염으로도 알려진 De Quervain 갑상선염은 갑상선염의 일종입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_GOITRE_MULTINODULE</LocID>							<Text>중독성 다결절 갑상선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_GOITRE_MULTINODULE_DESCRIPTION</LocID>				<Text>중독성 다결절 갑상선종은 일반적인 다절 갑상선종의 진화형입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>플러머 중독성 선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>플러머 중독성 선종은 갑상선의 고립성, 기능성 과잉 양성 종양입니다. 이 병리학은 일반적으로 둥근 모양의 돌출부가 나타나는 국소적 비대증의 존재를 나타냅니다. 게다가 이런 종류의 선종은 자율적인 기능에 의해 구별됩니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03  -->
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PORPHYRIE</LocID>								<Text>Acute intermittent porphyria</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PORPHYRIE_DESCRIPTION</LocID>					<Text>Acute intermittent porphyria (AIP) is a rare autosomal dominant metabolic disorder affecting the production of heme resulting from a deficiency of the porphobilinogen deaminase. It is the most common of the acute porphyrias.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SPHEROCYTOSE</LocID>							<Text>Minkowski-Chauffard disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SPHEROCYTOSE_DESCRIPTION</LocID>				<Text>Minkowski-Chauffard disease or Hereditary spherocytosis is an abnormality of red blood cells, or erythrocytes. The disorder is caused by mutations in genes relating to membrane proteins that allow for the erythrocytes to change shape. The abnormal erythrocytes are sphere-shaped (spherocytosis) rather than the normal biconcave disk shaped.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI</LocID>					<Text>Marchiafava Micheli syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI_DESCRIPTION</LocID>		<Text>Marchiafava Micheli syndrome or Paroxysmal nocturnal hemoglobinuria (PNH) is a rare, acquired, life-threatening disease of the blood characterized by destruction of red blood cells by the complement system, a part of the body's innate immune system.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FAVISME</LocID>								<Text>Favism</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FAVISME_DESCRIPTION</LocID>					<Text>Favism or Glucose-6-phosphate dehydrogenase deficiency (G6PDD) is an inborn error of metabolism that predisposes to red blood cell breakdown.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DEFICIT_PK</LocID>							<Text>PK deficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DEFICIT_PK_DESCRIPTION</LocID>				<Text>Pyruvate kinase deficiency is an inherited metabolic disorder of the enzyme pyruvate kinase which affects the survival of red blood cells.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AHAA</LocID>									<Text>Autoimmune hemolytic anemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AHAA_DESCRIPTION</LocID>						<Text>Autoimmune hemolytic anemia (AIHA) occurs when antibodies directed against the person's own red blood cells (RBCs) cause them to burst (lyse), leading to an insufficient number of oxygen-carrying red blood cells in the circulation.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PTT</LocID>									<Text>Moschkowitz disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PTT_DESCRIPTION</LocID>						<Text>Moschkowitz disease or Thrombotic thrombocytopenic purpura (TTP) is a blood disorder that results in blood clots forming in small blood vessels throughout the body.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DREPA_A</LocID>								<Text>Acute sickle cell disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DREPA_C</LocID>								<Text>Chronic sickle cell disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DREPA_DESCRIPTION</LocID>						<Text>La drépanocytose, aussi appelée anémie falciforme, est une maladie héréditaire touchant l'hémoglobine des globules rouges.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_WILLEBRAND</LocID>							<Text>Von Willebrand disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_WILLEBRAND_DESCRIPTION</LocID>				<Text>Von Willebrand disease (vWD) is the most common hereditary blood-clotting disorder in humans. It arises from a deficiency in the quality or quantity of von Willebrand factor (vWF), a multimeric protein that is required for platelet adhesion.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PORPHYRIE</LocID>								<Text>급성간헐포르피린증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PORPHYRIE_DESCRIPTION</LocID>					<Text>급성 간헐적 포르피린증(AIP)은 포르포빌리노겐 탈아미나아제 결핍으로 인한 헴 생산에 영향을 미치는 드문 상염색체 우성 대사 장애입니다. 그것은 급성 포르피리아 중 가장 흔한 것입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SPHEROCYTOSE</LocID>							<Text>민코브스키-쇼파드 증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SPHEROCYTOSE_DESCRIPTION</LocID>				<Text>민코프스키-쇼파드병 또는 유전성 구상세포증은 적혈구의 이상입니다. 이 장애는 적혈구가 모양을 바꾸도록 하는 막 단백질과 관련된 유전자의 돌연변이에 의해 발생합니다. 비정상적인 적혈구는 일반적인 쌍꺼풀 원반 모양이 아닌 구형(구상구세포증)입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI</LocID>					<Text>발작성야간혈색뇨</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI_DESCRIPTION</LocID>		<Text>Marchiafava Micheli 증후군 또는 발작성야간혈생뇨증은 인체의 선천적인 면역 체계인 보체 시스템에 의해 적혈구가 파괴되는 것으로 특징지어지는 희귀한 후천성, 생명을 위협하는 질병입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FAVISME</LocID>								<Text>잠두중독증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FAVISME_DESCRIPTION</LocID>					<Text>잠두중독증 또는 Glucose-6-인산탈수소효소 결핍증은 적혈구 붕괴를 일으키는 선천적인 대사 장애입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DEFICIT_PK</LocID>							<Text>초성포도산염 키니아제 결핍증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DEFICIT_PK_DESCRIPTION</LocID>				<Text>초성포도산염 키니아제 결핍증은 적혈구의 생존에 영향을 미치는 피루브산인산화효소 유전 대사 장애입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AHAA</LocID>									<Text>자가면역성용혈성빈혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AHAA_DESCRIPTION</LocID>						<Text>자가면역용혈성빈혈은 자신의 적혈구에 대항하는 항체가 혈액순환에 산소를 운반하는 적혈구의 수를 부족하게 만들 때 발생합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PTT</LocID>									<Text>모스코비츠 증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PTT_DESCRIPTION</LocID>						<Text>모스코비츠병 또는 혈전성 혈소판 감소성 자반증은 몸 전체의 작은 혈관에 혈전이 형성되는 혈액 질환입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DREPA_A</LocID>								<Text>급성 낫적혈구병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DREPA_C</LocID>								<Text>만성 낫적혈구병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DREPA_DESCRIPTION</LocID>						<Text>겸상적혈구 빈혈이라고도 불리는 낫적혈구병은 적혈구 헤모글로빈과 연관있는 유전 질환입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_WILLEBRAND</LocID>							<Text>폰빌레브란트병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_WILLEBRAND_DESCRIPTION</LocID>				<Text>폰빌레브란트병은 인간에게 가장 흔한 유전성 혈액 응고 장애입니다. 혈소판 접착에 필요한 다량의 단백질인 폰빌레브란트 인자의 품질과 양 부족으로부터 야기됩니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03.2  -->
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK</LocID>								<Text>Niemann-Pick disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK_DESCRIPTION</LocID>					<Text>Niemann-Pick disease type C (NP-C) is a lysosomal lipid storage disease.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA</LocID>									<Text>Kimura disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA_DESCRIPTION</LocID>						<Text>Kimura disease is a benign and chronic inflammatory disorder of unknown etiology, occurring mainly in Asian countries (very rarely in Western countries) and predominantly affecting young men.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI</LocID>									<Text>Fanconi anemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI_DESCRIPTION</LocID>						<Text>Fanconi anemia (FA) is a hereditary DNA repair disorder. FA is due to mutations in genes involved in DNA repair and genomic stability. Fifteen genes representing 15 complementation groups have been identified.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BERNARD-SOULIER</LocID>							<Text>Bernard-Soulier syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BERNARD-SOULIER_DESCRIPTION</LocID>				<Text>Bernard Soulier syndrome (BSS) is an inherited platelet disorder characterized by mild to severe bleeding tendency , macrothrombocytopenia and absent ristocetin-induced platelet agglutination.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN</LocID>					<Text>Glanzmann thrombasthenia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN_DESCRIPTION</LocID>		<Text>Glanzmann thrombasthenia (GT) is a bleeding syndrome characterized by spontaneous mucocutaneous bleeding and an exaggerated response to trauma due to a constitutional thrombocytopenia.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEMIE_BLACKFAN_DIAMOND</LocID>					<Text>Blackfan-Diamond anemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEMIE_BLACKFAN_DIAMOND_DESCRIPTION</LocID>		<Text>Blackfan-Diamond anemia (DBA) is a congenital aregenerative and often macrocytic anemia with erythroblastopenia. At present, disease-causing mutations are identified in 40-45% of patients. All involved genes code for ribosomal proteins (RPs).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_GAUCHER</LocID>							<Text>Gaucher disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_GAUCHER_DESCRIPTION</LocID>				<Text>Gaucher disease (GD) is a lysosomal storage disorder encompassing three main forms (types 1, 2 and 3), a fetal form and a variant with cardiac involvement (Gaucher disease - ophthalmoplegia - cardiovascular calcification or Gaucher-like disease). GD is due to mutations in the GBA gene (1q21) that codes for a lysosomal enzyme, glucocerebrosidase, or in very rare cases the PSAP gene that codes for its activator protein (saposin C). The deficiency in glucocerebrosidase leads to the accumulation of glucosylceramidase (or beta-glucocerebrosidase) deposits in the cells of the reticuloendothelial system of the liver, the spleen and the bone marrow (Gaucher cells).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_DUNCAN</LocID>							<Text>Duncan disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_DUNCAN_DESCRIPTION</LocID>				<Text>Duncan disease or Purtilo syndrome or X-linked lymphoproliferative disease is a primary immune deficiency linked to cellular immune deficiencies.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ASIA</LocID>										<Text>Acquired idiopathic sideroblastic anemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ASIA_DESCRIPTION</LocID>							<Text>Acquired idiopathic sideroblastic anemia (AISA) is a rare myelodysplastic syndrome (MDS) characterized by ineffective hemopoiesis affecting one or more blood cell lineages (myeloid, erythroid or megakaryocytic) leading to peripheral blood cytopenias and an increased risk of developing leukaemia.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ERYTHROBLASTOPENIE_ISO</LocID>					<Text>Isolated erythroblastopenia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ERYTHROBLASTOPENIE_ISO_DESCRIPTION</LocID>		<Text>It is an acute blood disorder characterized by the decrease or disappearance of erythroblasts (bone marrow cells specialized in the synthesis of hemoglobin) and resulting in anemia.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_C</LocID>							<Text>Hemoglobin C disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_C_DESCRIPTION</LocID>				<Text>Hemoglobin C disease (HbC) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin C.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_D</LocID>							<Text>Hemoglobin D disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_D_DESCRIPTION</LocID>				<Text>Hemoglobin D disease (HbD) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin D.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_E</LocID>							<Text>Hemoglobin E disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_E_DESCRIPTION</LocID>				<Text>Hemoglobin E disease (HbE) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin E.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_M</LocID>							<Text>Hemoglobin M disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_M_DESCRIPTION</LocID>				<Text>Hemoglobin M disease (HbM) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin M.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PLUMMER_VINSON</LocID>							<Text>Plummer-Vinson syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PLUMMER_VINSON_DESCRIPTION</LocID>				<Text>Plummer-Vinson or Paterson-Kelly syndrome presents as a classical triad of dysphagia, iron-deficiency anemia and esophageal webs. The etiopathogenesis of Plummer-Vinson syndrome is unknown. The most important possible etiological factor is iron deficiency. Other possible factors include malnutrition, genetic predisposition or autoimmune processes.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RENDU_OSLER_WEBER</LocID>							<Text>Hereditary Hemorrhagic Telangiectasia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RENDU_OSLER_WEBER_DESCRIPTION</LocID>				<Text>Rendu-Osler-Weber disease or Hereditary Hemorrhagic Telangiectasia (HHT) is an inherited disorder of angiogenesis characterized by mucocutaneous telangiectases and visceral arteriovenous malformations. This genetic disorder is due to pathogenic variants primarily in ENG or ACVRL1, encoding proteins involved in vascular development and angiogenic homeostasis of capillaries.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_EVANS</LocID>									<Text>Evans syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_EVANS_DESCRIPTION</LocID>						<Text>A rare chronic hematologic disorder characterized by the simultaneous or sequential association of autoimmune hemolytic anemia with immune thrombocytopenic purpura and occasionally autoimmune neutropenia, in the absence of a known underlying etiology.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_1</LocID>							<Text>Hemochromatosis type 1</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_1_DESCRIPTION</LocID>				<Text>Symptomatic form of hemochromatosis type 1 is a rare, hereditary hemochromatosis characterized by inappropriately regulated intestinal iron absorption which leads to excessive iron storage in various organs and manifests with a wide range of signs and symptoms.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_2</LocID>							<Text>Hemochromatosis type 2</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_2_DESCRIPTION</LocID>				<Text>Hemochromatosis type 2 (juvenile) is the early-onset and most severe form of rare hereditary hemochromatosis (HH), a group of diseases characterized by excessive tissue iron deposition of genetic origin.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_3</LocID>							<Text>Hemochromatosis type 3</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_3_DESCRIPTION</LocID>				<Text>Type 3 hemochromatosis is a form of rare hereditary hemochromatosis (HH), a group of diseases characterized by excessive tissue iron deposition of genetic origin.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_4</LocID>							<Text>Hemochromatosis type 4</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_4_DESCRIPTION</LocID>				<Text>Hemochromatosis type 4 (also called ferroportin disease) is a form of rare hereditary hemochromatosis (HH), a group of diseases characterized by excessive tissue iron deposition of genetic origin.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_APLASIE_MÉDULLAIRE_IDIOPATHIQUE</LocID>			<Text>Idiopathic aplastic anemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_APLASIE_MÉDULLAIRE_IDIOPATHIQUE_DESCRIPTION</LocID>	<Text>Idiopathic bone marrow failure or Idiopathic aplastic anemia is an inability of the bone marrow to replace blood cells as they die naturally. It results in a deficit in the production of one or more types of cells normally found in the blood. The name "idiopathic" means that the cause is unknown.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK</LocID>								<Text>니만피크병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK_DESCRIPTION</LocID>					<Text>니만-피크병은 상염색체 열성 유전에 의한 질환으로서 간,비장,폐,골수,뇌 등에 해가 되는 양의 지질이 축적되는 유전성 대사질환입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA</LocID>									<Text>기무라씨병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA_DESCRIPTION</LocID>						<Text>기무라병은 알려지지 않은 원인 불명의 양성 만성 염증 질환으로서, 주로 아시아 국가의 젊은 남성들에게 영향을 미칩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI</LocID>									<Text>판코니 빈혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI_DESCRIPTION</LocID>						<Text>판코니 빈혈(판코니범혈구감소증)은 유전성 기형 증후군의 하나입니다. 대다수가 급성 골수성 백혈병과 같은 암으로 발전하는 근위세뇨관의 기능이상입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BERNARD-SOULIER</LocID>							<Text>베르나르-술리에 증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BERNARD-SOULIER_DESCRIPTION</LocID>				<Text>베르나르-술리에 증후군은 거대혈소판 증후군으로서 가벼운 출혈 경향, 대식세포감소증 등으로 특징지어지는 유전성 혈소판 장애입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN</LocID>					<Text>글란즈만병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN_DESCRIPTION</LocID>		<Text>글란즈만 혈소판무력증은 체질혈소판감소증으로 인한 외상에 대한 과도한 반응과 자발적인 점막피질 출혈을 특징으로 하는 출혈증후군의 한 종류입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEMIE_BLACKFAN_DIAMOND</LocID>					<Text>다이아몬드 블랙판 빈혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEMIE_BLACKFAN_DIAMOND_DESCRIPTION</LocID>		<Text>다이아몬드-블랙판 빈혈은 적혈구 감소증을 동반하는 선천성 생식성 빈혈입니다. 이 질병을 유발하는 돌연변이 유전자는 리보솜 단백질과 연관이 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_GAUCHER</LocID>							<Text>고셔병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_GAUCHER_DESCRIPTION</LocID>				<Text>고셔병은 글루코세레브로시데이즈라는 효소에 유전적인 이상이 생겨서 발생하는 질환입니다. 이 환자에게 가장 먼저 나타나는 증상은 비장 비대로서, 피로, 빈혈, 혈소판 감소 등이 있을 수도 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_DUNCAN</LocID>							<Text>던컨병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MALADIE_DUNCAN_DESCRIPTION</LocID>				<Text>던컨병은 X-연관 림프증식성 질환이며, 세포 면역 결핍과 관련된 일차 면역 결핍증입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ASIA</LocID>										<Text>원발성 철적아구성 빈혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ASIA_DESCRIPTION</LocID>							<Text>원발성 철적아구성 빈혈은 하나 이상의 혈구 계통에 영향을 미쳐 말초혈구 감소로 이어지고 백혈병 발병 위험이 증가하는 것이 특징인 희귀한 골수형성증후군입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ERYTHROBLASTOPENIE_ISO</LocID>					<Text>순수적혈구무형성증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ERYTHROBLASTOPENIE_ISO_DESCRIPTION</LocID>		<Text>적혈구가 감소하거나 없어지고 빈혈이 발생하는 것이 특징인 급성 혈액 장애입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_C</LocID>							<Text>헤모글로빈C병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_C_DESCRIPTION</LocID>				<Text>헤모글로빈C병은 헤모글로빈C로 알려진 비정상적인 변형 헤모글로빈의 생성으로 특징지어지는 헤모글로빈 병증입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_D</LocID>							<Text>헤모글로빈D병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_D_DESCRIPTION</LocID>				<Text>헤모글로빈D병은 헤모글로빈D로 알려진 비정상적인 변형 헤모글로빈의 생성으로 특징지어지는 헤모글로빈 병증입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_E</LocID>							<Text>헤모글로빈E병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_E_DESCRIPTION</LocID>				<Text>헤모글로빈E병은 헤모글로빈E로 알려진 비정상적인 변형 헤모글로빈의 생성으로 특징지어지는 헤모글로빈 병증입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_M</LocID>							<Text>헤모글로빈M병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOGLOBINOSE_M_DESCRIPTION</LocID>				<Text>헤모글로빈M병은 헤모글로빈M으로 알려진 비정상적인 변형 헤모글로빈의 생성으로 특징지어지는 헤모글로빈 병증입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PLUMMER_VINSON</LocID>							<Text>플러머빈슨증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_PLUMMER_VINSON_DESCRIPTION</LocID>				<Text>플러머빈슨중후군은 식도 장애, 철결핍빈혈, 식도막과 관련하여 나타납니다. 이 증후군의 특발성 형성은 알려지지 않았지만 가장 중요한 병인 인자는 철분 결핍입니다. 다른 가능한 요인으로는 영양실조, 유전적 원인이나 자가면역 등이 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RENDU_OSLER_WEBER</LocID>							<Text>유전출혈모세혈관확장증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RENDU_OSLER_WEBER_DESCRIPTION</LocID>				<Text>유전출혈모세혈관확장증은 점막 피부 말단 혈관 확장효소 및 내장 동맥 정맥 기형으로 특징지어지는 혈관 관련 유전 질환입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_EVANS</LocID>									<Text>에반스증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_EVANS_DESCRIPTION</LocID>						<Text>자가면역 용혈성 빈혈과 면역 혈소판 감소성 자반이 동시 또는 순차적으로 관련되며, 알려진 기초 병인이 없는 경우 자가면역성 호중구 감소증이 나타나는 희귀한 만성 혈액 질환입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_1</LocID>							<Text>혈색소침착증 1형</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_1_DESCRIPTION</LocID>				<Text>혈색소침착증의 1형은 다양한 장기에 철분을 과도하게 저장하도록 유도하고 광범위한 징후와 증상을 보이느느 부적절하게 조절된 장내 철분 흡수에 의해 특징지어지는 희귀한 유전성 혈색소증입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_2</LocID>							<Text>혈색소침착증 2형</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_2_DESCRIPTION</LocID>				<Text>혈색소침착증 2형은 유전적 기원의 과도한 조직 철분 침착으로 특징지어지는 질병의 그룹인 희귀 유전 혈색소증의 초기이자 가장 심각한 형태입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_3</LocID>							<Text>혈색소침착증 3형</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_3_DESCRIPTION</LocID>				<Text>혈색소침착증 3형은 유전적 기원의 과도한 조직 철분 침착으로 특징지어지는 질병의 그룹인 희귀 유전 혈색소증의 한 형태입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_4</LocID>							<Text>혈색소침착증 4형</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HEMOCHROMATOSE_4_DESCRIPTION</LocID>				<Text>혈색소침착증 4형은 유전적 기원의 과도한 조직 철분 침착으로 특징지어지는 질병의 그룹인 희귀 유전 혈색소증의 한 형태입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_APLASIE_MÉDULLAIRE_IDIOPATHIQUE</LocID>			<Text>특발성 무형성빈혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_APLASIE_MÉDULLAIRE_IDIOPATHIQUE_DESCRIPTION</LocID>	<Text>특발성 재생불량성 빈혈, 특발성 무형성빈혈은 골수가 자연적으로 죽으면서 혈액세포를 대체할 수 없는 것입니다. 이는 보통 혈액에서 발견되는 세포 생성에 장애를 초래합니다.</Text>	</GameDBLocalizedString>
 			
 
 			<!-- ================================================== Urgences ================================================== -->
 
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_URGENCE_HTA</LocID>									<Text>Hypertensive emergency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>						<Text>Hypertensive emergency is characterized by hypertension, most often severe (or quickly installed in a normotensive patient) and which is associated with acute damage to the target organs.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MS</LocID>									<Text>Acute ischemia of the upper limb</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>						<Text>Acute limb ischaemia occurs when there is a sudden lack of blood flow to a limb.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MI</LocID>									<Text>Acute ischemia of the lower limb</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>						<Text>Acute limb ischaemia occurs when there is a sudden lack of blood flow to a limb.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>							<Text>Acute mesenteric ischemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>				<Text>Mesenteric ischemia is a medical condition in which injury to the small intestine occurs due to not enough blood supply, it's associated with a high risk of death.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AAA</LocID>									<Text>Abdominal Aortic Aneurysm Rupture</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AAA_DESCRIPTION</LocID>						<Text>Rupture of the abdominal aortic aneurysm.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AIC</LocID>									<Text>Rupture Common Iliac Aneurysm</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AIC_DESCRIPTION</LocID>						<Text>Rupture of the common iliac aneurysm.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_URGENCE_HTA</LocID>									<Text>응급성 고혈압증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>						<Text>응급성 고혈압은 대부분 심각한 장기에 대한 급성 손상과 관련이 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MS</LocID>									<Text>급성상지허혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>						<Text>급성 사지 허혈증은 사지로 가는 혈류가 갑자기 부족할 때 발생합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MI</LocID>									<Text>급성하지허혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>						<Text>급성 사지 허혈증은 사지로 가는 혈류가 갑자기 부족할 때 발생합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>							<Text>급성 장간막 허혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>				<Text>장간막 허혈은 혈액 공급이 부족하여 소장에 손상이 발생하는 질환으로 사망 위험이 높습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AAA</LocID>									<Text>복부대동맥류 파열</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AAA_DESCRIPTION</LocID>						<Text>복부대동맥류의 파열입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AIC</LocID>									<Text>장골동맥류 파열</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AIC_DESCRIPTION</LocID>						<Text>장골동맥류의 파열입니다.</Text>	</GameDBLocalizedString>
 <!-- v0.02  -->
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISRA</LocID>											<Text>Adrenal crisis</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISRA_DESCRIPTION</LocID>								<Text>Adrenal crisis is a potentially life-threatening medical condition requiring immediate emergency treatment. It is a constellation of symptoms that indicate severe adrenal insufficiency caused by insufficient levels of the hormone cortisol.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_CETOACIDOSE</LocID>								<Text>Diabetic ketoacidosis</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_CETOACIDOSE_DESCRIPTION</LocID>					<Text>Diabetic ketoacidosis (DKA) is a potentially life-threatening complication of diabetes.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_HYPEROSMOLAIRE</LocID>							<Text>Hyperosmolar hyperglycemic state</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_HYPEROSMOLAIRE_DESCRIPTION</LocID>				<Text>Hyperosmolar hyperglycemic state (HHS) is a complication of diabetes.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISRA</LocID>											<Text>부신위기</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISRA_DESCRIPTION</LocID>								<Text>부신위기는 즉각적인 응급 치료가 필요한 잠재적으로 생명을 위협하는 질병입니다. 크로티솔 호르몬의 부족으로 인하여 심각한 부신 기능 부전을 나타내는 일련의 증상입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_CETOACIDOSE</LocID>								<Text>당뇨병케톤산증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_CETOACIDOSE_DESCRIPTION</LocID>					<Text>당뇨병케토산증은 잠재적으로 생명을 위협하는 당뇨병 합병증입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_HYPEROSMOLAIRE</LocID>							<Text>고삼투질성 고혈당</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_COMA_HYPEROSMOLAIRE_DESCRIPTION</LocID>				<Text>고삼투질성 고혈당 상태는 당뇨병의 합병증입니다.</Text>	</GameDBLocalizedString>
 <!-- ++ v0.03 ++ -->
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_FULMINANS</LocID>							<Text>Purpura fulminans</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>				<Text>Purpura fulminans is an acute, often fatal, thrombotic disorder which manifests as blood spots, bruising and discolouration of the skin resulting from coagulation in small blood vessels within the skin and rapidly leads to skin necrosis. Purpura fulminans is a presenting feature of severe acute sepsis.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_CIVD</LocID>										<Text>Disseminated intravascular coagulation</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_CIVD_DESCRIPTION</LocID>							<Text>Disseminated intravascular coagulation (DIC) is a condition in which blood clots form throughout the body, blocking small blood vessels.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_FULMINANS</LocID>							<Text>전격자색반병</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>				<Text>전격자색반증은 급성, 종종 치명적인 혈전 질환으로, 피부 내의 작은 혈관의 응고로 인한 피부의 반점, 멍, 변색으로 나타나며 빠르게 피부 괴사로 이어집니다. 이는 심각한 급성 패혈증의 특징입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_CIVD</LocID>										<Text>파종성 혈관 내 응고</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_CIVD_DESCRIPTION</LocID>							<Text>여러 가지 선행 질환에 의해 응고 촉진인자가 혈관 내로 유입되어 광범위한 혈관 내 혈전 형성 및 출혈을 야기하는 증후군입니다.</Text>	</GameDBLocalizedString>
 <!-- ++ v0.03.2 ++ -->
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>					<Text>Severe thrombocytopenic purpura</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>		<Text>Severe thrombocytopenia causes purpura: it is petechial, non-infiltrated, isolated or ecchymotic, sometimes associated with large hematomas. The discovery of a purpura requires the prescription of a blood count. The platelet count is usually less than 20 giga/L.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_DRESS_SD</LocID>									<Text>DRESS Syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_DRESS_SD_DESCRIPTION</LocID>						<Text>Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome, initially recognized as a serious form of cutaneous drug adverse reaction, is now viewed as a drug-related syndrome that can cause life-threatening organ dysfunctions.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE</LocID>						<Text>Heparin-induced thrombocytopenia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE_DESCRIPTION</LocID>			<Text>Heparin-induced thrombocytopenia (HIT) is a rare drug-induced, immune-mediated prothrombotic disorder associated with thrombocytopenia and venous and/or arterial thrombosis. HIT results from a humoral immune reaction directed against a complex involving endogenous platelet factor 4 (PF4) and exogenous heparin: auto-antibodies recognize PF4 only when it is complexed with heparin. This immune complex activates the circulating platelets via their FcγRIIA surface receptors, leading to consumptive thrombocytopenia and hypercoagulability. The source of heparin (bovine >porcine), its formulation (unfractionated >low molecular weight >fondaparinux), the dose (prophylactic >therapeutic >heparin flushes), route of administration (subcutaneous >intravenous) and duration of administration (over 4 days >4 days or less) are determining factors.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>					<Text>중증 혈소판감소성 자반증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>		<Text>중증 혈소판감소증은 자반증을 유발합니다. 이는 큰 혈종과 관련이 있기도 합니다. 자반증의 검진에는 혈액수치의 지표가 필요합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_DRESS_SD</LocID>									<Text>DRESS 증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_DRESS_SD_DESCRIPTION</LocID>						<Text>처음에는 심각한 형태의 피부 약물 부작용으로 인식되던 호산구증 및 전신 증상 증후군을 동반한 약물 반응은 이제 생명을 위협하는 장기 기능 장애를 일으킬 수 있는 약물 관련 증후군으로 간주됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE</LocID>						<Text>헤파린유도저혈소판증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE_DESCRIPTION</LocID>			<Text>헤파린유도저혈소판증(HIT)은 헤파린 치료를 받은 환자의 혈전증 및 사망을 일으킬 수 있는 면역 복합체 매개성 질환입니다.</Text>	</GameDBLocalizedString>
 <!-- ++ v0.03.3 ++ -->
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR</LocID>						<Text>Heart transplant</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>			<Text>A heart transplant, or a cardiac transplant, is a surgical transplant procedure performed on patients with end-stage heart failure or severe coronary artery disease when other medical or surgical treatments have failed.</Text>	</GameDBLocalizedString>
-			
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR</LocID>						<Text>심장이식</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>			<Text>심장이식은 말기 심부전 또는 심각한 관상동맥 질환이 있는 환자에게 다른 의료 또는 외과적 치료가 실패했을 때 수행되는 외과적 이식 시술입니다.</Text>	</GameDBLocalizedString>
+
+
+
 		</LocalizedStrings>
     </GameDBStringTable>
 </Database>
