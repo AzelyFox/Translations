@@ -12,20 +12,20 @@
 
 			<!-- ================================================== Examen normal ================================================== -->
 <!-- v0.02 -->			      			
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Dexamethasone suppression test</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Dexamethasone suppression test - Testing</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>The dexamethasone suppression test (DST) is used to assess adrenal gland function by measuring how cortisol levels change in response to an injection of dexamethasone. It is typically used to diagnose Cushing's syndrome.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>ACTH stimulation test</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>ACTH stimulation test - Testing</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>The ACTH test (also called the cosyntropin, tetracosactide, or Synacthen test) is a medical test usually ordered and interpreted by endocrinologists to assess the functioning of the adrenal glands's stress response by measuring the adrenal response to adrenocorticotropic hormone (ACTH; corticotropin) or another corticotropic agent such as tetracosactide (cosyntropin, tetracosactrin; Synacthen) or alsactide (Synchrodyn). ACTH is a hormone produced in the anterior pituitary gland that stimulates the adrenal glands to release cortisol, dehydroepiandrosterone (DHEA), dehydroepiandrosterone sulfate (DHEA-S), and aldosterone. During the test, a small amount of synthetic ACTH is injected, and the amount of cortisol (and sometimes aldosterone) that the adrenals produce in response is measured. This test may cause mild side effects in some individuals.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>덱사메타손 억제 샘플링</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>덱사메타손 억제 시험</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>덱사메타손 억제 테스트(DST)는 덱사메타존의 주입에 반응하여 코티솔 수치가 어떻게 변화하는지 측정하여 부신 기능을 평가하는 데 사용됩니다. 그것은 일반적으로 쿠싱 증후군을 진단하는데 사용됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>코르티솔 자극 샘플링</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>코르티솔 자극 시험</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>ACTH 테스트는 부신피질성호르몬(ACTH; 코르티코트로핀) 또는 테트라코사와 같은 다른 피질성 물질에 대한 부신 반응을 측정하여 부신 스트레스 반응의 기능을 평가하기 위한 의학 테스트입니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03 -->
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>				<Text>Coombs test</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>				<Text>Coombs test - Testing</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>			<Text>A Coombs test, also known as antiglobulin test (AGT) is either of two blood tests used in immunohematology. They are the direct and indirect Coombs tests. The direct Coombs test detects antibodies that are stuck to the surface of the red blood cells.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>				<Text>쿰즈 검사 샘플링</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>				<Text>쿰즈 검사</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>			<Text>항글로불린 검사(AGT)라고도 알려진 쿰즈 검사는 면역혈액학에서 사용되는 두 가지 혈액 검사 중 하나입니다. 이는 적혈구 표면에 붙어 있는 항체를 검출합니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03.2 -->
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_SAMPLING</LocID>				<Text>Chromosome breakage</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_TESTING</LocID>				<Text>Chromosome breakage - Test</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>			<Text>Chromosome breakage analysis is a test for assessing genomic instability.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_SAMPLING</LocID>				<Text>염색체손상 샘플링</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_TESTING</LocID>				<Text>염색체손상 검사</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>			<Text>염색체손상 분석은 게놈의 불안정성을 평가하기 위한 시험입니다.</Text>	</GameDBLocalizedString>
 
 			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
 +++ v0.02 +++
