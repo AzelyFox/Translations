@@ -42,56 +42,56 @@
 
 			<!-- ================================================== Normaux ================================================== -->
 <!--  v0.02  -->		
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Androgen replacement therapy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>Androgen replacement therapy (ART), often referred to as testosterone replacement therapy (TRT), is a form of hormone therapy in which androgens, often testosterone, are replaced. ART is often prescribed to counter the effects of male hypogonadism.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Dopaminergic agonist</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>A dopamine receptor agonist (DA) is a compound that activates dopamine receptors. There are two families of dopamine receptors, D2-like and D1-like, and they are all G protein-coupled receptors. D1- and D5-receptors belong to the D1-like family and the D2-like family includes D2, D3 and D4 receptors. The DA are used in Parkinson’s disease and, to a lesser extent, to treat depression, hyperprolactinemia and restless leg syndrome.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Hydrocortisone - Fluorocortisone</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>Association of hydrocortisone and fluocortisone.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>Vitamin D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>안드로겐 보충 요법</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>안드로겐 보충요법은 안드로겐, 종종 테스토스테론 대체요법으로 불리는 호르몬 요법의 한 형태입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>도파민작용제</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>도파민 수용체 작용제(DA)는 도파민 수용체를 활성화시키는 화합물입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>하이드로코르티손/플루드로코티손</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>부신 생식기 증후군, 자세 저혈압, 부신 기능 부전을 치료하는 데 사용되는 코르티코 스테로이드입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>비타민 D</Text>	</GameDBLocalizedString>
 <!--  v0.03  -->		
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>								<Text>Monoclonal antibodies</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>					<Text>Monoclonal antibodies (mAb or moAb) are antibodies that are made by identical immune cells that are all clones of a unique parent cell. Monoclonal antibodies can have monovalent affinity, in that they bind to the same epitope (the part of an antigen that is recognized by the antibody).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>										<Text>Trivalent cation chelator</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>							<Text>A trivalent cation chelator is capable of fixing free iron from plasma or cells to form the ferrioxamine complex.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>								<Text>단클론 항체</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>					<Text>단클론 항체는 모세포의 복제인 동일한 면역세포에 의해 생성되는 항체입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>										<Text>3가 양이온 킬레이트제</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>							<Text>3가 양이온 킬레이트제는 혈장 또는 세포로부터 유리된 철을 고정시켜 페리옥사민 복합체를 형성할 수 있습니다.</Text>	</GameDBLocalizedString>
 <!--  v0.03.2  -->		
 			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP</LocID>													<Text>GBI</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>										<Text>Glycolipid Biosynthesis Inhibitors prevent glycolipid synthesis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>										<Text>당지질 생합성 저해제는 당지질의 합성을 방해합니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>										<Text>ERT</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>							<Text>Enzyme replacement therapy (ERT) is a medical treatment which replaces an enzyme that is deficient or absent in the body.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>											<Text>Phlebotomy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>								<Text>The surgical opening or puncture of a vein in order to withdraw blood, to introduce a fluid, or (historically) when letting blood.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>									<Text>Danaparoid sodium</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>						<Text>Danaparoid sodium is an anticoagulant with an antithrombotic action due to inhibition of thrombin generation (TGI) by two mechanisms: indirect inactivation of Factor Xa via AT and direct inhibition of thrombin activation of Factor IX (an important feedback loop for thrombin generation).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>							<Text>효소대체요법은 신체에 결핍되거나 부족한 효소를 대체하는 의학적 치료법입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>											<Text>정맥절개술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>								<Text>혈액을 빼내거나 액체 주입을 위해 정맥을 외과적으로 절개하는 수술입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>									<Text>다나파로이드 나트륨</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>						<Text>다나파로이드 나트륨은 AT를 통한 Xa 인자의 간접적 불활성화 및 IX 인자의 직접적 트롬빈 활성화(트롬빈 생성을 위한 중요한 피드백 루프)의 두 가지 메커니즘에 의한 트롬빈 생성 억제(TGI)로 인한 항혈전 작용을 하는 항응고제입니다.</Text>	</GameDBLocalizedString>
 
 			<!-- ================================================== Chirurgie ================================================== -->
 
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Valve replacement</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>Valve replacement surgery is the replacement of one or more of the heart valves with either an artificial heart valve or a bioprosthesis.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Pace-Maker</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>A cardiac pacemaker (or artificial pacemaker, so as not to be confused with the natural pacemaker of the heart), is a medical device that generates electrical impulses delivered by electrodes to cause the heart muscle chambers (the upper, or atria and/or the lower, or ventricles) to contract and therefore pump blood; by doing so this device replaces and/or regulates the function of the electrical conduction system of the heart.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Implantable cardioverter-defibrillator</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>An implantable cardioverter-defibrillator (ICD) or automated implantable cardioverter defibrillator (AICD) is a device implantable inside the body, able to perform cardioversion, defibrillation, and (in modern versions) pacing of the heart. The device is therefore capable of correcting most life-threatening cardiac arrhythmias. The ICD is the first-line treatment and prophylactic therapy for patients at risk for sudden cardiac death due to ventricular fibrillation and ventricular tachycardia. Current devices can be programmed to detect abnormal heart rhythms and deliver therapy via programmable antitachycardia pacing in addition to low-energy and high-energy shocks.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Revascularization</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>Vascular bypass and angioplasty are the two primary means of revascularization.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Fasciotomy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>Fasciotomy or fasciectomy is a surgical procedure where the fascia is cut to relieve tension or pressure commonly to treat the resulting loss of circulation to an area of tissue or muscle.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Stent</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Exclusion of the aneurysmal area from the circulatory flow by interposition of a vascular prosthesis. In the graft flattening, the prosthetic tube is sutured both above and below the aneurysm in order to reconstruct the artery.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>판막치환술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>판막 교체 수술은 인공 심장 판막이나 생물을 이용하여 심장 판막을 교체하는 수술입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>심장박동기</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>심장의 전기적 자극이 병적인 상태로 발생하지 않거나, 혹은 심실로 잘 전해지지 않을 때 사용합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>이식형 심폐재세동기</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>이식형 심폐소생술기는 심장의 재생, 제세동, 심장 박동을 수행할 수 있는 신체 내부에 이식 가능한 장치입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>혈관재건술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>혈관성형술과 혈관우회술은 혈관재형성의 두 가지 주요 수단입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>근막절개술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>근막절제술은 근막을 절개하여 긴장이나 압력을 완화시키는 수술이다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>스텐트</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>스텐트라 불리는 혈관 보철물에 의해 순환 흐름에서 기능을 회복시킵니다.</Text>	</GameDBLocalizedString>
 <!-- v0.02 -->		
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Adrenalectomy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Surgical removal of one or both adrenal glands.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Surgical excision</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Surgical excision</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>An excision is a surgical procedure consisting in removing from the organism an element which is harmful or useless to it.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Thyroidectomy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>Surgical removal of the thyroid gland.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>부신절제술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>한쪽 또는 양쪽 부신을 외과적으로 제거하는 수술입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>외과적 절제술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>외과적 절제술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>외과절 절제술은 유기체에서 유해하거나 쓸모없는 요소를 제거하는 수술 절차입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>갑상샘절제술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>외과적으로 갑상샘을 절제하는 수술입니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03 -->		
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>											<Text>Splenectomy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>									<Text>Surgical removal of the spleen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>											<Text>비장절제술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>									<Text>외과적으로 비장을 절제하는 수술입니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03.2 -->		
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>											<Text>Stereotactic</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>								<Text>Stereotactic neurosurgery is the technique for locating targets of surgical interest within the brain relative to an external frame of reference.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>											<Text>정위수술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>								<Text>정위수술은 외부 기준 프레임에 대해 뇌 내에서 외과적 관심 대상을 찾는 기술입니다.</Text>	</GameDBLocalizedString>
 
 		</LocalizedStrings>
     </GameDBStringTable>

@@ -11,40 +11,40 @@
         <LocalizedStrings>
 		
 			<!-- ================================================== From CRP  ================================================== -->
-	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>Splenomegaly</Text>	</GameDBLocalizedString>
-	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>Hypercalcemia</Text>	</GameDBLocalizedString>
-	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>Severe Hypercalcemia</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>비장비대</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>고칼슘혈증</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>심각한 고칼슘혈증</Text>  </GameDBLocalizedString>
 	
 			<!-- ================================================== Normaux ================================================== -->	
 <!--  v0.01  -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>Systolic heart murmurs</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>Systolic heart murmurs are heart murmurs heard during systole. The systole is the part of the cardiac cycle during which some chambers of the heart muscle contract after refilling with blood.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>Diastolic heart murmurs</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>Diastolic heart murmurs are heart murmurs heard during diastole. Diastole is the part of the cardiac cycle during which the heart refills with blood after the emptying done during systole (contraction).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>LVH</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>Left ventricular hypertrophy (LVH) is thickening of the heart muscle of the left ventricle of the heart, that is, left-sided ventricular hypertrophy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>심장 수축기 잡음</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>수축기 심장 잡음은 수축기 동안 들리는 심장 잡음입니다. 수축기는 혈액을 보충한 후 심장 근육의 일부 방이 수축하는 심장 주기의 부분입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>심장 확장기 잡음</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>확장기 심장 잡음은 확장기 동안 들리는 심장 잡음입니다. 확장기(diastole)는 수축기(수축기) 동안 수행된 비운 후 심장이 혈액으로 다시 채워지는 심장 주기의 일부입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>좌심실비대</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>좌심실비대증(LVH)은 심장의 좌심실 심장근육이 두꺼워지는 현상, 즉 좌심실비대증이다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3</LocID>												<Text>S1Q3</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>Abbreviation which means “S wave in DI and Q wave in DIII” at the ECG. It translates a dextrorotation - physiological or pathological - along the longitudinal axis of the heart, which brings the right ventricle further forward and to the right of the left ventricle. This sign, alone or in combination with other ECG signs, is sometimes used to reinforce a hypothesis of pulmonary embolism.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>Wells score positive</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>This is a diagnostic score for pulmonary embolism.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>Positive Geneva score</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>This is a diagnostic score for pulmonary embolism and deep vein thrombosis.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>High D-dimer</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>D-dimers are produced by the breakdown of fibrin, a protein involved in blood clotting. The doctor prescribes a dosage of D-dimers if he suspects the presence of blood clots.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>High BNP</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>BNP (Brain natriuretic peptide), is a neuro-hormone synthesized by heart cells called cardiomyocytes in response to an increase in blood pressure, especially during the development of heart failure.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>Compartment syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>Compartment syndrome is a condition in which increased pressure within one of the body's anatomical compartments results in insufficient blood supply to tissue within that space. There are two main types: acute and chronic. Compartments of the leg or arm are most commonly involved.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>Para-umbilical mass</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>Perception of a swinging and expansive para-umbilical mass.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>Mesenteric ischemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>Mesenteric ischemia is a medical condition in which injury to the small intestine occurs due to not enough blood supply. \n\nRequired room: Operating room at General Surgery dpt + ICU</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>심전도(ECG)에서 "DI에서의 S파 및 DII에서의 Q파"를 뜻하는 약어입니다. 심장의 세로축을 따라 생리학적으로든 병리학적으로든 덱스트로로테이션을 변환하여 우심실을 좌심실의 더 앞쪽으로, 그리고 우심실을 더 오른쪽으로 이동시킵니다. 이 징후는 단독으로 또는 다른 심전도 징후와 함께 폐색전증 가설을 강화하는 데 사용되기도 합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>임상 지표 양성</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>폐색전증 진단 점수입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>제네바 점수 양성</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>폐색전증 및 심정맥혈전증 진단 점수입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>높은 D-이합체</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>D-이합체는 혈액 응고에 관여하는 단백질인 섬유소의 분해에 의해 생성됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>높은 BNP</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>BNP(뇌나트륩이뇨펩타이드)는 특히 심부전이 진행되는 동안 혈압 상승에 반응하여 심근세포라고 불리는 심장 세포에 의해 합성되는 신경 호르몬입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>구획증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>구획증후군은 신체의 해부학적 구획 중 하나에서 압력이 증가하면 그 공간 내의 조직에 혈액 공급이 불충분한 상태를 말합니다. 급성 및 만성으로 두 가지로 나뉩니다. 다리나 팔에서의 증상이 가장 일반적입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>배꼽주위 덩어리</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>흔들리고 팽창하는 배꼽주위 덩어리가 존재합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>장간막 허혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>장간막 허혈은 혈액 공급이 충분하지 않은 까닭에 소장에 장애가 발생하는 질병입니다. \n\nRequired room: Operating room at General Surgery dpt + ICU</Text>	</GameDBLocalizedString>
 <!-- v0.02 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>Pituitary adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>Discovery of a pituitary adenoma on MRI. This doesn't provide information on the secreting nature or not of it.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>뇌하수체 선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>MRI에서 뇌하수체 선종이 발견되었습니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03.2 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>									<Text>Brain abscess</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>						<Text>Brain abscess (or cerebral abscess) is an abscess caused by inflammation and collection of infected material, coming from local (ear infection, dental abscess, infection of paranasal sinuses, infection of the mastoid air cells of the temporal bone, epidural abscess) or remote (lung, heart, kidney etc.) infectious sources, within the brain tissue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>									<Text>뇌농양</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>						<Text>뇌농양은 뇌 조직 내의 국소적 감염원(귀 감염, 치아농양, 부비강 감염, 측두골 유양성 공기세포 감염, 경막외 농양 등) 또는 원격 감염원(폐, 심장, 신장 등)에서 발생하는 염증과 감염된 물질의 수집에 의해 발생하는 농양입니다.</Text>	</GameDBLocalizedString>
 
 
 			<!-- ================================================== CRP - translate and transfer to CRP ==================================================	
@@ -115,188 +115,188 @@
 			
 			<!-- ================================================== Main ================================================== -->	
 <!--  v0.01  -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>Aortic stenosis</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>Decrease in diameter of the aortic valve.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>Aortic insufficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>Insufficient aortic valve.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>Severe hypertension</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>Severe hypertension, rapid onset.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>Reflex syncope</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>It is a neurovegetative reflex of arterial hypotension with more or less marked bradycardia following a stimulus.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>Positive test</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>Orthostatic hypotension test returned positive.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>Conduction disorder</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>Complete paroxysmal blockage of the intracardiac conduction.</Text>	</GameDBLocalizedString>	
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>Prodromes</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>The signs and symptoms that precede syncope are called prodromes. Lipothymia can be summed up as an imminent feeling of fainting.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>대동맥 협착</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>대동맥 판막의 직경이 감소합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>대동맥 부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>대동막 부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>심한 고혈압</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>심한 고혈압과 급작스러운 발진입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>반사성 실신</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>자극 후에 다소 두드러지는 느린 맥으로 대표되는 동맥 저혈압의 반사성 실신입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>검사 양성</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>기립저혈압 검사에서 양성이 나왔습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>전도 장애</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>심장 내 전도가 완벽히 차단되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>전구증상</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>실신 전에 나타나는 징후와 증상을 전구증이라고 합니다. 이는 곧 기절할 것 같은 느낌으로 대표됩니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>AF</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>The diagnosis of AF can only be confirmed on an ECG trace. This shows an absence of visible P wave and the most often irregular QRS.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>심전도를 이용한 검사 결과 AF 진단이 나왔습니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>SAB</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>Sino-Atrial Block (SAB) is a complete interruption of intra-atrial conduction after certain sinus impulses.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>AVB3</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>The 3rd degree Atrioventricular Block is a complete and permanent interruption of the transmission of atrial impulses to the ventricles..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>동방차단(SA block)은 심방 내 전도가 완전히 중단되는 것입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>AVB III</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>방실차단(AV block)의 3번째 단계는 심장 박동이 심실로 전혀 전달되지 않음을 의미합니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>LBBB</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>Typical appearance of LBBB at ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>심전도 결과 LBBB가 확인됩니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>VT</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>Typical appearance of VT at ECG.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>QT extension</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>Extension of the QT space at the ECG.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>JT</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>									<Text>Junctional Tachycardia (JT) is a heterogeneous group of tachycardias whose circuit begins or necessarily passes through the atrioventricular junction.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA</LocID>											<Text>Delta wave</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>								<Text>Impasto and slowing of the initial part of the QRS complex in connection with pre-excitation of the ventricle by an accessory bundle.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>								<Text>Altered LVEF</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>					<Text>The Left Ventricle Ejection Fraction (LVEF) is the percentage of blood ejected from the left ventricle.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>								<Text>Altered RVEF</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>					<Text>The Right Ventricle Ejection Fraction (RVEF) is the percentage of blood ejected from the right ventricle.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS</LocID>												<Text>Low SPI</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>									<Text>Systolic Pressure Index (SPI) is less than 0.9. IPS is based on the collection of systolic pressures from the lower and humeral limbs and the establishment of an ankle pressure / humeral pressure ratio.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>											<Text>AAA</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>								<Text>Abdominal Aortic Aneurysm (AAA) discovered.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>										<Text>Popliteal aneurysm</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>							<Text>Popliteal artery aneurysm discovered.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>									<Text>Celiac occlusion</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>						<Text>Occlusion of the celiac artery and mesenteric arteries.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>											<Text>Upper limb tissue ischemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>								<Text>Ischemia is the cessation or insufficiency of blood circulation in a part of the body or an organ, which deprives the cells of oxygen supply and causes their necrosis. Ischemia can be due to blockage of a vessel (thrombosis) or compression of an artery (stenosis).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>											<Text>Lower limb tissue ischemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>								<Text>Ischemia is the cessation or insufficiency of blood circulation in a part of the body or an organ, which deprives the cells of oxygen supply and causes their necrosis. Ischemia can be due to blockage of a vessel (thrombosis) or compression of an artery (stenosis).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>									<Text>Occlusion of mesenteric arteries</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>						<Text>It is an acute arterial occlusion or low flow.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>									<Text>AAA ruptured</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>						<Text>Ruptured abdominal aortic aneurysm.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>									<Text>IAA ruptured</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>						<Text>Rupture of a common iliac artery aneurysm.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>심전도 결과 VT가 확인됩니다.Typical appearance of VT at ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>QT 확장</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>심전도 결과 QT 확장이 확인됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>방실경계빠른맥</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>									<Text>방실경계빠른맥(JT)은 회로가 시작되거나 반드시 방실 접합부를 통과하는 이질성 빈맥군이다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA</LocID>											<Text>델타파</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>								<Text>부속품 다발에 의한 심실의 사전 들뜸과 연관된 QRS 복합체의 초기 부분의 충격 및 속도 저하가 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>								<Text>LVEF 변화</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>					<Text>LVEF는 좌심실에서 배출되는 혈액의 백분율을 의미합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>								<Text>RVEF 변화</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>					<Text>RVEF는 우심실에서 배출되는 혈액의 백분율을 의미합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS</LocID>												<Text>낮은 SPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>									<Text>수축기압지수(SPI)가 0.9보다 작습니다. IPS는 하지와 상완골의 수축기압의 수집과 발목압력/상완골압력의 확립에 기초합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>											<Text>복부 대동맥류</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>								<Text>복부 대동맥류(AAA)가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>										<Text>상완동맥류</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>							<Text>상완동맥류가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>									<Text>셀리악 폐색</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>						<Text>실리악 동맥과 장간막 동맥의 폐색입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>											<Text>상지조직 허혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>								<Text>허혈은 혈관이 막히거나 동맥이 압박되어 발생할 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>											<Text>하지조직 허혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>								<Text>허혈은 혈관이 막히거나 동맥이 압박되어 발생할 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>									<Text>장간막동맥 폐색</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>						<Text>급성 동맥 폐색 또는 흐름이 낮은 것을 의미합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>									<Text>복부 대동맥류 파열</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>						<Text>복부 대동맥류가 파열되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>									<Text>장골 동맥류 파열</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>						<Text>일반적인 장골 동맥류 파열입니다.</Text>	</GameDBLocalizedString>
 <!-- v0.02 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO</LocID>											<Text>Low bioavailable testosterone</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>								<Text>Significant drop in circulating testosterone.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>								<Text>Prolactinoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>								<Text>Prolactinoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>						<Text>Discovery of a prolactinoma on MRI.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>							<Text>Somatotropic adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>				<Text>No braking during the "minute" brake test.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>						<Text>Corticotropic adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>						<Text>Corticotropic adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>				<Text>The test is in favor of the diagnosis of non-curable hypercortisolism if the cortisolemia does not drop below the threshold of 18 ng / ml [50 nmol / l]</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>							<Text>Thyrotropic adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>				<Text>Discovery of central hyperthyroidism at the blood test. This is characterized by a high concentration of thyroid hormones associated with a normal high or abnormal concentration of TSH.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>						<Text>Panhypopituitarism</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>						<Text>Panhypopituitarism</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>				<Text>Discovery of a pituitary adenoma that prevents the proper functioning of the pineal gland on MRI.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_F</LocID>										<Text>Peripheral adrenal insufficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_H</LocID>										<Text>Peripheral adrenal insufficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>								<Text>Discovery of peripheral adrenal insufficiency during the Synacthene test. This is characterized by a low cortisol level associated with a high concentration of ACTH.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_F</LocID>										<Text>21-OH deficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_H</LocID>										<Text>21-OH deficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>								<Text>It is accepted by the entire endocrinologist community that the diagnosis of D21OH-NC is based on the dosage of 17OHP in the morning and at best in the first part of the cycle. The sample must be taken in the absence of or at a distance from treatment with glucocorticoids, since even "substitute" treatment and a fortiori pharmacological treatment introduces a risk of ignoring the diagnosis (false negative) by inhibiting the corticotropic axis. The sampling for the determination of 17OHP must also be done in the morning, because if it is done in the afternoon, the concentration of 17OHP can be found within the normal range in a patient with D21OH-NC simply because of fluctuations nycthemeral of adrenal cortical function.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>									<Text>Central adrenal insufficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>						<Text>Discovery of central adrenal insufficiency during the Synacthene test. This is characterized by low cortisol levels associated with a low or abnormally normal concentration of ACTH.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>									<Text>Anti-CASR Ab</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>						<Text>Discovery of anti-CASR antibody during the ELISA test.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>							<Text>Parathyroid adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>				<Text>Parathyroid adenoma fixing to scintigraphy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO</LocID>											<Text>낮은 생체이용 테스토스테론</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>								<Text>순환하는 테스토스테론의 현저한 감소입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>								<Text>프로락틴종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>								<Text>프로락틴종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>						<Text>MRI 검사 결과 프로락틴종이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>							<Text>성장호르몬선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>				<Text>"분" 브레이크 테스트에서 브레이크가 작용하지 않았습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>						<Text>부신피질자극호르몬 분비선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>						<Text>부신피질자극호르몬 분비선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>				<Text>이는 피질혈증이 18 ng/ml의 임계값 아래로 떨어지지 않는 경우 진단됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>							<Text>갑상선자극호르몬 분비선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>				<Text>혈액 검사에서 중추성 갑상선 기능 항진증이 발견되었습니다. 이는 TSH의 정상적 고농도 또는 비정상적 농도와 관련된 고농도의 갑상선 호르몬이 특징입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>						<Text>범뇌하수체저하증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>						<Text>범뇌하수체저하증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>				<Text>MRI에서 송과선의 적절한 기능을 방해하는 뇌하수체 선종이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_F</LocID>										<Text>말초부신부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_H</LocID>										<Text>말초부신부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>								<Text>테스트 중 말초 부신 기능 부전이 발견되었습니다. 이는 고농도의 ACTH와 관련된 낮은 코르티솔 수치로 특징지어집니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_F</LocID>										<Text>21-OH 결핍</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_H</LocID>										<Text>21-OH 결핍</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>								<Text>21-OH 결핍이 확인되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>									<Text>중추부신부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>						<Text>테스트 중 중추 부신 기능 부전이 발견되었습니다. 이는 ACTH의 낮거나 비정상적인 농도와 낮은 코르티솔 수치로 특징지어집니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>									<Text>CaSR항체</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>						<Text>ELISA검사 결과 CaSR 항체가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>							<Text>부갑상샘종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>				<Text>부갑상샘종이 발견되었습니다.</Text>	</GameDBLocalizedString>
 			
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN</LocID>											<Text>Adrenal adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>								<Text>Discovery of an adrenal adenoma secreting on CT.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN</LocID>										<Text>Adrenal hypertrophy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>							<Text>Increase in size of the adrenal gland on CT scan.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME</LocID>									<Text>Inappropriate secretion</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>Inappropriate (normal or high) insulin and peptide C secretion in hypoglycaemia.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP</LocID>										<Text>Pancreatic hypoglycemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>Hypoglycemia of pancreatic origin not linked to an insulin-secreting adenoma.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>								<Text>White scintigraphye</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>					<Text>Abscence of fixation with scintigraphy.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>					<Text>"Checkerboard" scintigraphy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>		<Text>Alternating hot and cold beaches (checkerboard) with scintigraphy.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>Toxic adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>Hyperfixation of the isotope at the level of the nodule while the rest of the parenchyma is hypofixant or cold or "extinct" (due to the decrease in TSH), on scintigraphy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN</LocID>											<Text>부신샘종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>								<Text>CT검사 결과 부신샘종이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN</LocID>										<Text>부신비대증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>							<Text>CT검사 결과 부신비대증이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME</LocID>									<Text>인슐린 분비 이상</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>저혈당 혈증에서 인슐린 및 펩타이드 C 분비가 부적절합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP</LocID>										<Text>췌장저혈당증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>췌장 기원의 저혈당은 인슐린을 분비하는 선종과 관련이 없습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>								<Text>섬광조영술(백색)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>					<Text>섬광조영술 결과 백색 이미지가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>					<Text>섬광조영술(체스판)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>		<Text>섬광조영술 결과 체스판 이미지가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>중독성 선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>섬광조영술에서 동위원소가 결절 수준에서 과고정되는 동안 나머지 실질조직은 저고정, 저온 또는 멸종됩니다.</Text>	</GameDBLocalizedString>
 
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>								<Text>Hyperosmolality</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>					<Text>An unusually high osmolality.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE</LocID>										<Text>Ketonemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>							<Text>An excess of ketones in the blood.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>								<Text>고삼투질농도</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>					<Text>비정상적으로 삼투질 농도가 높습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE</LocID>										<Text>케톤혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>							<Text>혈중 케톤이 과다합니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D</LocID>										<Text>Low PBG-D</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D_DESCRIPTION</LocID>							<Text>Porphobilinogen deaminase (hydroxymethylbilane synthase, or uroporphyrinogen I synthase) is an enzyme that in humans is encoded by the HMBS gene. Porphobilinogen deaminase is involved in the third step of the heme biosynthetic pathway.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE</LocID>								<Text>Spherocyte</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</LocID>					<Text>Discovery of spherocytes in the blood smear.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI</LocID>								<Text>Low GPI</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</LocID>					<Text>Glucose-6-phosphate isomerase (GPI), alternatively known as phosphoglucose isomerase/phosphoglucoisomerase (PGI) or phosphohexose isomerase (PHI), is an enzyme that in humans is encoded by the GPI gene on chromosome 19. In the cytoplasm, the gene product functions as a glycolytic enzyme (glucose-6-phosphate isomerase) that interconverts glucose-6-phosphate (G6P) and fructose-6-phosphate (F6P).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD</LocID>								<Text>Low G6PD</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</LocID>					<Text>Glucose-6-phosphate dehydrogenase (G6PD or G6PDH) is a cytosolic enzyme that helps protect the red blood cells against oxidative damage from compounds like hydrogen peroxide.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS</LocID>									<Text>Low PK</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS_DESCRIPTION</LocID>						<Text>Pyruvate kinase is the enzyme involved in the last step of glycolysis.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D</LocID>								<Text>Coombs +</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</LocID>					<Text>The Coombs test is positive.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13</LocID>							<Text>Low ADAMTS13</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</LocID>				<Text>ADAMTS13 (a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13)—also known as von Willebrand factor-cleaving protease (VWFCP)—is a zinc-containing metalloprotease enzyme that cleaves von Willebrand factor (vWf), a large protein involved in blood clotting.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_A</LocID>								<Text>Drepanocyte</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_C</LocID>								<Text>Drepanocyte</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</LocID>					<Text>Discovery of drepanocytes in the blood smear.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF</LocID>										<Text>Low vWF</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF_DESCRIPTION</LocID>							<Text>von Willebrand factor (VWF) (/ˌfʌnˈvɪlɪbrɑːnt/) is a blood glycoprotein involved in hemostasis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D</LocID>										<Text>낮은 PBG-D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D_DESCRIPTION</LocID>							<Text>PBG-D 수치가 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE</LocID>								<Text>스페로사이트</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</LocID>					<Text>혈액검사 결과 스페로사이트가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI</LocID>								<Text>낮은 GPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</LocID>					<Text>GPI 수치가 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD</LocID>								<Text>낮은 G6PD</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</LocID>					<Text>G6PD 수치가 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS</LocID>									<Text>낮은 PK</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS_DESCRIPTION</LocID>						<Text>PK 수치가 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D</LocID>								<Text>Coombs 양성</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</LocID>					<Text>Coombs 검사 결과 양성입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13</LocID>							<Text>낮은 ADAMTS13</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</LocID>				<Text>ADAMTS13 수치가 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_A</LocID>								<Text>낫적혈구</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_C</LocID>								<Text>낫적혈구</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</LocID>					<Text>혈액검사 결과 낫적혈구혈증이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF</LocID>										<Text>낮은 vWF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF_DESCRIPTION</LocID>							<Text>vWF 수치가 낮습니다.</Text>	</GameDBLocalizedString>
 
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS</LocID>							<Text>Purpura fulminans</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>				<Text>Purpura fulminans discovered.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE</LocID>							<Text>DIC decompensated</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE_DESCRIPTION</LocID>				<Text>DIC discovered.</Text>	</GameDBLocalizedString>
 <!-- v0.03.2 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE</LocID>								<Text>NPC1 muté</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</LocID>					<Text>The proteins NPC1 and NPC2 seem to work at the level of the endo-lysosomal system to facilitate the intracellular transport of cholesterol and other molecules, but their precise function is not yet known.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE</LocID>								<Text>NPC1 무반응</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</LocID>					<Text>단백질 NPC1과 NPC2는 콜레스테롤과 다른 분자의 세포 내 이동을 촉진하기 위해 내용리소말계 수준에서 작용하는 것으로 보이지만, 이들의 정확한 기능은 아직 알려져 있지 않습니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE</LocID>								<Text>HE - IgE</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</LocID>					<Text>Hyperososinophilia and elevated total IgE.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K</LocID>								<Text>Test +</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</LocID>					<Text>Chromosome breakage analysis is positive.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES</LocID>					<Text>Macrothrombocytes</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</LocID>		<Text>More than 10% of the platelets studied are giant.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3</LocID>						<Text>Abnormal integrin</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</LocID>			<Text>Quantitative and / or qualitative anomalies of the integrin alphaIIb beta3 are found.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP</LocID>							<Text>RP Mutations</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>				<Text>Ribosomal proteins (RPs) from either the small (RPS7, RPS17, RPS19, RPS24) or the large (RPL5, RPL11, RPL35a) ribosomal subunit are mutated.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>					<Text>Glucocerebrosidase deficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</LocID>		<Text>Low glucocerebrosidase level leading to accumulation of glucosylceramide deposits.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A</LocID>						<Text>SH2D1A mutation </Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</LocID>			<Text>Mutation of the SH2D1A gene which is located on the X chromosome. This gene codes for a protein called SAP (signalling lymphocyte activation molecular [SLAM] associated protein).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE</LocID>							<Text>Sideroblast</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</LocID>				<Text>Sideroblasts have been found. These are iron-containing granulations stained with Perls's reagent, corresponding to aggregates of ribosomes and ferritin.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE</LocID>					<Text>Erythroblast</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE_DESCRIPTION</LocID>		<Text>Low erythroblast rate.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C</LocID>							<Text>Hemoglobin  C</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type C with a blood smear.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D</LocID>							<Text>Hemoglobin  D</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type D with a blood smear.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E</LocID>							<Text>Hemoglobin  E</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type E with a blood smear.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M</LocID>							<Text>Hemoglobin  M</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type M with a blood smear.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON</LocID>					<Text>Triad</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</LocID>		<Text>Classical triad of dysphagia, iron-deficiency anemia and esophageal webs.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG</LocID>					<Text>Mutation</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</LocID>		<Text>A mutation in one of the two ACVRL or ENG genes involved in the TGF-beta signaling pathway has been found.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL</LocID>							<Text>Coombs +</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL_DESCRIPTION</LocID>				<Text>The Coombs test is positive.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE</LocID>								<Text>HFE mutation</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</LocID>					<Text>The HFE gene located on chromosome 6 is mutated. Two types of alterations exist: the C282Y mutation and the H63D mutation.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP</LocID>						<Text>Mutation</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</LocID>			<Text>Mutations in the gene coding for hemojuvelin (HJV) on chromosome 1 or mutations in the gene coding for hepcidin (HAMP) on chromosome 19 have been found.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2</LocID>								<Text>TFR2 mutation</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</LocID>					<Text>Mutations in the transferrin receptor-2 (TFR2) gene on chromosome 7 have been found.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1</LocID>							<Text>SLC40A1 mutation</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</LocID>				<Text>Mutations in the SLC40A1 gene located on chromosome 2 which codes for ferroportin (FPN) have been found.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE</LocID>						<Text>Hypocellular bone marrow</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE_DESCRIPTION</LocID>			<Text>The bone marrow is hypocellular, it's "empty".</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</LocID>					<Text>하이포스포시노필리아 및 총 IgE가 증가했습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K</LocID>								<Text>염색체파괴분석 양성</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</LocID>					<Text>염색체 파괴 분석은 양성입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES</LocID>					<Text>대혈소판</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</LocID>		<Text>혈소판의 10% 이상이 직경이 과도하게 큽니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3</LocID>						<Text>인테그린 이상</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</LocID>			<Text>인테그린 알파의 정량적 및/또는 정성적 이상IIb 베타 3이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP</LocID>							<Text>리보솜단백질 변이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>				<Text>작은 단위(RPS7, RPS17, RPS19, RPS24) 또는 큰 단위(RPL5, RPL11, RPL35a)의 리보솜 단백질(RP)가 돌연변이되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>					<Text>글루코세레브로시데이스 결핍증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</LocID>		<Text>글루코실세라마이드 퇴적물의 축적으로 이어지는 낮은 글루코세레브로시데이스 수치입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A</LocID>						<Text>SH2D1A 변이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</LocID>			<Text>X 염색체에 위치한 SH2D1A 유전자의 돌연변이. 이 유전자는 SAP(SLAM 관련 단백질 신호 림프구 활성화 분자 관련 단백질입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE</LocID>							<Text>철아구</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</LocID>				<Text>철아구가 발견되었습니다. 이것들은 철과립을 함유한 유핵적혈구입니다. 정상적으로 골수에는 존재하지만 말초혈액에서는 보통 관찰되지 않습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE</LocID>					<Text>적혈모구 결핍</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE_DESCRIPTION</LocID>		<Text>적혈구를 만드는 세포인 적혈모구가 부족합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C</LocID>							<Text>헤모글로빈 C</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</LocID>				<Text>혈액 도말에서 C형 헤모글로빈이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D</LocID>							<Text>헤모글로빈 D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</LocID>				<Text>혈액 도말에서 D형 헤모글로빈이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E</LocID>							<Text>헤모글로빈 E</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</LocID>				<Text>혈액 도말에서 E형 헤모글로빈이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M</LocID>							<Text>헤모글로빈 M</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</LocID>				<Text>혈액 도말에서 M형 헤모글로빈이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON</LocID>					<Text>세동이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</LocID>		<Text>식도결핍성 빈혈과 식도줄의 전형적인 3가지 질병입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG</LocID>					<Text>TGF유전자 변이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</LocID>		<Text>TGF-베타 신호전달경로에 관여하는 2개의 ACVRL 또는 ENG 유전자 중 하나에서 돌연변이가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL</LocID>							<Text>Coombs 양성</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL_DESCRIPTION</LocID>				<Text>Coombs 테스트 결과 양성입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE</LocID>								<Text>HFE 변이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</LocID>					<Text>6번 염색체에 위치한 HFE 유전자가 돌연변이되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP</LocID>						<Text>HJV/HAMP 변이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</LocID>			<Text>염색체 1의 헤모쥬벨린(HJV)을 코드하는 유전자의 돌연변이 또는 염색체 19의 헵시딘(HAMP)을 코드하는 유전자의 돌연변이가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2</LocID>								<Text>TFR2 변이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</LocID>					<Text>7번 염색체 상의 트랜스페린 수용체-2(TFR2) 유전자의 돌연변이가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1</LocID>							<Text>SLC40A1 변이</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</LocID>				<Text>페로포르틴(FPN)을 코드하는 2번 염색체에 위치한 SLC40A1 유전자의 돌연변이가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE</LocID>						<Text>저세포 골수</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE_DESCRIPTION</LocID>			<Text>골수의 세포수가 낮거나 비어있습니다.</Text>	</GameDBLocalizedString>
 
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>				<Text>Thrombocytopenic purpura</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>	<Text>Symptoms suggestive of thrombocytopenic purpura.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>				<Text>혈소판감소성자반증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>	<Text>혈소판감소성자반증 증상이 발견되었습니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD</LocID>								<Text>DRESS</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</LocID>					<Text>Symptoms suggestive of DRESS syndrome.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P</LocID>					<Text>Anti-PF4 ab</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</LocID>		<Text>Anti-PF4 / heparin antibodies were detected by ELISA.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</LocID>					<Text>DRESS 증후군을 암시하는 징후가 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P</LocID>					<Text>Anti-PF4 항체</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</LocID>		<Text>ELISA 검사 결과 Anti-PF4 항체가 발견되었습니다..</Text>	</GameDBLocalizedString>
 <!-- v0.03.3 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF</LocID>									<Text>Very low cortisol</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</LocID>						<Text>The cortisol level in the blood is very low.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR</LocID>							<Text>Transplant</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>				<Text>This patient urgently needs a heart transplant!</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF</LocID>									<Text>매우 낮은 코르티솔</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</LocID>						<Text>혈중 코르티솔 비율이 매우 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR</LocID>							<Text>이식필요</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>				<Text>이 환자는 심장이식이 시급합니다!</Text>	</GameDBLocalizedString>
 				
 		</LocalizedStrings>
 

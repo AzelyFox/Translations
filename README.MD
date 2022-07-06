@@ -14,8 +14,12 @@
 </p>
 
 <p align="center">
-Game&Program Korean Translations Repository by LimeCake
+Software Korean Translations Repository by LimeCake
 </p>
+
+## Translated Software
+
+[Typora](https://github.com/typora/Typora-i18n)
 
 ## Translated Games
 
@@ -58,6 +62,3 @@ Game&Program Korean Translations Repository by LimeCake
 [Project Hospital / Sexual Health Department](/Project%20Hospital/Sexual%20Health%20Department)
 
 [Project Hospital / Urology Department](/Project%20Hospital/Urology%20Department)
-
-## License
-[Apache](LICENSE) © 2020 LimeCake <limecake23@gmail.com>
